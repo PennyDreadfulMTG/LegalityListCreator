@@ -7,13 +7,14 @@ import utility.FileConverter;
 import utility.SetOperator;
 
 public class ChangeAnalyzer {
-
-	//File holding the old legality list
-	final static String OLD_FILE_PATH = "EMN_legal_cards.txt";
-	//File holding the new one
-	final static String FILE_PATH = "legal_cards.txt";
 	
 	public static void main(String[] args) throws IOException{
+		
+		//File holding the old legality list, set to first argument from the command line
+		final String OLD_FILE_PATH = args[0];
+		//File holding the new one, set to second argument from the command line
+		final String NEW_FILE_PATH = args[1];
+		
 		//Read the lists to arrays so we can use them
 		ArrayList<String> oldList = FileConverter.readToArrayList(OLD_FILE_PATH);
 		ArrayList<String> newList = FileConverter.readToArrayList(FILE_PATH);
