@@ -2,10 +2,44 @@ package setup.cardlists;
 
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import utility.*;
+
+class CountCertaintyComparator implements Comparator<Map.Entry<String, Integer> > {
+	private int count;
+	
+	public CountCertaintyComparator(int count) {
+		if (count < 1)
+			count = 1;
+			
+		this.count = count;
+	}
+	
+	public int compare( Map.Entry<String, Integer> o1, Map.Entry<String, Integer> o2 ) {
+		int certainty1 = (o1.getValue().intValue() * 2) - count;
+		int certainty2 = (o2.getValue().intValue() * 2) - count;
+		int comparison = (Math.abs(certainty1) - Math.abs(certainty2));
+		// If card counts are exactly equal, sort alphabetically.
+		if (certainty1 == certainty2)
+		{
+			comparison = o1.getKey().compareTo(o2.getKey());
+		}
+		// If distance from 50% is the same, put low values before high, e.g. 25% before 75%
+		else if (comparison == 0)
+		{
+			comparison = certainty1 - certainty2;
+		}
+			
+		return comparison;
+	}
+}
 
 public class MakeAllCardsList {
 	
@@ -22,30 +56,42 @@ public class MakeAllCardsList {
 		
 		//In each loop, get a snapshot of all legal card and put it in a file, while also using a "count" file to track how many times you did this
 		count++;
-		FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run "+count+".txt");
+		ArrayList<String> snapshot = getLegalSnapshot(setAbbr);
+		FileConverter.writeFile(snapshot, "Run "+count+".txt");
 		FileConverter.writeFile(count, "count.txt");
+
+		// Update cumulative legal counts for each card
+		final String CUMULATIVE_COUNTS_FILENAME = "Cumulative Card Counts.txt";
+		Map<String, Integer> cumulativeCounts = FileConverter.readToNameCountMap(CUMULATIVE_COUNTS_FILENAME);
+		updateMap(snapshot, cumulativeCounts);
+		FileConverter.writeNameCountMapToFile(cumulativeCounts.entrySet(), CUMULATIVE_COUNTS_FILENAME);
+
+		// Sort cumulative counts by certainty, i.e. closest to 50% at the start, 0 and 100% at the end.
+		LinkedList<Map.Entry<String, Integer> > sorted_entries = new LinkedList<Map.Entry<String, Integer> >(cumulativeCounts.entrySet());
+		CountCertaintyComparator countCertaintyCmp = new CountCertaintyComparator(count);
+		Collections.sort(sorted_entries, countCertaintyCmp);
+		FileConverter.writeNameCountMapToFile(sorted_entries, "Sorted Card Certainty.txt");
 		
 		//On the last run only, after all lists have been created:
-		if (count == TIMES_CHECKED){
-			
-		//Makes a map of "card names -> # of times it was at 0.01 tix"
-		Map<String, Integer> timesLegalMap = new HashMap<String, Integer>();
-		
-		//Updates the map with each file that was previously written.
-		for (int c = 1; c <= TIMES_CHECKED; c++){
-			timesLegalMap = updateMap(FileConverter.readToArrayList("Run "+c+".txt"), timesLegalMap);
-		}
-		
-		//Add all cards that were 0.01 tix 50% or more of the time to an array
-		ArrayList<String> legalCards = new ArrayList<String>();
-		for (String card: timesLegalMap.keySet()){
-			if (timesLegalMap.get(card) >= TIMES_CHECKED/2)
-				legalCards.add(card);
-		}
-		
-		//Print the arrays out as usable, readable files
-		FileConverter.writeFile(legalCards, "Weeklong Legal Cards.txt");
-		System.out.println("File written!");
+		if (count == TIMES_CHECKED) {
+			//Makes a map of "card names -> # of times it was at 0.01 tix"
+			Map<String, Integer> timesLegalMap = new HashMap<String, Integer>();
+
+			//Updates the map with each file that was previously written.
+			for (int c = 1; c <= TIMES_CHECKED; c++){
+				timesLegalMap = updateMap(FileConverter.readToArrayList("Run "+c+".txt"), timesLegalMap);
+			}
+
+			//Add all cards that were 0.01 tix 50% or more of the time to an array
+			ArrayList<String> legalCards = new ArrayList<String>();
+			for (String card: timesLegalMap.keySet()){
+				if (timesLegalMap.get(card) >= TIMES_CHECKED/2)
+					legalCards.add(card);
+			}
+
+			//Print the arrays out as usable, readable files
+			FileConverter.writeFile(legalCards, "Weeklong Legal Cards.txt");
+			System.out.println("File written!");
 		}
 	}
 	
