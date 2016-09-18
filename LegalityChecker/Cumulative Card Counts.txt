@@ -1,0 +1,9414 @@
+Abandon Hope	0
+Abandoned Outpost	0
+Abattoir Ghoul	0
+Abbey Gargoyles	0
+Abduction	0
+Aberrant Researcher	0
+Abhorrent Overlord	0
+Abomination of Gudul	0
+About Face	0
+Absolute Grace	0
+Absolute Law	0
+Absolver Thrull	0
+Absorb Vis	0
+Abstruse Interference	0
+Abuna's Chant	0
+Abyssal Horror	0
+Abyssal Specter	0
+Abzan Advantage	0
+Abzan Ascendancy	0
+Abzan Banner	0
+Abzan Battle Priest	0
+Abzan Charm	0
+Abzan Falconer	0
+Abzan Guide	0
+Abzan Runemark	0
+Academy Elite	0
+Academy Raider	0
+Academy Researchers	0
+Accelerated Mutation	0
+Accorder Paladin	0
+Accorder's Shield	0
+Accursed Centaur	0
+Accursed Spirit	0
+Accursed Witch	0
+Acid Web Spider	0
+Acid-Spewer Dragon	0
+Acidic Slime	0
+Acidic Sliver	0
+Acidic Soil	0
+Acolyte of Xathrid	0
+Acolyte of the Inferno	0
+Acridian	0
+Act of Aggression	0
+Act of Treason	0
+Act on Impulse	0
+Adaptive Snapjaw	0
+Adarkar Sentinel	0
+Adarkar Windform	0
+Adder-Staff Boggart	0
+Addle	0
+Advanced Hoverguard	0
+Adverse Conditions	0
+Advice from the Fae	0
+Advocate of the Beast	0
+Aegis Angel	0
+Aeolipile	0
+Aerial Formation	0
+Aerial Maneuver	0
+Aerial Predation	0
+Aerial Volley	0
+Aerie Bowmasters	0
+Aerie Mystics	0
+Aerie Ouphes	0
+Aerie Worshippers	0
+Aeronaut Tinkerer	0
+Aether Adept	0
+Aether Charge	0
+Aether Figment	0
+Aether Flash	0
+Aether Membrane	0
+Aether Mutation	0
+Aether Shockwave	0
+Aether Snap	0
+Aether Spellbomb	0
+Aether Sting	0
+Aether Storm	0
+Aether Tide	0
+Aether Tradewinds	0
+Aether Web	0
+Aetherflame Wall	0
+Aetherplasm	0
+Aethersnipe	0
+Aethertow	0
+Affa Guard Hound	0
+Affa Protector	0
+Afflict	0
+Afflicted Deserter	0
+Afterlife	0
+Aftershock	0
+Agadeem Occultist	0
+Ageless Sentinels	0
+Agent of Horizons	0
+Agent of Masks	0
+Agent of the Fates	0
+Aggravate	0
+Aggressive Urge	0
+Agility	0
+Agonizing Demise	0
+Agonizing Memories	0
+Agoraphobia	0
+Agrus Kos, Wojek Veteran	0
+Aim High	0
+Ainok Artillerist	0
+Ainok Bond-Kin	0
+Ainok Guide	0
+Ainok Survivalist	0
+Ainok Tracker	0
+Air Elemental	0
+Air Servant	0
+Airborne Aid	0
+Ajani's Mantra	0
+Ajani's Presence	0
+Ajani's Sunstriker	0
+Akki Avalanchers	0
+Akki Coalflinger	0
+Akki Drillmaster	0
+Akki Lavarunner	0
+Akki Raider	0
+Akki Rockspeaker	0
+Akki Underling	0
+Akki Underminer	0
+Akoum Boulderfoot	0
+Akoum Flameseeker	0
+Akoum Hellkite	0
+Akoum Stonewaker	0
+Akrasan Squire	0
+Akroan Conscriptor	0
+Akroan Hoplite	0
+Akroan Horse	0
+Akroan Jailer	0
+Akroan Line Breaker	0
+Akroan Mastiff	0
+Akroan Phalanx	0
+Akroan Sergeant	0
+Akroan Skyguard	0
+Akroma's Blessing	0
+Akroma's Devoted	0
+Akron Legionnaire	0
+Alabaster Kirin	0
+Alabaster Mage	0
+Alabaster Potion	0
+Alaborn Musketeer	0
+Alaborn Trooper	0
+Aladdin's Ring	0
+Albino Troll	0
+Alchemist's Apprentice	0
+Alchemist's Refuge	0
+Alchemist's Vial	0
+Alchor's Tomb	0
+Alesha's Vanguard	0
+Algae Gharial	0
+Alhammarret, High Arbiter	0
+Aligned Hedron Network	0
+All Suns' Dawn	0
+Allay	0
+Allied Reinforcements	0
+Alloy Myr	0
+Alluring Scent	0
+Alluring Siren	0
+Alms of the Vein	0
+Alpha Authority	0
+Alpha Brawl	0
+Alpha Kavu	0
+Alpha Myr	0
+Alpha Status	0
+Alpha Tyrranax	0
+Alpine Grizzly	0
+Altac Bloodseeker	0
+Altar of Shadows	0
+Altar of the Lost	0
+Altar's Light	0
+Altar's Reap	0
+Amass the Components	0
+Ambassador Laquatus	0
+Ambassador Oak	0
+Ambition's Cost	0
+Ambuscade Shaman	0
+Ambush Krotiq	0
+Ambush Party	0
+Ambush Viper	0
+Amoeboid Changeling	0
+Amphibious Kavu	0
+Amphin Cutthroat	0
+Amphin Pathmage	0
+Ampryn Tactician	0
+Amrou Kithkin	0
+Amrou Scout	0
+Amrou Seekers	0
+Amulet of Kroog	0
+An-Zerrin Ruins	0
+Ana Battlemage	0
+Ana Sanctuary	0
+Anaba Ancestor	0
+Anaba Bodyguard	0
+Anaba Shaman	0
+Anaba Spirit Crafter	0
+Anaconda	0
+Anarchist	0
+Anathemancer	0
+Anax and Cymede	0
+Ancestor's Chosen	0
+Ancestral Statue	0
+Ancestral Vengeance	0
+Anchor to the Aether	0
+Ancient Carp	0
+Ancient Crab	0
+Ancient Hellkite	0
+Ancient Hydra	0
+Ancient Ooze	0
+Ancient Runes	0
+Ancient Silverback	0
+Andradite Leech	0
+Angel of Deliverance	0
+Angel of Flight Alabaster	0
+Angel of Fury	0
+Angel of Light	0
+Angel of Mercy	0
+Angel of Renewal	0
+Angel of Salvation	0
+Angel's Feather	0
+Angel's Herald	0
+Angel's Mercy	0
+Angel's Tomb	0
+Angel's Trumpet	0
+Angelheart Vial	0
+Angelic Accord	0
+Angelic Arbiter	0
+Angelic Armaments	0
+Angelic Benediction	0
+Angelic Blessing	0
+Angelic Captain	0
+Angelic Curator	0
+Angelic Edict	0
+Angelic Gift	0
+Angelic Page	0
+Angelic Protector	0
+Angelic Purge	0
+Angelic Shield	0
+Angelic Skirmisher	0
+Angelic Voices	0
+Angelic Wall	0
+Angry Mob	0
+Animal Boneyard	0
+Animal Magnetism	0
+Animate Artifact	0
+Animate Land	0
+Animate Wall	0
+Animist's Awakening	0
+Ankle Shanker	0
+Annex	0
+Annihilate	0
+Annihilating Fire	0
+Anodet Lurker	0
+Anoint	0
+Ant Queen	0
+Antagonism	0
+Anthem of Rakdos	0
+Anthousa, Setessan Hero	0
+Anticipate	0
+Antler Skulkin	0
+Anurid Barkripper	0
+Anurid Murkdiver	0
+Anurid Scavenger	0
+Anurid Swarmsnapper	0
+Anvilwrought Raptor	0
+Apathy	0
+Apes of Rath	0
+Apex Hawks	0
+Aphetto Alchemist	0
+Aphetto Grifter	0
+Aphetto Runecaster	0
+Aphetto Vulture	0
+Aphotic Wisps	0
+Apocalypse Hydra	0
+Apothecary Geist	0
+Apothecary Initiate	0
+Appetite for Brains	0
+Apprentice Wizard	0
+Aquamoeba	0
+Aquamorph Entity	0
+Aquastrand Spider	0
+Aqueous Form	0
+Aquitect's Will	0
+Aquus Steed	0
+Arachnoid	0
+Arachnus Spinner	0
+Arachnus Web	0
+Arashin Sovereign	0
+Arashin War Beast	0
+Arbalest Elite	0
+Arbiter of Knollridge	0
+Arbor Colossus	0
+Arc Lightning	0
+Arc Mage	0
+Arc Runner	0
+Arc Trail	0
+Arc-Slogger	0
+Arcades Sabboth	0
+Arcane Melee	0
+Arcane Spyglass	0
+Arcane Teachings	0
+Arcanum Wings	0
+Arcbound Bruiser	0
+Arcbound Fiend	0
+Arcbound Hybrid	0
+Arcbound Lancer	0
+Arcbound Slith	0
+Arcbound Stinger	0
+Arcbound Wanderer	0
+Arcbound Worker	0
+Archangel	0
+Archdemon of Unx	0
+Archers of Qarsi	0
+Archers' Parapet	0
+Archery Training	0
+Archetype of Aggression	0
+Archetype of Courage	0
+Archetype of Endurance	0
+Archetype of Finality	0
+Archetype of Imagination	0
+Archivist	0
+Archmage Ascension	0
+Archon of Redemption	0
+Archon of the Triumvirate	0
+Archweaver	0
+Archwing Dragon	0
+Arctic Aven	0
+Arctic Flats	0
+Arctic Merfolk	0
+Arctic Wolves	0
+Ardent Militia	0
+Ardent Soldier	0
+Arena Athlete	0
+Arena of the Ancients	0
+Argent Mutation	0
+Argent Sphinx	0
+Argivian Archaeologist	0
+Argivian Blacksmith	0
+Argothian Pixies	0
+Argothian Swine	0
+Argothian Treefolk	0
+Ark of Blight	0
+Arm with Aether	0
+Armament Master	0
+Armed // Dangerous	0
+Armed Response	0
+Armor Sliver	0
+Armor Thrull	0
+Armor of Faith	0
+Armor of Thorns	0
+Armored Ascension	0
+Armored Cancrix	0
+Armored Griffin	0
+Armored Pegasus	0
+Armored Skaab	0
+Armored Transport	0
+Armored Warhorse	0
+Armored Wolf-Rider	0
+Armory Guard	0
+Arms Dealer	0
+Army Ants	0
+Arrest	0
+Arrogant Bloodlord	0
+Arrow Storm	0
+Arrow Volley Trap	0
+Arrows of Justice	0
+Arsenal Thresher	0
+Artful Maneuver	0
+Artifact Blast	0
+Artificer's Epiphany	0
+Artificer's Hex	0
+Artillerize	0
+Artisan of Forms	0
+Artisan of Kozilek	0
+Artisan's Sorrow	0
+Ascended Lawmage	0
+Ascending Aven	0
+Ash Zealot	0
+Asha's Favor	0
+Ashcoat Bear	0
+Ashen Ghoul	0
+Ashen Monstrosity	0
+Ashen-Skin Zubera	0
+Ashenmoor Cohort	0
+Ashenmoor Gouger	0
+Ashiok's Adept	0
+Ashling's Prerogative	0
+Ashmouth Hound	0
+Ashnod's Cylix	0
+Ashnod's Transmogrant	0
+Aspect of Gorgon	0
+Aspect of Mongoose	0
+Asphodel Wanderer	0
+Asphyxiate	0
+Aspiring Aeronaut	0
+Assassin's Strike	0
+Assassinate	0
+Assault // Battery	0
+Assault Griffin	0
+Assault Zeppelid	0
+Assembly-Worker	0
+Assert Authority	0
+Astral Cornucopia	0
+Astral Slide	0
+Astral Steel	0
+Astrolabe	0
+Atarka Beastbreaker	0
+Atarka Efreet	0
+Atarka Monument	0
+Atarka Pummeler	0
+Attended Knight	0
+Auger Spree	0
+Augur il-Vec	0
+Augur of Bolas	0
+Augury Owl	0
+Auntie's Snitch	0
+Aura Barbs	0
+Aura Extraction	0
+Aura Finesse	0
+Aura Fracture	0
+Aura Graft	0
+Aura of Dominion	0
+Auramancer	0
+Auramancer's Guise	0
+Auratog	0
+Auratouched Mage	0
+Auriok Bladewarden	0
+Auriok Edgewright	0
+Auriok Replica	0
+Auriok Salvagers	0
+Auriok Siege Sled	0
+Auriok Survivors	0
+Auriok Transfixer	0
+Aurochs	0
+Aurora Eidolon	0
+Aurora Griffin	0
+Autumn Willow	0
+Autumn's Veil	0
+Autumnal Gloom	0
+Avacyn's Collar	0
+Avacyn, Guardian Angel	0
+Avacynian Missionaries	0
+Avalanche Tusker	0
+Avarice Amulet	0
+Avarice Totem	0
+Avatar of Hope	0
+Aven Archer	0
+Aven Augur	0
+Aven Battle Priest	0
+Aven Brigadier	0
+Aven Cloudchaser	0
+Aven Envoy	0
+Aven Farseer	0
+Aven Fateshaper	0
+Aven Fisher	0
+Aven Fleetwing	0
+Aven Flock	0
+Aven Liberator	0
+Aven Mimeomancer	0
+Aven Redeemer	0
+Aven Riftwatcher	0
+Aven Smokeweaver	0
+Aven Soulgazer	0
+Aven Squire	0
+Aven Sunstriker	0
+Aven Surveyor	0
+Aven Tactician	0
+Aven Trailblazer	0
+Aven Trooper	0
+Aven Warcraft	0
+Aven Warhawk	0
+Aven Windreader	0
+Avenging Angel	0
+Avenging Arrow	0
+Avenging Druid	0
+Avian Changeling	0
+Avizoa	0
+Avoid Fate	0
+Awaken the Ancient	0
+Awaken the Bear	0
+Awakener Druid	0
+Awe Strike	0
+Awe for the Guilds	0
+Axebane Stag	0
+Axegrinder Giant	0
+Axelrod Gunnarson	0
+Aysen Bureaucrats	0
+Aysen Crusader	0
+Azorius Aethermage	0
+Azorius Arrester	0
+Azorius Charm	0
+Azorius Cluestone	0
+Azorius First-Wing	0
+Azorius Guildgate	0
+Azorius Guildmage	0
+Azorius Justiciar	0
+Azorius Keyrune	0
+Azorius Ploy	0
+Azure Drake	0
+Azure Mage	0
+Back from the Brink	0
+Back to Nature	0
+Bad River	0
+Bala Ged Scorpion	0
+Balduvian Barbarians	0
+Balduvian Conjurer	0
+Balduvian Dead	0
+Balduvian Fallen	0
+Balduvian Frostwaker	0
+Balduvian Horde	0
+Balduvian Hydra	0
+Balduvian Rage	0
+Balduvian Warlord	0
+Baleful Eidolon	0
+Baleful Force	0
+Baleful Stare	0
+Ballista Squad	0
+Ballynock Cohort	0
+Ballynock Trapper	0
+Baloth Cage Trap	0
+Baloth Null	0
+Baloth Pup	0
+Baloth Woodcrasher	0
+Balshan Beguiler	0
+Balshan Collaborator	0
+Balshan Griffin	0
+Bamboozle	0
+Bandage	0
+Bane Alley Blackguard	0
+Bane Alley Broker	0
+Bane of Bala Ged	0
+Baneful Omen	0
+Banewasp Affliction	0
+Banisher Priest	0
+Banishing Stroke	0
+Banishment Decree	0
+Banners Raised	0
+Banshee	0
+Banshee's Blade	0
+Bant Battlemage	0
+Bant Charm	0
+Bant Panorama	0
+Bant Sojourners	0
+Bar the Door	0
+Barbarian Bully	0
+Barbarian Lunatic	0
+Barbarian Outcast	0
+Barbarian Riftcutter	0
+Barbed Battlegear	0
+Barbed Foliage	0
+Barbed Lightning	0
+Barbed Sextant	0
+Barbed Shocker	0
+Barbed Sliver	0
+Barbed Wire	0
+Barbed-Back Wurm	0
+Barishi	0
+Barkhide Mauler	0
+Barkshell Blessing	0
+Barktooth Warbeard	0
+Barl's Cage	0
+Barony Vampire	0
+Barrage Ogre	0
+Barrage Tyrant	0
+Barrage of Boulders	0
+Barrage of Expendables	0
+Barrel Down Sokenzan	0
+Barrenton Cragtreads	0
+Barrenton Medic	0
+Barrin's Unmaking	0
+Bartel Runeaxe	0
+Barter in Blood	0
+Baru, Fist of Krosa	0
+Basal Sliver	0
+Basal Thrull	0
+Basalt Gargoyle	0
+Basalt Golem	0
+Basandra, Battle Seraph	0
+Bash to Bits	0
+Basilica Guards	0
+Basilica Screecher	0
+Bassara Tower Archer	0
+Bathe in Dragonfire	0
+Bathe in Light	0
+Baton of Courage	0
+Batterhorn	0
+Battering Craghorn	0
+Battering Krasis	0
+Battering Sliver	0
+Battering Wurm	0
+Battle Hurda	0
+Battle Hymn	0
+Battle Mastery	0
+Battle Rampart	0
+Battle Sliver	0
+Battle Squadron	0
+Battle Strain	0
+Battle of Wits	0
+Battle-Rattle Shaman	0
+Battlefield Medic	0
+Battleflight Eagle	0
+Battlefront Krushok	0
+Battlegate Mimic	0
+Battlegrace Angel	0
+Battleground Geist	0
+Battlegrowth	0
+Battlewand Oak	0
+Battlewise Aven	0
+Battlewise Hoplite	0
+Battlewise Valor	0
+Bay Falcon	0
+Bayou Dragonfly	0
+Bazaar Krovod	0
+Beacon Behemoth	0
+Beacon Hawk	0
+Bear's Companion	0
+Bearer of the Heavens	0
+Beast Attack	0
+Beast Hunt	0
+Beast of Burden	0
+Beastbreaker of Bala Ged	0
+Beastmaster's Magemark	0
+Beckon Apparition	0
+Bedlam	0
+Beetleback Chief	0
+Beetleform Mage	0
+Befoul	0
+Behemoth Sledge	0
+Behemoth's Herald	0
+Behind the Scenes	0
+Belfry Spirit	0
+Belligerent Hatchling	0
+Belligerent Sliver	0
+Belligerent Whiptail	0
+Bellowing Fiend	0
+Bellowing Saddlebrute	0
+Bellowing Tanglewurm	0
+Bellows Lizard	0
+Belltoll Dragon	0
+Belltower Sphinx	0
+Beloved Chaplain	0
+Ben-Ben, Akki Hermit	0
+Benalish Cavalry	0
+Benalish Commander	0
+Benalish Emissary	0
+Benalish Heralds	0
+Benalish Hero	0
+Benalish Infantry	0
+Benalish Knight	0
+Benalish Lancer	0
+Benalish Missionary	0
+Benalish Trapper	0
+Benalish Veteran	0
+Benediction of Moons	0
+Benevolent Ancestor	0
+Benevolent Bodyguard	0
+Benthic Behemoth	0
+Benthic Explorers	0
+Benthic Giant	0
+Benthic Infiltrator	0
+Benthicore	0
+Berserk Murlodont	0
+Berserkers of Blood Ridge	0
+Bestial Fury	0
+Bestial Menace	0
+Betrayal	0
+Betrayal of Flesh	0
+Betrothed of Fire	0
+Bewilder	0
+Bident of Thassa	0
+Big Game Hunter	0
+Bile Urchin	0
+Binding Grasp	0
+Biomass Mutation	0
+Bioplasm	0
+Biorhythm	0
+Bioshift	0
+Biovisionary	0
+Bird Maiden	0
+Birthing Hulk	0
+Biting Rain	0
+Biting Tether	0
+Bitter Feud	0
+Bitter Revelation	0
+Bitterheart Witch	0
+Bituminous Blast	0
+Black Cat	0
+Black Knight	0
+Black Oak of Odunos	0
+Blackcleave Goblin	0
+Blade of the Sixth Pride	0
+Blade-Tribe Berserkers	0
+Bladed Pinions	0
+Bladed Sentinel	0
+Blademane Baku	0
+Blades of Velis Vel	0
+Bladetusk Boar	0
+Bladewing's Thrall	0
+Blanchwood Armor	0
+Blanchwood Treefolk	0
+Blanket of Night	0
+Blast of Genius	0
+Blaster Mage	0
+Blastfire Bolt	0
+Blastoderm	0
+Blaze	0
+Blaze Commando	0
+Blaze of Glory	0
+Blazethorn Scarecrow	0
+Blazing Archon	0
+Blazing Blade Askari	0
+Blazing Hellhound	0
+Blazing Specter	0
+Blazing Torch	0
+Bleak Coven Vampires	0
+Blessed Breath	0
+Blessed Orator	0
+Blessed Reincarnation	0
+Blessed Reversal	0
+Blessed Spirits	0
+Blessing	0
+Blessing of Leeches	0
+Blessing of the Nephilim	0
+Blessings of Nature	0
+Blight	0
+Blight Sickle	0
+Blightcaster	0
+Blighted Cataract	0
+Blighted Fen	0
+Blighted Gorge	0
+Blighted Shaman	0
+Blighted Steppe	0
+Blighted Woodland	0
+Blightsoil Druid	0
+Blightspeaker	0
+Blightwidow	0
+Blind Creeper	0
+Blind Obedience	0
+Blind Phantasm	0
+Blind Zealot	0
+Blind with Anger	0
+Blind-Spot Giant	0
+Blinding Angel	0
+Blinding Beam	0
+Blinding Drone	0
+Blinding Flare	0
+Blinding Light	0
+Blinding Mage	0
+Blinding Powder	0
+Blinding Souleater	0
+Blinding Spray	0
+Blinkmoth Well	0
+Blister Beetle	0
+Blistering Barrier	0
+Blistering Dieflyn	0
+Blisterpod	0
+Blisterstick Shaman	0
+Blizzard Elemental	0
+Blizzard Specter	0
+Bloated Toad	0
+Blockade Runner	0
+Blockbuster	0
+Blood Bairn	0
+Blood Celebrant	0
+Blood Cultist	0
+Blood Feud	0
+Blood Frenzy	0
+Blood Funnel	0
+Blood Host	0
+Blood Knight	0
+Blood Lust	0
+Blood Ogre	0
+Blood Pet	0
+Blood Reckoning	0
+Blood Rites	0
+Blood Seeker	0
+Blood Speaker	0
+Blood Tithe	0
+Blood Tribute	0
+Blood Tyrant	0
+Blood Vassal	0
+Blood-Chin Rager	0
+Blood-Cursed Knight	0
+Blood-Toll Harpy	0
+Bloodbond March	0
+Bloodbond Vampire	0
+Bloodcrazed Goblin	0
+Bloodcrazed Hoplite	0
+Bloodcrazed Neonate	0
+Bloodfell Caves	0
+Bloodfire Enforcers	0
+Bloodfire Expert	0
+Bloodfire Infusion	0
+Bloodfire Kavu	0
+Bloodfire Mentor	0
+Bloodflow Connoisseur	0
+Bloodfray Giant	0
+Bloodgift Demon	0
+Bloodhunter Bat	0
+Bloodhusk Ritualist	0
+Bloodied Ghost	0
+Bloodline Keeper	0
+Bloodline Shaman	0
+Bloodmad Vampire	0
+Bloodmark Mentor	0
+Bloodpyre Elemental	0
+Bloodrage Vampire	0
+Bloodrite Invoker	0
+Bloodrock Cyclops	0
+Bloodscale Prowler	0
+Bloodscent	0
+Bloodshed Fever	0
+Bloodshot Cyclops	0
+Bloodshot Trainee	0
+Bloodsoaked Champion	0
+Bloodstoke Howler	0
+Bloodstone Cameo	0
+Bloodthirsty Ogre	0
+Bloodthorn Taunter	0
+Bloodthrone Vampire	0
+Blossoming Wreath	0
+Blowfly Infestation	0
+Bludgeon Brawl	0
+Blunt the Assault	0
+Blustersquall	0
+Boar Umbra	0
+Body of Jukai	0
+Bog Elemental	0
+Bog Gnarr	0
+Bog Hoodlums	0
+Bog Imp	0
+Bog Initiate	0
+Bog Raiders	0
+Bog Serpent	0
+Bog Smugglers	0
+Bog Tatters	0
+Bog Wraith	0
+Bog Wreckage	0
+Bog-Strider Ash	0
+Bogardan Firefiend	0
+Bogardan Hellkite	0
+Bogardan Lancer	0
+Bogardan Rager	0
+Bogbrew Witch	0
+Boggart Arsonists	0
+Boggart Birth Rite	0
+Boggart Brute	0
+Boggart Forager	0
+Boggart Harbinger	0
+Boggart Loggers	0
+Boggart Mob	0
+Boggart Shenanigans	0
+Boggart Sprite-Chaser	0
+Boiling Earth	0
+Boiling Seas	0
+Bojuka Brigand	0
+Bold Defense	0
+Boldwyr Intimidator	0
+Bolt of Keranos	0
+Boltwing Marauder	0
+Bomber Corps	0
+Bond of Agony	0
+Bonded Construct	0
+Bonded Fetch	0
+Bonds of Faith	0
+Bonds of Mortality	0
+Bonds of Quicksilver	0
+Bone Flute	0
+Bone Harvest	0
+Bone Saw	0
+Bone Splinters	0
+Bone to Ash	0
+Bonehoard	0
+Boneknitter	0
+Boneshard Slasher	0
+Bonesplitter Sliver	0
+Bonethorn Valesk	0
+Boneyard Wurm	0
+Booby Trap	0
+Book Burning	0
+Book of Rass	0
+Boomerang	0
+Boon Satyr	0
+Boonweaver Giant	0
+Borborygmos	0
+Border Patrol	0
+Borderland Behemoth	0
+Borderland Marauder	0
+Borderland Minotaur	0
+Borderland Ranger	0
+Boreal Centaur	0
+Boris Devilboon	0
+Boros Battleshaper	0
+Boros Cluestone	0
+Boros Fury-Shield	0
+Boros Guildgate	0
+Boros Guildmage	0
+Boros Keyrune	0
+Boros Mastiff	0
+Boros Recruit	0
+Boros Signet	0
+Boros Swiftblade	0
+Borrowing 100,000 Arrows	0
+Bosh, Iron Golem	0
+Bottle Gnomes	0
+Bottled Cloister	0
+Boulder Salvo	0
+Boulderfall	0
+Bouncing Beebles	0
+Bound by Moonsilver	0
+Bound in Silence	0
+Bounding Krasis	0
+Bountiful Harvest	0
+Bow of Nylea	0
+Bower Passage	0
+Brace for Impact	0
+Brackwater Elemental	0
+Braidwood Cup	0
+Braidwood Sextant	0
+Brain Freeze	0
+Brain Gorgers	0
+Brain Maggot	0
+Brain Pry	0
+Brain Weevil	0
+Brainspoil	0
+Bramble Creeper	0
+Bramble Elemental	0
+Bramblecrush	0
+Bramblesnap	0
+Branching Bolt	0
+Branchsnap Lorian	0
+Branded Brawlers	0
+Brass Gnat	0
+Brass Herald	0
+Brass Man	0
+Brass Secretary	0
+Brass Squire	0
+Brass-Talon Chimera	0
+Brassclaw Orcs	0
+Bravado	0
+Brave the Elements	0
+Brave the Sands	0
+Brawler's Plate	0
+Brawn	0
+Breach	0
+Breaching Hippocamp	0
+Break Open	0
+Break of Day	0
+Breaker of Armies	0
+Breakneck Rider	0
+Breath of Darigaaz	0
+Breath of Fury	0
+Breath of Life	0
+Breath of Malfegor	0
+Breathstealer	0
+Bred for the Hunt	0
+Breeding Pit	0
+Breezekeeper	0
+Briar Patch	0
+Briarberry Cohort	0
+Briarbridge Patrol	0
+Briarhorn	0
+Briarknit Kami	0
+Briarpack Alpha	0
+Briber's Purse	0
+Brightflame	0
+Brighthearth Banneret	0
+Brigid, Hero of Kinsbaile	0
+Brilliant Halo	0
+Brilliant Plan	0
+Brilliant Spectrum	0
+Brilliant Ultimatum	0
+Brimstone Dragon	0
+Brimstone Mage	0
+Brimstone Volley	0
+Brindle Boar	0
+Brine Elemental	0
+Brine Seer	0
+Brine Shaman	0
+Bring Low	0
+Brink of Disaster	0
+Brittle Effigy	0
+Broken Ambitions	0
+Broken Fall	0
+Brontotherium	0
+Bronze Horse	0
+Bronze Sable	0
+Bronzebeak Moa	0
+Brood Birthing	0
+Brood Butcher	0
+Brood Keeper	0
+Brood Monitor	0
+Broodhunter Wurm	0
+Broodwarden	0
+Brothers of Fire	0
+Brown Ouphe	0
+Browse	0
+Brush with Death	0
+Brushstrider	0
+Brushwagg	0
+Brutal Deceiver	0
+Brutal Expulsion	0
+Brutalizer Exarch	0
+Brute Force	0
+Brute Strength	0
+Bubbling Beebles	0
+Bubbling Cauldron	0
+Budoka Pupil	0
+Builder's Blessing	0
+Bull Aurochs	0
+Bull Cerodon	0
+Bull Hippo	0
+Bull Rush	0
+Bullwhip	0
+Burden of Greed	0
+Burden of Guilt	0
+Burn Away	0
+Burn Trail	0
+Burn at the Stake	0
+Burn the Impure	0
+Burning Anger	0
+Burning Earth	0
+Burning Oil	0
+Burning Palm Efreet	0
+Burning Vengeance	0
+Burning of Xinye	0
+Burning-Eye Zubera	0
+Burning-Tree Bloodscale	0
+Burnished Hart	0
+Burnout	0
+Burr Grafter	0
+Burrenton Bombardier	0
+Burrenton Shield-Bearers	0
+Burst Lightning	0
+Burst of Energy	0
+Burst of Speed	0
+Burst of Strength	0
+Bushi Tenderfoot	0
+Butcher of the Horde	0
+Butcher's Cleaver	0
+Butcher's Glee	0
+Byway Courier	0
+Cabal Archon	0
+Cabal Conditioning	0
+Cabal Executioner	0
+Cabal Inquisitor	0
+Cabal Interrogator	0
+Cabal Slaver	0
+Cabal Surgeon	0
+Cabal Torturer	0
+Cabal Trainee	0
+Cache Raiders	0
+Cached Defenses	0
+Cackling Fiend	0
+Cackling Flames	0
+Cackling Imp	0
+Cackling Witch	0
+Cadaver Imp	0
+Cadaverous Knight	0
+Cage of Hands	0
+Cagemail	0
+Cairn Wanderer	0
+Calciderm	0
+Calciform Pools	0
+Calcite Snapper	0
+Calculated Dismissal	0
+Caldera Hellion	0
+Caldera Kavu	0
+Caldera Lake	0
+Call for Blood	0
+Call of the Conclave	0
+Call of the Full Moon	0
+Call of the Herd	0
+Call of the Nightwing	0
+Call the Bloodline	0
+Call the Gatewatch	0
+Call the Scions	0
+Call to Arms	0
+Call to Glory	0
+Call to Heel	0
+Call to Mind	0
+Call to Serve	0
+Call to the Netherworld	0
+Caller of Gales	0
+Caller of the Pack	0
+Callous Deceiver	0
+Callow Jushi	0
+Caltrops	0
+Cancel	0
+Candles of Leng	0
+Candles' Glow	0
+Canker Abomination	0
+Cankerous Thirst	0
+Cannibalize	0
+Canopy Claws	0
+Canopy Cover	0
+Canopy Crawler	0
+Canopy Gorger	0
+Canopy Spider	0
+Canopy Surge	0
+Cantivore	0
+Canyon Drake	0
+Canyon Lurkers	0
+Canyon Minotaur	0
+Canyon Wildcat	0
+Capashen Knight	0
+Capashen Standard	0
+Capashen Templar	0
+Capashen Unicorn	0
+Capricious Efreet	0
+Capsize	0
+Captain of the Mists	0
+Captain's Call	0
+Captain's Maneuver	0
+Captivating Glance	0
+Captive Flame	0
+Captured Sunlight	0
+Carapace	0
+Caravan Escort	0
+Caravan Hurda	0
+Caravan Vigil	0
+Carbonize	0
+Careful Consideration	0
+Caregiver	0
+Caribou Range	0
+Carnage Altar	0
+Carnage Gladiator	0
+Carnage Wurm	0
+Carnassid	0
+Carnifex Demon	0
+Carnival Hellsteed	0
+Carnivorous Moss-Beast	0
+Carnivorous Plant	0
+Carom	0
+Carrier Thrall	0
+Carrion Ants	0
+Carrion Call	0
+Carrion Crow	0
+Carrion Howler	0
+Carrion Rats	0
+Carrion Thrash	0
+Carrion Wall	0
+Carrion Wurm	0
+Carry Away	0
+Cartographer	0
+Carven Caryatid	0
+Cast into Darkness	0
+Castle	0
+Castle Raptors	0
+Cat Burglar	0
+Catacomb Sifter	0
+Catacomb Slug	0
+Catalog	0
+Catapult Squad	0
+Catch // Release	0
+Cateran Enforcer	0
+Cateran Kidnappers	0
+Cateran Summons	0
+Caterwauling Boggart	0
+Cathar's Companion	0
+Cathedral Sanctifier	0
+Cathodion	0
+Cauldron Haze	0
+Caustic Caterpillar	0
+Caustic Crawler	0
+Caustic Hound	0
+Caustic Rain	0
+Caustic Tar	0
+Caustic Wasps	0
+Cautery Sliver	0
+Cavalry Master	0
+Cavalry Pegasus	0
+Cave Sense	0
+Cave Tiger	0
+Cavern Lampad	0
+Cavern Thoctar	0
+Cease-Fire	0
+Ceaseless Searblades	0
+Celestial Ancient	0
+Celestial Archon	0
+Celestial Crusader	0
+Celestial Dawn	0
+Celestial Flare	0
+Celestial Force	0
+Celestial Mantle	0
+Celestial Purge	0
+Celestial Sword	0
+Cellar Door	0
+Cenn's Heir	0
+Cenn's Tactician	0
+Centaur Archer	0
+Centaur Battlemaster	0
+Centaur Chieftain	0
+Centaur Courser	0
+Centaur Garden	0
+Centaur Glade	0
+Centaur Healer	0
+Centaur Omenreader	0
+Centaur Rootcaster	0
+Centaur Safeguard	0
+Centaur Veteran	0
+Centaur's Herald	0
+Center Soul	0
+Cephalid Aristocrat	0
+Cephalid Broker	0
+Cephalid Constable	0
+Cephalid Illusionist	0
+Cephalid Looter	0
+Cephalid Pathmage	0
+Cephalid Retainer	0
+Cephalid Sage	0
+Cephalid Scout	0
+Cephalid Shrine	0
+Cephalid Snitch	0
+Cerebral Eruption	0
+Cerebral Vortex	0
+Cerulean Wisps	0
+Cerulean Wyvern	0
+Cessation	0
+Ceta Disciple	0
+Ceta Sanctuary	0
+Chain Reaction	0
+Chain of Plasma	0
+Chain of Silence	0
+Chain of Smog	0
+Chainbreaker	0
+Chained Throatseeker	0
+Chained to the Rocks	0
+Chainflinger	0
+Chamber of Manipulation	0
+Chambered Nautilus	0
+Chameleon Blur	0
+Champion Lancer	0
+Champion of Arashin	0
+Champion's Drake	0
+Chancellor of the Spires	0
+Chandra's Fury	0
+Chandra's Ignition	0
+Chandra's Outrage	0
+Chandra's Phoenix	0
+Chandra's Spitfire	0
+Change of Heart	0
+Changeling Berserker	0
+Changeling Hero	0
+Changeling Sentinel	0
+Changeling Titan	0
+Channel the Suns	0
+Chant of Vitu-Ghazi	0
+Chant of the Skifsang	0
+Chaos Imps	0
+Chaotic Backlash	0
+Chapel Geist	0
+Chaplain's Blessing	0
+Char	0
+Char-Rumbler	0
+Charge Across the Araba	0
+Charging Badger	0
+Charging Griffin	0
+Charging Paladin	0
+Charging Rhino	0
+Charging Slateback	0
+Chariot of Victory	0
+Chariot of the Sun	0
+Charm Peddler	0
+Charmbreaker Devils	0
+Charmed Griffin	0
+Chartooth Cougar	0
+Chasm Drake	0
+Chasm Guide	0
+Chastise	0
+Chemister's Trick	0
+Chief of the Edge	0
+Chief of the Foundry	0
+Chief of the Scale	0
+Chieftain en-Dal	0
+Child of Night	0
+Child of Thorns	0
+Childhood Horror	0
+Children of Korlis	0
+Chill Haunting	0
+Chill of Foreboding	0
+Chill to the Bone	0
+Chilling Shade	0
+Chime of Night	0
+Chimeric Coils	0
+Chimeric Egg	0
+Chimeric Idol	0
+Chimeric Mass	0
+Chimeric Sphere	0
+Chimeric Staff	0
+Chimney Imp	0
+Chitinous Cloak	0
+Cho-Arrim Legate	0
+Choking Fumes	0
+Choking Tethers	0
+Choking Vines	0
+Chorus of Might	0
+Chorus of the Tides	0
+Chosen by Heliod	0
+Chosen of Markov	0
+Chrome Steed	0
+Chromescale Drake	0
+Chronatog Totem	0
+Chronic Flooding	0
+Chronicler of Heroes	0
+Chronomantic Escape	0
+Chronomaton	0
+Chronosavant	0
+Chronostutter	0
+Chub Toad	0
+Churning Eddy	0
+Cinder Barrens	0
+Cinder Cloud	0
+Cinder Crawler	0
+Cinder Elemental	0
+Cinder Hellion	0
+Cinder Marsh	0
+Cinder Seer	0
+Cinder Storm	0
+Cinder Wall	0
+Cinderbones	0
+Cinderhaze Wretch	0
+Circle of Affliction	0
+Circle of Elders	0
+Circle of Flame	0
+Circle of Protection: Artifacts	0
+Circle of Protection: Black	0
+Circle of Protection: Blue	0
+Circle of Protection: Shadow	0
+Circle of Solace	0
+Circling Vultures	0
+Citadel Castellan	0
+Citanul Druid	0
+Citanul Flute	0
+Citanul Woodreaders	0
+Civic Saber	0
+Civic Wayfinder	0
+Civilized Scholar	0
+Claim of Erebos	0
+Clan Defiance	0
+Clarion Ultimatum	0
+Claustrophobia	0
+Claws of Gix	0
+Claws of Wirewood	0
+Clay Statue	0
+Cleanse	0
+Cleansing Beam	0
+Cleansing Meditation	0
+Clear	0
+Clear a Path	0
+Cleaver Riot	0
+Clergy en-Vec	0
+Cleric of the Forward Order	0
+Clickslither	0
+Cliff Threader	0
+Cliffhaven Vampire	0
+Cliffrunner Behemoth	0
+Cliffside Lookout	0
+Clinging Anemones	0
+Clinging Darkness	0
+Clinging Mists	0
+Clip Wings	0
+Cloak and Dagger	0
+Cloak of Confusion	0
+Cloak of Invisibility	0
+Cloak of Mists	0
+Cloaked Siren	0
+Clock of Omens	0
+Clockspinning	0
+Clockwork Avian	0
+Clockwork Beast	0
+Clockwork Beetle	0
+Clockwork Condor	0
+Clockwork Gnomes	0
+Clockwork Hydra	0
+Clockwork Steed	0
+Clockwork Swarm	0
+Clockwork Vorrac	0
+Cloistered Youth	0
+Clone	0
+Clone Shell	0
+Close Quarters	0
+Clot Sliver	0
+Cloud Crusader	0
+Cloud Djinn	0
+Cloud Dragon	0
+Cloud Elemental	0
+Cloud Manta	0
+Cloud Spirit	0
+Cloud Sprite	0
+Cloudchaser Eagle	0
+Cloudchaser Kestrel	0
+Cloudcrest Lake	0
+Cloudcrown Oak	0
+Cloudgoat Ranger	0
+Cloudheath Drake	0
+Cloudreach Cavalry	0
+Cloudseeder	0
+Cloudshift	0
+Cloudskate	0
+Cloven Casting	0
+Clutch of Undeath	0
+Clutch of the Undercity	0
+Coal Golem	0
+Coal Stoker	0
+Coalhauler Swine	0
+Coalition Flag	0
+Coalition Victory	0
+Coastal Discovery	0
+Coastal Drake	0
+Coastal Hornclaw	0
+Coastal Tower	0
+Coat with Venom	0
+Cobalt Golem	0
+Cobblebrute	0
+Cobbled Wings	0
+Cobra Trap	0
+Cockatrice	0
+Codex Shredder	0
+Coerced Confession	0
+Coercion	0
+Cognivore	0
+Coiled Tinviper	0
+Coiling Woodworm	0
+Coils of the Medusa	0
+Colfenor's Plans	0
+Colos Yearling	0
+Colossal Heroics	0
+Colossal Whale	0
+Colossus of Akros	0
+Colossus of Sardia	0
+Coma Veil	0
+Combat Medic	0
+Combust	0
+Commander's Authority	0
+Commando Raid	0
+Common Bond	0
+Commune with Lava	0
+Commune with Nature	0
+Comparative Analysis	0
+Complete Disregard	0
+Complicate	0
+Composite Golem	0
+Compost	0
+Compulsion	0
+Concentrate	0
+Concerted Effort	0
+Conclave Equenaut	0
+Conclave Naturalists	0
+Conclave Phalanx	0
+Conclave's Blessing	0
+Concordia Pegasus	0
+Concussive Bolt	0
+Cone of Flame	0
+Confessor	0
+Confiscate	0
+Confront the Unknown	0
+Congregate	0
+Congregation at Dawn	0
+Conifer Strider	0
+Conjurer's Ban	0
+Conjurer's Closet	0
+Conquer	0
+Conquering Manticore	0
+Conqueror's Pledge	0
+Consecrate Land	0
+Consecrated by Blood	0
+Consign to Dream	0
+Consign to Dust	0
+Conspiracy	0
+Constricting Sliver	0
+Constricting Tendrils	0
+Consult the Necrosages	0
+Consume Spirit	0
+Consume Strength	0
+Consume the Meek	0
+Consuming Bonfire	0
+Consuming Ferocity	0
+Consuming Sinkhole	0
+Consuming Vortex	0
+Contagion Clasp	0
+Contagious Nim	0
+Containment Membrane	0
+Contaminated Bond	0
+Contaminated Ground	0
+Contemplation	0
+Contempt	0
+Contradict	0
+Control Magic	0
+Controlled Instincts	0
+Controvert	0
+Conundrum Sphinx	0
+Conversion	0
+Conversion Chamber	0
+Convicted Killer	0
+Conviction	0
+Convincing Mirage	0
+Coordinated Assault	0
+Coordinated Barrage	0
+Copper Carapace	0
+Copper Myr	0
+Copper Tablet	0
+Copperhorn Scout	0
+Coral Barrier	0
+Coral Eel	0
+Coral Helm	0
+Coral Merfolk	0
+Coral Trickster	0
+Coralhelm Guide	0
+Core Prowler	0
+Corpse Blockade	0
+Corpse Churn	0
+Corpse Connoisseur	0
+Corpse Cur	0
+Corpse Hauler	0
+Corpsehatch	0
+Corpsejack Menace	0
+Corpseweft	0
+Corpulent Corpse	0
+Corrosive Gale	0
+Corrosive Mentor	0
+Corrupt	0
+Corrupt Eunuchs	0
+Corrupted Conscience	0
+Corrupted Grafstone	0
+Corrupted Harvester	0
+Corrupted Resolve	0
+Corrupted Roots	0
+Corrupted Zendikon	0
+Cosi's Ravager	0
+Cosi's Trickster	0
+Cosmic Horror	0
+Counsel of the Soratami	0
+Counterbore	0
+Counterflux	0
+Counterlash	0
+Countermand	0
+Courier Griffin	0
+Courier Hawk	0
+Courier's Capsule	0
+Coursers' Accord	0
+Court Archers	0
+Court Homunculus	0
+Court Street Denizen	0
+Courtly Provocateur	0
+Covenant of Minds	0
+Cover of Winter	0
+Covert Operative	0
+Cowed by Wisdom	0
+Cower in Fear	0
+Crab Umbra	0
+Crabapple Cohort	0
+Crackling Perimeter	0
+Crackling Triton	0
+Cradle Guard	0
+Cradle of Vitality	0
+Cradle to Grave	0
+Crafty Pathmage	0
+Crag Puca	0
+Cranial Archive	0
+Crash	0
+Crash Landing	0
+Crash of Rhinos	0
+Crashing Boars	0
+Crashing Centaur	0
+Crater Hellion	0
+Crater's Claws	0
+Craterize	0
+Craven Giant	0
+Craw Wurm	0
+Crawling Filth	0
+Crawling Sensation	0
+Crazed Firecat	0
+Crazed Goblin	0
+Creakwood Ghoul	0
+Credit Voucher	0
+Creeping Dread	0
+Creeping Mold	0
+Creeping Renaissance	0
+Creepy Doll	0
+Cremate	0
+Crested Craghorn	0
+Crib Swap	0
+Crimson Mage	0
+Crimson Manticore	0
+Crimson Muckwader	0
+Crimson Roc	0
+Crimson Wisps	0
+Crippling Blight	0
+Crippling Chill	0
+Crocanura	0
+Crookclaw Elder	0
+Crookclaw Transmuter	0
+Crookshank Kobolds	0
+Crosis's Attendant	0
+Crossbow Ambush	0
+Crossbow Infantry	0
+Crosstown Courier	0
+Crossway Vampire	0
+Crosswinds	0
+Crovax the Cursed	0
+Crow of Dark Tidings	0
+Crowd Favorites	0
+Crowd of Cinders	0
+Crowd's Favor	0
+Crown of Ascension	0
+Crown of Awe	0
+Crown of Empires	0
+Crown of Flames	0
+Crown of Fury	0
+Crown of Suspicion	0
+Crown of Vigor	0
+Crowned Ceratok	0
+Crucible of Fire	0
+Crude Rampart	0
+Cruel Bargain	0
+Cruel Deceiver	0
+Cruel Edict	0
+Cruel Feeding	0
+Cruel Revival	0
+Cruel Ultimatum	0
+Crumble	0
+Crumbling Ashes	0
+Crumbling Colossus	0
+Crumbling Necropolis	0
+Crumbling Vestige	0
+Crusader of Odric	0
+Crush	0
+Crush Underfoot	0
+Crusher Zendikon	0
+Crushing Pain	0
+Crushing Vines	0
+Cry of Contrition	0
+Cryoclasm	0
+Crypsis	0
+Crypt Champion	0
+Crypt Creeper	0
+Crypt Ripper	0
+Cryptborn Horror	0
+Cryptic Annelid	0
+Cryptic Cruiser	0
+Cryptoplasm	0
+Cryptwailing	0
+Crystal Ball	0
+Crystal Chimes	0
+Crystal Golem	0
+Crystal Rod	0
+Crystal Seer	0
+Crystal Shard	0
+Crystalline Nautilus	0
+Cudgel Troll	0
+Culling Dais	0
+Culling Drone	0
+Culling Mark	0
+Culling Scales	0
+Culling Sun	0
+Cult of the Waxing Moon	0
+Cultbrand Cinder	0
+Cultivator Drone	0
+Cumber Stone	0
+Cunning	0
+Cunning Bandit	0
+Cunning Breezedancer	0
+Cunning Lethemancer	0
+Cunning Sparkmage	0
+Cunning Strike	0
+Curiosity	0
+Curse of Bloodletting	0
+Curse of Chaos	0
+Curse of Echoes	0
+Curse of Inertia	0
+Curse of Misfortunes	0
+Curse of Oblivion	0
+Curse of Stalked Prey	0
+Curse of Thirst	0
+Curse of Wizardry	0
+Curse of the Cabal	0
+Curse of the Forsaken	0
+Curse of the Nightly Hunt	0
+Curse of the Swine	0
+Cursebreak	0
+Cursed Flesh	0
+Cursed Rack	0
+Cursed Ronin	0
+Curtain of Light	0
+Custodian of the Trove	0
+Custody Battle	0
+Customs Depot	0
+Cut the Earthly Bond	0
+Cut the Tethers	0
+Cutthroat Maneuver	0
+Cutthroat il-Dal	0
+Cyclical Evolution	0
+Cyclone	0
+Cyclone Sire	0
+Cyclopean Giant	0
+Cyclopean Snare	0
+Cyclops Gladiator	0
+Cyclops Tyrant	0
+Cyclops of Eternal Fury	0
+Cylian Elf	0
+Cylian Sunsinger	0
+Cystbearer	0
+Cytoplast Root-Kin	0
+Cytospawn Shambler	0
+D'Avenant Archer	0
+D'Avenant Healer	0
+Dack's Duplicate	0
+Daggerback Basilisk	0
+Daggerclaw Imp	0
+Daggerdrome Imp	0
+Daily Regimen	0
+Dakmor Plague	0
+Dakra Mystic	0
+Dampen Thought	0
+Dampening Pulse	0
+Dance of Many	0
+Dance of Shadows	0
+Dance of the Skywise	0
+Dance with Devils	0
+Dancing Scimitar	0
+Dandân	0
+Daraja Griffin	0
+Daring Apprentice	0
+Daring Leap	0
+Daring Skyjek	0
+Daring Sleuth	0
+Daring Thief	0
+Dark Banishing	0
+Dark Betrayal	0
+Dark Favor	0
+Dark Hatchling	0
+Dark Heart of the Wood	0
+Dark Impostor	0
+Dark Privilege	0
+Dark Prophecy	0
+Dark Revenant	0
+Dark Ritual	0
+Dark Supplicant	0
+Dark Temper	0
+Dark Triumph	0
+Dark Tutelage	0
+Dark Withering	0
+Darkest Hour	0
+Darkheart Sliver	0
+Darkling Stalker	0
+Darklit Gargoyle	0
+Darkslick Drake	0
+Darksteel Axe	0
+Darksteel Brute	0
+Darksteel Gargoyle	0
+Darksteel Juggernaut	0
+Darksteel Myr	0
+Darksteel Pendant	0
+Darksteel Sentinel	0
+Darkthicket Wolf	0
+Darkwatch Elves	0
+Darkwater Egg	0
+Darting Merfolk	0
+Daru Cavalier	0
+Daru Encampment	0
+Daru Healer	0
+Daru Lancer	0
+Daru Mender	0
+Daru Sanctifier	0
+Daru Stinger	0
+Daunting Defender	0
+Dauntless Cathar	0
+Dauntless Dourbark	0
+Dauntless Onslaught	0
+Dauntless River Marshal	0
+Dauthi Cutthroat	0
+Dauthi Embrace	0
+Dauthi Ghoul	0
+Dauthi Jackal	0
+Dauthi Marauder	0
+Dauthi Mercenary	0
+Dauthi Mindripper	0
+Dauthi Trapper	0
+Dauthi Warlord	0
+Dawn Elemental	0
+Dawn to Dusk	0
+Dawnfluke	0
+Dawnglow Infusion	0
+Dawning Purist	0
+Dawnray Archer	0
+Dawnstrike Paladin	0
+Dawntreader Elk	0
+Daxos of Meletis	0
+Daybreak Ranger	0
+Dazzling Ramparts	0
+Dazzling Reflection	0
+Dead // Gone	0
+Dead Drop	0
+Dead Reckoning	0
+Dead Reveler	0
+Dead Ringers	0
+Dead Weight	0
+Dead-Iron Sledge	0
+Deadbridge Shaman	0
+Deadly Allure	0
+Deadly Grub	0
+Deadly Insect	0
+Deadly Recluse	0
+Deadly Wanderings	0
+Deadshot Minotaur	0
+Deadwood Treefolk	0
+Dearly Departed	0
+Death Charmer	0
+Death Cultist	0
+Death Denied	0
+Death Frenzy	0
+Death Grasp	0
+Death Mutation	0
+Death Pits of Rath	0
+Death Pulse	0
+Death Rattle	0
+Death Speakers	0
+Death Stroke	0
+Death Ward	0
+Death Watch	0
+Death Wind	0
+Death by Dragons	0
+Death of a Thousand Stings	0
+Death's Approach	0
+Death's Caress	0
+Death's Duet	0
+Death's Presence	0
+Death's-Head Buzzard	0
+Death-Hood Cobra	0
+Death-Mask Duplicant	0
+Deathbellow Raider	0
+Deathbringer Regent	0
+Deathcoil Wurm	0
+Deathcult Rogue	0
+Deathcurse Ogre	0
+Deathforge Shaman	0
+Deathgaze Cockatrice	0
+Deathgazer	0
+Deathgrip	0
+Deathknell Kami	0
+Deathless Angel	0
+Deathless Behemoth	0
+Deathmark	0
+Deathmark Prelate	0
+Deathmask Nezumi	0
+Deathreap Ritual	0
+Deathspore Thallid	0
+Debilitating Injury	0
+Debt to the Deathless	0
+Debtor's Pulpit	0
+Deceiver of Form	0
+Decimator Web	0
+Decompose	0
+Decomposition	0
+Deconstruct	0
+Decorated Griffin	0
+Decree of Justice	0
+Decree of Savagery	0
+Dedicated Martyr	0
+Deep Reconnaissance	0
+Deep-Sea Kraken	0
+Deep-Sea Terror	0
+Deep-Slumber Titan	0
+Deepcavern Imp	0
+Deepchannel Mentor	0
+Deepfathom Skulker	0
+Deepfire Elemental	0
+Deeptread Merrow	0
+Deepwater Hypnotist	0
+Deepwood Ghoul	0
+Deepwood Legate	0
+Defang	0
+Defeat	0
+Defend the Hearth	0
+Defender of Chaos	0
+Defender of Law	0
+Defensive Formation	0
+Defensive Maneuvers	0
+Defensive Stance	0
+Defiant Bloodlord	0
+Defiant Elf	0
+Defiant Ogre	0
+Defiant Strike	0
+Defiant Vanguard	0
+Deflection	0
+Deft Duelist	0
+Deftblade Elite	0
+Defy Death	0
+Defy Gravity	0
+Dega Sanctuary	0
+Dehydration	0
+Deicide	0
+Delirium Skeins	0
+Deluge	0
+Delusions of Mediocrity	0
+Dementia Bat	0
+Dementia Sliver	0
+Demolish	0
+Demon's Grasp	0
+Demon's Herald	0
+Demon's Horn	0
+Demon's Jester	0
+Demonfire	0
+Demonic Appetite	0
+Demonic Collusion	0
+Demonic Rising	0
+Demonic Taskmaster	0
+Demonic Torment	0
+Demonlord of Ashmouth	0
+Demonmail Hauberk	0
+Demonspine Whip	0
+Demoralize	0
+Demystify	0
+Dense Canopy	0
+Deny Existence	0
+Deny Reality	0
+Deputy of Acquittals	0
+Deranged Assistant	0
+Deranged Hermit	0
+Deranged Outcast	0
+Derelor	0
+Descendant of Soramaro	0
+Desecrated Earth	0
+Desecration Demon	0
+Desecration Plague	0
+Desecrator Hag	0
+Desert Twister	0
+Deserter's Quarters	0
+Desolation	0
+Desolation Twin	0
+Desperate Charge	0
+Desperate Ravings	0
+Desperate Stand	0
+Despise	0
+Despondency	0
+Destroy the Evidence	0
+Detainment Spell	0
+Detonate	0
+Devastate	0
+Deviant Glee	0
+Devil's Play	0
+Devils' Playground	0
+Devilthorn Fox	0
+Devoted Caretaker	0
+Devoted Retainer	0
+Devour in Flames	0
+Devour in Shadow	0
+Devouring Greed	0
+Devouring Light	0
+Devouring Rage	0
+Devouring Swarm	0
+Devout Chaplain	0
+Devout Harpist	0
+Devout Lightcaster	0
+Devout Witness	0
+Dewdrop Spy	0
+Diabolic Machine	0
+Diabolic Tutor	0
+Diabolic Vision	0
+Diamond Faerie	0
+Diamond Kaleidoscope	0
+Dichotomancy	0
+Dictate of the Twin Gods	0
+Didgeridoo	0
+Diluvian Primordial	0
+Diminish	0
+Diminishing Returns	0
+Dimir Charm	0
+Dimir Cluestone	0
+Dimir Guildmage	0
+Dimir House Guard	0
+Dimir Infiltrator	0
+Dimir Keyrune	0
+Dimir Machinations	0
+Din of the Fireherd	0
+Dingus Staff	0
+Dinrova Horror	0
+Diplomatic Escort	0
+Dire Undercurrents	0
+Diregraf Escort	0
+Diregraf Ghoul	0
+Dirge of Dread	0
+Dirgur Nemesis	0
+Dirtwater Wraith	0
+Dirty Wererat	0
+Disappear	0
+Disarm	0
+Disaster Radius	0
+Disciple of Deceit	0
+Disciple of Grace	0
+Disciple of Griselbrand	0
+Disciple of Law	0
+Disciple of Malice	0
+Disciple of Phenax	0
+Disciple of Tevesh Szat	0
+Disciple of the Old Ways	0
+Discombobulate	0
+Disdainful Stroke	0
+Disease Carriers	0
+Disembowel	0
+Disempower	0
+Disentomb	0
+Disharmony	0
+Dismal Failure	0
+Dismantle	0
+Dismiss into Dream	0
+Disorder	0
+Disorient	0
+Disowned Ancestor	0
+Dispatch	0
+Dispeller's Capsule	0
+Dispense Justice	0
+Dispersal Shield	0
+Disperse	0
+Dispersing Orb	0
+Display of Dominance	0
+Disrupting Scepter	0
+Disruption Aura	0
+Disruptive Pitmage	0
+Disruptive Student	0
+Dissension in the Ranks	0
+Dissipate	0
+Dissolve	0
+Distant Memories	0
+Distress	0
+Disturbed Burial	0
+Disturbing Plot	0
+Dive Bomber	0
+Divebomber Griffin	0
+Divergent Growth	0
+Diversionary Tactics	0
+Divination	0
+Divine Congregation	0
+Divine Favor	0
+Divine Light	0
+Divine Offering	0
+Divine Reckoning	0
+Divine Transformation	0
+Divine Verdict	0
+Diviner Spirit	0
+Diviner's Wand	0
+Diving Griffin	0
+Dizzy Spell	0
+Dizzying Gaze	0
+Djinn Illuminatus	0
+Djinn of Wishes	0
+Dodecapod	0
+Dogpile	0
+Domestication	0
+Dominator Drone	0
+Domineer	0
+Doomwake Giant	0
+Doorkeeper	0
+Dormant Gomazoa	0
+Dormant Sliver	0
+Dormant Volcano	0
+Dosan's Oldest Chant	0
+Double Negative	0
+Doubling Chant	0
+Doubtless One	0
+Douse	0
+Douse in Gloom	0
+Down // Dirty	0
+Downdraft	0
+Downpour	0
+Downsize	0
+Dowsing Shaman	0
+Dracoplasm	0
+Drag Down	0
+Dragon Appeasement	0
+Dragon Blood	0
+Dragon Egg	0
+Dragon Engine	0
+Dragon Fodder	0
+Dragon Grip	0
+Dragon Hatchling	0
+Dragon Mantle	0
+Dragon Roost	0
+Dragon Shadow	0
+Dragon Throne of Tarkir	0
+Dragon Whelp	0
+Dragon Wings	0
+Dragon's Eye Savants	0
+Dragon's Eye Sentry	0
+Dragon's Herald	0
+Dragon-Scarred Bear	0
+Dragon-Style Twins	0
+Dragonloft Idol	0
+Dragonlord's Servant	0
+Dragonscale Boon	0
+Dragonshift	0
+Dragonsoul Knight	0
+Dragonstalker	0
+Dragonstorm	0
+Drain Life	0
+Drain the Well	0
+Draining Whelk	0
+Drainpipe Vermin	0
+Drake Familiar	0
+Drake Umbra	0
+Drake-Skull Cameo	0
+Drakestown Forgotten	0
+Drakewing Krasis	0
+Dralnu, Lich Lord	0
+Drana's Chosen	0
+Drana's Emissary	0
+Drana, Kalastria Bloodchief	0
+Drastic Revelation	0
+Dread	0
+Dread Defiler	0
+Dread Drone	0
+Dread Reaper	0
+Dread Slaver	0
+Dread Specter	0
+Dread Statuary	0
+Dread Warlock	0
+Dreadbringer Lampads	0
+Dreadship Reef	0
+Dreadwaters	0
+Dreadwing	0
+Dream Cache	0
+Dream Fighter	0
+Dream Leash	0
+Dream Prowler	0
+Dream Thief	0
+Dream Twist	0
+Dream's Grip	0
+Dreamcatcher	0
+Dreampod Druid	0
+Dreams of the Dead	0
+Dreamscape Artist	0
+Dreamspoiler Witches	0
+Dreamstone Hedron	0
+Dreamwinder	0
+Dreg Mangler	0
+Dreg Reaver	0
+Dregscape Zombie	0
+Drekavac	0
+Drelnoch	0
+Drift of the Dead	0
+Drifter il-Dal	0
+Drifting Shade	0
+Drill-Skimmer	0
+Drinker of Sorrow	0
+Dripping Dead	0
+Dripping-Tongue Zubera	0
+Driver of the Dead	0
+Drogskol Cavalry	0
+Dromad Purebred	0
+Dromoka Captain	0
+Dromoka Dunecaster	0
+Dromoka Monument	0
+Dromoka Warrior	0
+Dromoka's Gift	0
+Droning Bureaucrats	0
+Drooling Groodion	0
+Drooling Ogre	0
+Dross Crocodile	0
+Dross Golem	0
+Dross Harvester	0
+Dross Hopper	0
+Dross Prowler	0
+Dross Ripper	0
+Drove of Elves	0
+Drown in Filth	0
+Drowned	0
+Drowned Rusalka	0
+Drowner Initiate	0
+Drowner of Secrets	0
+Drownyard Explorers	0
+Drudge Beetle	0
+Drudge Reavers	0
+Drudge Skeletons	0
+Druid Lyrist	0
+Druid of the Anima	0
+Druid's Deliverance	0
+Druid's Familiar	0
+Druids' Repository	0
+Drumhunter	0
+Drunau Corpse Trawler	0
+Dry Spell	0
+Dryad Sophisticate	0
+Dryad's Caress	0
+Dryad's Favor	0
+Dual Casting	0
+Dual Shot	0
+Duct Crawler	0
+Due Respect	0
+Duergar Assailant	0
+Duergar Cave-Guard	0
+Duergar Hedge-Mage	0
+Duergar Mine-Captain	0
+Dune-Brood Nephilim	0
+Duneblast	0
+Dunerider Outlaw	0
+Dungeon Geists	0
+Dungeon Shade	0
+Duplicity	0
+Duress	0
+Durkwood Baloth	0
+Durkwood Tracker	0
+Dusk Imp	0
+Dusk Urchins	0
+Duskdale Wurm	0
+Duskhunter Bat	0
+Duskmantle Prowler	0
+Duskmantle, House of Shadow	0
+Duskrider Peregrine	0
+Duskworker	0
+Dust Corona	0
+Dust Elemental	0
+Dust Stalker	0
+Dust of Moments	0
+Dutiful Attendant	0
+Dutiful Return	0
+Dutiful Thrull	0
+Dwarven Blastminer	0
+Dwarven Bloodboiler	0
+Dwarven Catapult	0
+Dwarven Demolition Team	0
+Dwarven Driller	0
+Dwarven Grunt	0
+Dwarven Landslide	0
+Dwarven Nomad	0
+Dwarven Patrol	0
+Dwarven Recruiter	0
+Dwarven Ruins	0
+Dwarven Scorcher	0
+Dwarven Shrine	0
+Dwarven Soldier	0
+Dwarven Strike Force	0
+Dwarven Vigilantes	0
+Dwell on the Past	0
+Dying Wail	0
+Dying Wish	0
+Dynacharge	0
+Dystopia	0
+Eager Cadet	0
+Early Frost	0
+Earsplitting Rats	0
+Earth Elemental	0
+Earth Servant	0
+Earth Surge	0
+Earthblighter	0
+Earthbrawn	0
+Earthen Arms	0
+Earthen Goo	0
+Earthlink	0
+Earthquake	0
+Earthshaker	0
+Eastern Paladin	0
+Eaten by Spiders	0
+Eater of Hope	0
+Ebon Drake	0
+Ebon Stronghold	0
+Ebonblade Reaper	0
+Ebony Horse	0
+Ebony Rhino	0
+Ebony Treefolk	0
+Echo Circlet	0
+Echo Tracer	0
+Echoes of the Kin Tree	0
+Echoing Calm	0
+Echoing Courage	0
+Edge of Autumn	0
+Edgewalker	0
+Eel Umbra	0
+Eerie Procession	0
+Efreet Weaponmaster	0
+Ego Erasure	0
+Eiganjo Free-Riders	0
+Eight-and-a-Half-Tails	0
+Eightfold Maze	0
+Ekundu Cyclops	0
+Eland Umbra	0
+Elder Cathar	0
+Elder Druid	0
+Elder Land Wurm	0
+Elder Mastery	0
+Elder of Laurels	0
+Eldrazi Aggressor	0
+Eldrazi Devastator	0
+Eldrazi Skyspawner	0
+Electrolyze	0
+Electropotence	0
+Electrostatic Bolt	0
+Electryte	0
+Elemental Augury	0
+Elemental Bond	0
+Elemental Resonance	0
+Elephant Guide	0
+Elf Replica	0
+Elfhame Palace	0
+Elgaud Shieldmate	0
+Elite Arcanist	0
+Elite Archers	0
+Elite Cat Warrior	0
+Elite Inquisitor	0
+Elite Javelineer	0
+Elite Skirmisher	0
+Elite Vanguard	0
+Elixir of Vitality	0
+Elkin Bottle	0
+Elsewhere Flask	0
+Elusive Krasis	0
+Elusive Spellfist	0
+Elusive Tormentor	0
+Elven Cache	0
+Elven Lyre	0
+Elven Riders	0
+Elven Rite	0
+Elves of Deep Shadow	0
+Elvish Aberration	0
+Elvish Bard	0
+Elvish Branchbender	0
+Elvish Eulogist	0
+Elvish Fury	0
+Elvish Guidance	0
+Elvish Handservant	0
+Elvish Harbinger	0
+Elvish Hexhunter	0
+Elvish Hunter	0
+Elvish Lookout	0
+Elvish Lyrist	0
+Elvish Mystic	0
+Elvish Pathcutter	0
+Elvish Promenade	0
+Elvish Ranger	0
+Elvish Scrapper	0
+Elvish Skysweeper	0
+Elvish Visionary	0
+Elvish Warrior	0
+Emancipation Angel	0
+Embalmed Brawler	0
+Ember Beast	0
+Ember Gale	0
+Ember Hauler	0
+Ember Shot	0
+Ember Weaver	0
+Ember-Eye Wolf	0
+Ember-Fist Zubera	0
+Embersmith	0
+Emberstrike Duo	0
+Emberwilde Augur	0
+Emberwilde Caliph	0
+Emblazoned Golem	0
+Emblem of the Warmind	0
+Embodiment of Fury	0
+Embodiment of Insight	0
+Embodiment of Spring	0
+Embolden	0
+Emerald Oryx	0
+Emerge Unscathed	0
+Emissary of Despair	0
+Emissary of Hope	0
+Emissary of the Sleepless	0
+Emmara Tandris	0
+Emmessi Tome	0
+Emperor Crocodile	0
+Empty the Catacombs	0
+Empty-Shrine Kannushi	0
+Empyrial Armor	0
+Empyrial Plate	0
+Emrakul's Hatcher	0
+Enatu Golem	0
+Encase in Ice	0
+Enchantment Alteration	0
+Encircling Fissure	0
+Enclave Cryptologist	0
+Enclave Elite	0
+Encroach	0
+Encroaching Wastes	0
+Encrust	0
+Endangered Armodon	0
+Endbringer's Revel	0
+Endemic Plague	0
+Endless Obedience	0
+Endless Scream	0
+Endless Wurm	0
+Endrek Sahr, Master Breeder	0
+Endure	0
+Enduring Renewal	0
+Enduring Scalelord	0
+Enduring Victory	0
+Enemy of the Guildpact	0
+Energizer	0
+Energy Arc	0
+Enervate	0
+Enfeeblement	0
+Engulfing Flames	0
+Engulfing Slagwurm	0
+Enhanced Awareness	0
+Enigma Eidolon	0
+Enlarge	0
+Enlightened Ascetic	0
+Enlisted Wurm	0
+Enlistment Officer	0
+Enormous Baloth	0
+Enrage	0
+Enraging Licid	0
+Enshrouding Mist	0
+Enslave	0
+Enslaved Dwarf	0
+Ensouled Scimitar	0
+Entangling Trap	0
+Entangling Vines	0
+Enthralling Victor	0
+Entomber Exarch	0
+Entrails Feaster	0
+Entropic Eidolon	0
+Entropic Specter	0
+Ephara's Enlightenment	0
+Ephara's Radiance	0
+Ephemeral Shields	0
+Ephemeron	0
+Epic Confrontation	0
+Epic Proportions	0
+Epic Struggle	0
+Epiphany Storm	0
+Epitaph Golem	0
+Epochrasite	0
+Equestrian Skill	0
+Eradicate	0
+Erase	0
+Erdwal Illuminator	0
+Erdwal Ripper	0
+Erebos's Emissary	0
+Erg Raiders	0
+Erhnam Djinn	0
+Eron the Relentless	0
+Errand of Duty	0
+Errant Doomsayers	0
+Errant Ephemeron	0
+Errantry	0
+Erratic Explosion	0
+Erratic Mutation	0
+Ersatz Gnomes	0
+Ertai's Trickery	0
+Escape Routes	0
+Escaped Null	0
+Esper Battlemage	0
+Esper Cormorants	0
+Esper Panorama	0
+Esper Sojourners	0
+Esper Stormblade	0
+Esperzoa	0
+Essence Backlash	0
+Essence Bottle	0
+Essence Depleter	0
+Essence Drain	0
+Essence Filter	0
+Essence Flare	0
+Essence Flux	0
+Essence Fracture	0
+Essence Harvest	0
+Essence Leak	0
+Essence Scatter	0
+Etched Oracle	0
+Eternal Thirst	0
+Eternity Snare	0
+Ether Well	0
+Ethercaste Knight	0
+Ethereal Ambush	0
+Ethereal Guidance	0
+Ethereal Usher	0
+Ethereal Whiskergill	0
+Etherium Abomination	0
+Etherium Astrolabe	0
+Etherium Sculptor	0
+Etherwrought Page	0
+Evanescent Intellect	0
+Evangel of Heliod	0
+Evangelize	0
+Evasive Action	0
+Even the Odds	0
+Everbark Shaman	0
+Everflame Eidolon	0
+Everflowing Chalice	0
+Evernight Shade	0
+Evil Eye of Orms-by-Gore	0
+Evil Eye of Urborg	0
+Evil Presence	0
+Eviscerator	0
+Evolution Charm	0
+Evolving Wilds	0
+Exalted Dragon	0
+Excise	0
+Exclusion Ritual	0
+Excommunicate	0
+Excoriate	0
+Excruciator	0
+Execute	0
+Executioner's Capsule	0
+Executioner's Hood	0
+Executioner's Swing	0
+Exert Influence	0
+Exhumer Thrull	0
+Exile	0
+Exile into Darkness	0
+Exiled Boggart	0
+Exiled Doomsayer	0
+Exorcist	0
+Exoskeletal Armor	0
+Exotic Curse	0
+Exotic Disease	0
+Expedite	0
+Expedition Raptor	0
+Expendable Troops	0
+Exploding Borders	0
+Explorer's Scope	0
+Explosive Apparatus	0
+Explosive Growth	0
+Explosive Impact	0
+Explosive Revelation	0
+Expose Evil	0
+Expunge	0
+Extractor Demon	0
+Extravagant Spirit	0
+Extruder	0
+Exuberant Firestoker	0
+Eye Gouge	0
+Eye for an Eye	0
+Eye of Nowhere	0
+Eye of Singularity	0
+Eyeblight Assassin	0
+Eyeblight Massacre	0
+Eyeblight's Ending	0
+Eyeless Watcher	0
+Eyes in the Skies	0
+Eyes of the Watcher	0
+Eyes of the Wisent	0
+Ezuri's Archers	0
+Ezuri's Brigade	0
+Fa'adiyah Seer	0
+Fabled Hero	0
+Face of Fear	0
+Faceless Butcher	0
+Faceless Devourer	0
+Faces of the Past	0
+Facevaulter	0
+Fade from Memory	0
+Fade into Antiquity	0
+Faerie Invaders	0
+Faerie Mechanist	0
+Faerie Noble	0
+Faerie Swarm	0
+Faerie Tauntings	0
+Faerie Trickery	0
+Faith's Fetters	0
+Faith's Shield	0
+Faithful Squire	0
+Falkenrath Exterminator	0
+Falkenrath Marauders	0
+Falkenrath Noble	0
+Falkenrath Torturer	0
+Fall of the Gavel	0
+Fall of the Hammer	0
+Fallen Angel	0
+Fallen Askari	0
+Fallen Cleric	0
+Fallen Ferromancer	0
+Fallen Ideal	0
+Fallow Earth	0
+Fallowsage	0
+False Defeat	0
+False Memories	0
+Falter	0
+Familiar Ground	0
+Familiar's Ruse	0
+Famine	0
+Famished Ghoul	0
+Fanatic of Mogis	0
+Fanatic of Xenagos	0
+Fang Skulkin	0
+Fangren Hunter	0
+Fangren Pathcutter	0
+Fanning the Flames	0
+Farbog Boneflinger	0
+Farbog Explorer	0
+Farbog Revenant	0
+Farrel's Mantle	0
+Farrel's Zealot	0
+Farsight Mask	0
+Fatal Attraction	0
+Fatal Blow	0
+Fatal Frenzy	0
+Fatal Fumes	0
+Fate Foretold	0
+Fate Forgotten	0
+Fate Transfer	0
+Fate Unraveler	0
+Fated Conflagration	0
+Fated Infatuation	0
+Fated Intervention	0
+Fathom Mage	0
+Fathom Seer	0
+Fathom Trawl	0
+Fatigue	0
+Faultgrinder	0
+Favor of the Mighty	0
+Favor of the Woods	0
+Favorable Winds	0
+Favored Hoplite	0
+Fear	0
+Fearsome Temper	0
+Feast of Blood	0
+Feast of Dreams	0
+Feast of Flesh	0
+Feast of Worms	0
+Feast on the Fallen	0
+Feast or Famine	0
+Feat of Resistance	0
+Fecundity	0
+Feebleness	0
+Feed the Clan	0
+Feed the Pack	0
+Feeding Frenzy	0
+Feeling of Dread	0
+Felhide Brawler	0
+Felhide Minotaur	0
+Felhide Petrifier	0
+Felhide Spiritbinder	0
+Felidar Cub	0
+Felidar Sovereign	0
+Femeref Archers	0
+Femeref Healer	0
+Fencer Clique	0
+Fencer's Magemark	0
+Fencing Ace	0
+Feral Animist	0
+Feral Contest	0
+Feral Deceiver	0
+Feral Hydra	0
+Feral Incarnation	0
+Feral Instinct	0
+Feral Invocation	0
+Feral Lightning	0
+Feral Ridgewolf	0
+Feral Shadow	0
+Feral Thallid	0
+Feral Throwback	0
+Ferocious Charge	0
+Ferocity	0
+Ferropede	0
+Ferrovore	0
+Fertile Ground	0
+Fertile Imagination	0
+Fertile Thicket	0
+Fervent Cathar	0
+Fervent Denial	0
+Fervor	0
+Festercreep	0
+Festergloom	0
+Festerhide Boar	0
+Festering Evil	0
+Festering Goblin	0
+Festering March	0
+Festering Newt	0
+Festering Wound	0
+Festival of the Guildpact	0
+Fetid Horror	0
+Fetid Imp	0
+Fettergeist	0
+Feudkiller's Verdict	0
+Fever Charm	0
+Fevered Strength	0
+Fiddlehead Kami	0
+Field Surgeon	0
+Field of Reality	0
+Field of Souls	0
+Fiery Bombardment	0
+Fiery Conclusion	0
+Fiery Fall	0
+Fiery Hellhound	0
+Fiery Mantle	0
+Fiery Temper	0
+Fight to the Death	0
+Fighting Chance	0
+Fighting Drake	0
+Filigree Angel	0
+Filigree Fracture	0
+Filigree Sages	0
+Fill with Fright	0
+Filth	0
+Filthy Cur	0
+Final Punishment	0
+Final Revels	0
+Fire Ambush	0
+Fire Ants	0
+Fire Dragon	0
+Fire Drake	0
+Fire Elemental	0
+Fire Imp	0
+Fire Juggler	0
+Fire Servant	0
+Fire Sprites	0
+Fire Whip	0
+Fire at Will	0
+Fire-Belly Changeling	0
+Fire-Field Ogre	0
+Fireball	0
+Firebreathing	0
+Firefiend Elemental	0
+Firefist Striker	0
+Firefly	0
+Firefright Mage	0
+Firehoof Cavalry	0
+Firemane Angel	0
+Firemane Avenger	0
+Firemantle Mage	0
+Firemaw Kavu	0
+Firemind's Foresight	0
+Fires of Undeath	0
+Fires of Yavimaya	0
+Fireshrieker	0
+Firestorm Phoenix	0
+Firewake Sliver	0
+Firewing Phoenix	0
+First Response	0
+First Volley	0
+Fishliver Oil	0
+Fissure	0
+Fissure Vent	0
+Fists of the Anvil	0
+Fists of the Demigod	0
+Five-Alarm Fire	0
+Flailing Drake	0
+Flailing Ogre	0
+Flame Burst	0
+Flame Elemental	0
+Flame Fusillade	0
+Flame Javelin	0
+Flame Wave	0
+Flame-Kin War Scout	0
+Flame-Kin Zealot	0
+Flameblast Dragon	0
+Flameborn Hellion	0
+Flamecast Wheel	0
+Flamecore Elemental	0
+Flamekin Bladewhirl	0
+Flamekin Brawler	0
+Flamekin Harbinger	0
+Flamekin Spitfire	0
+Flames of the Firebrand	0
+Flameshot	0
+Flamespeaker Adept	0
+Flamespeaker's Will	0
+Flamestick Courier	0
+Flametongue Kavu	0
+Flamewave Invoker	0
+Flaming Gambit	0
+Flaming Sword	0
+Flare	0
+Flash Counter	0
+Flash Flood	0
+Flash Foliage	0
+Flash of Defiance	0
+Flash of Insight	0
+Flashfires	0
+Flashfreeze	0
+Flatten	0
+Flay	0
+Flayed Nim	0
+Flayer Drone	0
+Flayer of the Hatebound	0
+Fledgling Djinn	0
+Fledgling Griffin	0
+Fledgling Imp	0
+Fledgling Mawcor	0
+Fleecemane Lion	0
+Fleetfeather Cockatrice	0
+Fleetfeather Sandals	0
+Fleetfoot Panther	0
+Fleeting Distraction	0
+Fleeting Image	0
+Flensermite	0
+Flesh // Blood	0
+Flesh Allergy	0
+Flesh Reaver	0
+Flesh to Dust	0
+Flesh-Eater Imp	0
+Fleshbag Marauder	0
+Fleshformer	0
+Fleshmad Steed	0
+Fleshpulper Giant	0
+Fleshwrither	0
+Flickerform	0
+Flickering Spirit	0
+Flight	0
+Flight Spellbomb	0
+Flight of Fancy	0
+Flint Golem	0
+Flitterstep Eidolon	0
+Floating Shield	0
+Floating-Dream Zubera	0
+Flood Plain	0
+Floodbringer	0
+Floodchaser	0
+Flooded Shoreline	0
+Floodgate	0
+Floodtide Serpent	0
+Flourishing Defenses	0
+Flow of Ideas	0
+Flowering Field	0
+Flowering Lumberknot	0
+Flowstone Armor	0
+Flowstone Blade	0
+Flowstone Channeler	0
+Flowstone Charger	0
+Flowstone Crusher	0
+Flowstone Embrace	0
+Flowstone Flood	0
+Flowstone Giant	0
+Flowstone Hellion	0
+Flowstone Mauler	0
+Flowstone Salamander	0
+Flowstone Sculpture	0
+Flowstone Shambler	0
+Flowstone Slide	0
+Flowstone Surge	0
+Flowstone Wall	0
+Flowstone Wyvern	0
+Flurry of Horns	0
+Flurry of Wings	0
+Flying Carpet	0
+Flying Crane Technique	0
+Flying Men	0
+Fodder Cannon	0
+Fodder Launch	0
+Fog	0
+Fog Elemental	0
+Fog Patch	0
+Fog of Gnats	0
+Fold into Aether	0
+Folk Medicine	0
+Folk of the Pines	0
+Followed Footsteps	0
+Fomori Nomad	0
+Font of Fertility	0
+Font of Fortunes	0
+Font of Ire	0
+Font of Vigor	0
+Fool's Demise	0
+Fool's Tome	0
+Foot Soldiers	0
+Footbottom Feast	0
+Foothill Guide	0
+Foratog	0
+Forbidden Lore	0
+Forbidden Ritual	0
+Forbidding Watchtower	0
+Force Away	0
+Force Bubble	0
+Force of Nature	0
+Forced Adaptation	0
+Forced Retreat	0
+Forced Worship	0
+Forcemage Advocate	0
+Forerunner of Slaughter	0
+Foresee	0
+Foreshadow	0
+Forest	0
+Forfend	0
+Forge Armor	0
+Forgeborn Oreads	0
+Forgotten Lore	0
+Foriysian Brigade	0
+Foriysian Interceptor	0
+Foriysian Totem	0
+Fork in the Road	0
+Forked Lightning	0
+Forked-Branch Garami	0
+Forlorn Pseudamma	0
+Form of the Dragon	0
+Formless Nurturing	0
+Forsaken Drifters	0
+Forsaken Sanctuary	0
+Fortified Rampart	0
+Fortify	0
+Fortitude	0
+Fortress Crab	0
+Fortress Cyclops	0
+Fossil Find	0
+Foster	0
+Foul Familiar	0
+Foul Imp	0
+Foul Orchard	0
+Foul Presence	0
+Foul Spirit	0
+Foul-Tongue Invocation	0
+Foul-Tongue Shriek	0
+Foundry Champion	0
+Foundry Street Denizen	0
+Fountain of Youth	0
+Foxfire Oak	0
+Fractured Loyalty	0
+Frantic Purification	0
+Frantic Salvage	0
+Frantic Search	0
+Frazzle	0
+Freewind Equenaut	0
+Freewind Falcon	0
+Frenetic Sliver	0
+Frenzied Goblin	0
+Frenzied Tilling	0
+Frenzy Sliver	0
+Fresh Meat	0
+Freyalise's Radiance	0
+Freyalise's Winds	0
+Frightful Delusion	0
+Frightshroud Courier	0
+Frilled Oculus	0
+Frog Tongue	0
+Frontier Bivouac	0
+Frontier Guide	0
+Frontline Medic	0
+Frontline Sage	0
+Frontline Strategist	0
+Frost Breath	0
+Frost Giant	0
+Frost Lynx	0
+Frost Marsh	0
+Frost Raptor	0
+Frostburn Weird	0
+Frostling	0
+Frostweb Spider	0
+Frostwielder	0
+Frostwind Invoker	0
+Frozen Aether	0
+Frozen Solid	0
+Fuel for the Cause	0
+Fugitive Druid	0
+Fugitive Wizard	0
+Fugue	0
+Fulgent Distraction	0
+Full Moon's Rise	0
+Fumarole	0
+Funeral March	0
+Fungal Behemoth	0
+Fungal Reaches	0
+Fungal Sprouting	0
+Fungus Sliver	0
+Fungusaur	0
+Furious Resistance	0
+Furnace Brood	0
+Furnace Celebration	0
+Furnace Scamp	0
+Furnace Spirit	0
+Furnace Whelp	0
+Furor of the Bitten	0
+Furtive Homunculus	0
+Fury Charm	0
+Fury Sliver	0
+Fusion Elemental	0
+Future Sight	0
+Fyndhorn Elder	0
+Fyndhorn Pollen	0
+Gaea's Avenger	0
+Gaea's Blessing	0
+Gaea's Bounty	0
+Gaea's Embrace	0
+Gaea's Liege	0
+Gaea's Skyfolk	0
+Gainsay	0
+Gale Force	0
+Galepowder Mage	0
+Gallantry	0
+Gallows Warden	0
+Gallows at Willow Hill	0
+Galvanic Alchemist	0
+Galvanic Arc	0
+Galvanic Juggernaut	0
+Galvanic Key	0
+Game-Trail Changeling	0
+Gamekeeper	0
+Gang of Devils	0
+Gang of Elk	0
+Gangrenous Goliath	0
+Gangrenous Zombies	0
+Gargoyle Castle	0
+Gargoyle Sentinel	0
+Garruk's Horde	0
+Garruk's Packleader	0
+Garza Zol, Plague Queen	0
+Gaseous Form	0
+Gate Hound	0
+Gate Smasher	0
+Gate to Phyrexia	0
+Gate to the Aether	0
+Gatecreeper Vine	0
+Gateway Shade	0
+Gathan Raiders	0
+Gather Courage	0
+Gather the Pack	0
+Gatherer of Graces	0
+Gatstaf Arsonists	0
+Gatstaf Shepherd	0
+Gauntlets of Chaos	0
+Gavony Ironwright	0
+Gaze of Adamaro	0
+Gaze of Granite	0
+Gaze of Justice	0
+Gaze of the Gorgon	0
+Geist Snatch	0
+Geist Trappers	0
+Geist of the Moors	0
+Geist-Honored Monk	0
+Geistblast	0
+Geistcatcher's Rig	0
+Geistflame	0
+Gelatinous Genesis	0
+Gelectrode	0
+Gelid Shackles	0
+Gem of Becoming	0
+Gemhide Sliver	0
+Gemini Engine	0
+Gempalm Avenger	0
+Gempalm Sorcerer	0
+Gempalm Strider	0
+Gemstone Array	0
+Generator Servant	0
+Genesis	0
+Genju of the Cedars	0
+Genju of the Falls	0
+Genju of the Fens	0
+Genju of the Fields	0
+Genju of the Spires	0
+Geosurge	0
+Gerrard's Battle Cry	0
+Gerrard's Irregulars	0
+Gerrard's Verdict	0
+Gerrard's Wisdom	0
+Geth's Grimoire	0
+Geyser Glider	0
+Geyserfield Stalker	0
+Ghalma's Warden	0
+Ghastlord of Fugue	0
+Ghastly Discovery	0
+Ghazbán Ogre	0
+Ghirapur Aether Grid	0
+Ghirapur Gearcrafter	0
+Ghitu Encampment	0
+Ghitu Fire-Eater	0
+Ghitu Firebreathing	0
+Ghitu Slinger	0
+Ghitu War Cry	0
+Ghor-Clan Bloodscale	0
+Ghor-Clan Savage	0
+Ghost Council of Orzhova	0
+Ghost Ship	0
+Ghost Tactician	0
+Ghost Town	0
+Ghost Warden	0
+Ghost-Lit Nourisher	0
+Ghost-Lit Raider	0
+Ghost-Lit Stalker	0
+Ghostblade Eidolon	0
+Ghostfire	0
+Ghostflame Sliver	0
+Ghosthelm Courier	0
+Ghostly Changeling	0
+Ghostly Possession	0
+Ghostly Sentinel	0
+Ghostly Touch	0
+Ghostly Visit	0
+Ghostly Wings	0
+Ghosts of the Damned	0
+Ghosts of the Innocent	0
+Ghoul's Feast	0
+Ghoulcaller's Accomplice	0
+Ghoulcaller's Bell	0
+Ghoulsteed	0
+Giant Ambush Beetle	0
+Giant Badger	0
+Giant Caterpillar	0
+Giant Cockroach	0
+Giant Crab	0
+Giant Dustwasp	0
+Giant Growth	0
+Giant Harbinger	0
+Giant Mantis	0
+Giant Octopus	0
+Giant Oyster	0
+Giant Scorpion	0
+Giant Solifuge	0
+Giant Spider	0
+Giant Strength	0
+Giant Tortoise	0
+Giant Trap Door Spider	0
+Giant Warthog	0
+Giant's Ire	0
+Giantbaiting	0
+Gibbering Descent	0
+Gibbering Fiend	0
+Gibbering Kami	0
+Gideon's Lawkeeper	0
+Gideon's Phalanx	0
+Gideon's Reproach	0
+Gift of Estates	0
+Gift of Granite	0
+Gift of Orzhova	0
+Gift of Tusks	0
+Gift of the Deity	0
+Gift of the Gargantuan	0
+Gigapede	0
+Gilded Light	0
+Gilt-Leaf Ambush	0
+Gilt-Leaf Seer	0
+Giltspire Avenger	0
+Give // Take	0
+Glacial Crasher	0
+Glacial Crevasses	0
+Glacial Plating	0
+Glacial Ray	0
+Glacial Stalker	0
+Glacial Wall	0
+Glade Watcher	0
+Gladehart Cavalry	0
+Glamer Spinners	0
+Glamerdye	0
+Glare of Heresy	0
+Glare of Subdual	0
+Glarecaster	0
+Glarewielder	0
+Glaring Aegis	0
+Glaring Spotlight	0
+Glass Asp	0
+Glass Golem	0
+Glassdust Hulk	0
+Glaze Fiend	0
+Gleam of Battle	0
+Gleam of Resistance	0
+Gleancrawler	0
+Glen Elendra Liege	0
+Glen Elendra Pranksters	0
+Gliding Licid	0
+Glimmerdust Nap	0
+Glimmering Angel	0
+Glimmerpoint Stag	0
+Glimmerpost	0
+Glimpse the Future	0
+Glimpse the Sun God	0
+Glint	0
+Glint Hawk Idol	0
+Glintwing Invoker	0
+Glissa's Courier	0
+Glissa's Scorn	0
+Glitterfang	0
+Glittering Lion	0
+Gloom Surgeon	0
+Gloomdrifter	0
+Gloomhunter	0
+Gloomlance	0
+Gloomwidow	0
+Gloomwidow's Feast	0
+Glorious Charge	0
+Glory Seeker	0
+Glory of Warfare	0
+Gloryscale Viashino	0
+Glowering Rogon	0
+Glowing Anemone	0
+Glowrider	0
+Gluttonous Slime	0
+Gluttonous Zombie	0
+Gnarled Effigy	0
+Gnarled Mass	0
+Gnarled Scarhide	0
+Gnarlid Pack	0
+Gnarlroot Trapper	0
+Gnathosaur	0
+Gnawing Zombie	0
+Goatnapper	0
+Gobbling Ooze	0
+Gobhobbler Rats	0
+Goblin Archaeologist	0
+Goblin Arsonist	0
+Goblin Artillery	0
+Goblin Assassin	0
+Goblin Assault	0
+Goblin Balloon Brigade	0
+Goblin Bangchuckers	0
+Goblin Battle Jester	0
+Goblin Berserker	0
+Goblin Boom Keg	0
+Goblin Brawler	0
+Goblin Brigand	0
+Goblin Bully	0
+Goblin Burrows	0
+Goblin Cadets	0
+Goblin Cannon	0
+Goblin Cavaliers	0
+Goblin Chariot	0
+Goblin Clearcutter	0
+Goblin Commando	0
+Goblin Deathraiders	0
+Goblin Digging Team	0
+Goblin Diplomats	0
+Goblin Dirigible	0
+Goblin Dynamo	0
+Goblin Elite Infantry	0
+Goblin Fire Fiend	0
+Goblin Firebug	0
+Goblin Fireslinger	0
+Goblin Firestarter	0
+Goblin Flectomancer	0
+Goblin Freerunner	0
+Goblin Furrier	0
+Goblin Gardener	0
+Goblin Gaveleer	0
+Goblin General	0
+Goblin Glider	0
+Goblin Glory Chaser	0
+Goblin Goon	0
+Goblin Grappler	0
+Goblin Grenadiers	0
+Goblin Legionnaire	0
+Goblin Machinist	0
+Goblin Masons	0
+Goblin Medics	0
+Goblin Mountaineer	0
+Goblin Mutant	0
+Goblin Outlander	0
+Goblin Patrol	0
+Goblin Piker	0
+Goblin Psychopath	0
+Goblin Pyromancer	0
+Goblin Raider	0
+Goblin Rally	0
+Goblin Razerunners	0
+Goblin Replica	0
+Goblin Rimerunner	0
+Goblin Ringleader	0
+Goblin Roughrider	0
+Goblin Ruinblaster	0
+Goblin Settler	0
+Goblin Shortcutter	0
+Goblin Shrine	0
+Goblin Ski Patrol	0
+Goblin Sky Raider	0
+Goblin Skycutter	0
+Goblin Spelunkers	0
+Goblin Spy	0
+Goblin Striker	0
+Goblin Swine-Rider	0
+Goblin Taskmaster	0
+Goblin Test Pilot	0
+Goblin Trenches	0
+Goblin Tunneler	0
+Goblin Turncoat	0
+Goblin War Buggy	0
+Goblin War Drums	0
+Goblin War Paint	0
+Goblin War Wagon	0
+Goblin Warchief	0
+Goblins of the Flarg	0
+Goblinslide	0
+God-Favored General	0
+Godhead of Awe	0
+Godhunter Octopus	0
+Godo's Irregulars	0
+Gods' Eye, Gate to the Reikai	0
+Godtoucher	0
+Godtracker of Jund	0
+Goham Djinn	0
+Gold Myr	0
+Gold-Forged Sentinel	0
+Golden Hind	0
+Goldenglow Moth	0
+Goldenhide Ox	0
+Goldmeadow Dodger	0
+Goldmeadow Lookout	0
+Goldmeadow Stalwart	0
+Goldnight Commander	0
+Goldnight Redeemer	0
+Golem Artisan	0
+Golem-Skin Gauntlets	0
+Golgari Cluestone	0
+Golgari Germination	0
+Golgari Guildmage	0
+Golgari Keyrune	0
+Golgari Longlegs	0
+Golgari Rot Farm	0
+Golgari Rotwurm	0
+Golgari Signet	0
+Goliath Beetle	0
+Goliath Sphinx	0
+Goliath Spider	0
+Gomazoa	0
+Gore Vassal	0
+Gore-House Chainwalker	0
+Gorehorn Minotaurs	0
+Goretusk Firebeast	0
+Gorger Wurm	0
+Gorgon Flail	0
+Gorgon Recluse	0
+Gorgon's Head	0
+Gorilla Chieftain	0
+Gorilla Titan	0
+Gorilla War Cry	0
+Gorilla Warrior	0
+Gossamer Chains	0
+Gossamer Phantasm	0
+Grab the Reins	0
+Graceblade Artisan	0
+Graceful Adept	0
+Graceful Antelope	0
+Graceful Reprieve	0
+Graf Mole	0
+Grafted Exoskeleton	0
+Grafted Skullcap	0
+Grand Coliseum	0
+Grand Melee	0
+Grandmother Sengir	0
+Granite Gargoyle	0
+Granite Grip	0
+Granite Shard	0
+Granulate	0
+Grapeshot Catapult	0
+Grappler Spider	0
+Grasp of Phantoms	0
+Grasp of the Hieromancer	0
+Grassland Crusader	0
+Grasslands	0
+Grave Betrayal	0
+Grave Birthing	0
+Grave Bramble	0
+Grave Consequences	0
+Grave Defiler	0
+Grave Exchange	0
+Grave Peril	0
+Grave Servitude	0
+Grave-Shell Scarab	0
+Gravebane Zombie	0
+Gravebind	0
+Graveblade Marauder	0
+Gravedigger	0
+Gravegouger	0
+Gravel Slinger	0
+Gravelgill Axeshark	0
+Gravelgill Duo	0
+Graven Dominator	0
+Gravepurge	0
+Graverobber Spider	0
+Gravetiller Wurm	0
+Graveyard Shovel	0
+Gravitational Shift	0
+Gravity Negator	0
+Gravity Well	0
+Graxiplon	0
+Graypelt Hunter	0
+Grayscaled Gharial	0
+Grazing Gladehart	0
+Grazing Kelpie	0
+Great Sable Stag	0
+Great Teacher's Decree	0
+Greatbow Doyen	0
+Greater Basilisk	0
+Greater Forgeling	0
+Greater Harvester	0
+Greater Mossdog	0
+Greater Realm of Preservation	0
+Greater Stone Spirit	0
+Greatsword	0
+Greenhilt Trainee	0
+Greenseeker	0
+Greenside Watcher	0
+Greenweaver Druid	0
+Gremlin Mine	0
+Grid Monitor	0
+Gridlock	0
+Grief Tyrant	0
+Griffin Dreamfinder	0
+Griffin Guide	0
+Griffin Protector	0
+Griffin Rider	0
+Griffin Sentinel	0
+Grifter's Blade	0
+Grim Affliction	0
+Grim Backwoods	0
+Grim Discovery	0
+Grim Flowering	0
+Grim Haruspex	0
+Grim Poppet	0
+Grim Reminder	0
+Grim Roustabout	0
+Grimclaw Bats	0
+Grindclock	0
+Grinning Demon	0
+Grinning Ignus	0
+Grip of Amnesia	0
+Grip of Desolation	0
+Griptide	0
+Grisly Spectacle	0
+Grisly Transformation	0
+Gristle Grinner	0
+Gristleback	0
+Grixis Battlemage	0
+Grixis Charm	0
+Grixis Illusionist	0
+Grixis Panorama	0
+Grixis Slavedriver	0
+Grixis Sojourners	0
+Grizzled Leotau	0
+Grizzled Outcasts	0
+Grizzly Bears	0
+Grizzly Fate	0
+Groffskithur	0
+Grollub	0
+Grotag Siege-Runner	0
+Grotag Thrasher	0
+Grotesque Hybrid	0
+Grotesque Mutation	0
+Ground Assault	0
+Ground Rift	0
+Grounded	0
+Groundling Pouncer	0
+Groundshaker Sliver	0
+Groundskeeper	0
+Grove Rumbler	0
+Grove of the Guardian	0
+Grovetender Druids	0
+Growing Ranks	0
+Grozoth	0
+Gruesome Deformity	0
+Gruesome Discovery	0
+Gruesome Encore	0
+Gruesome Slaughter	0
+Gruul Charm	0
+Gruul Cluestone	0
+Gruul Guildgate	0
+Gruul Guildmage	0
+Gruul Keyrune	0
+Gruul Nodorog	0
+Gruul Ragebeast	0
+Gruul Scrapper	0
+Gruul Turf	0
+Gruul War Chant	0
+Gruul War Plow	0
+Gryff Vanguard	0
+Guan Yu's 1,000-Li March	0
+Guan Yu, Sainted Warrior	0
+Guard Duty	0
+Guard Gomazoa	0
+Guardian Automaton	0
+Guardian Lions	0
+Guardian Shield-Bearer	0
+Guardian Zendikon	0
+Guardian of Cloverdell	0
+Guardian of Solitude	0
+Guardian of Vitu-Ghazi	0
+Guardian of the Ages	0
+Guardian of the Gateless	0
+Guardian's Magemark	0
+Guardians of Akrasa	0
+Guardians of Meletis	0
+Gudul Lurker	0
+Guerrilla Tactics	0
+Guided Strike	0
+Guild Feud	0
+Guildscorn Ward	0
+Guile	0
+Guilty Conscience	0
+Guise of Fire	0
+Gurmag Drowner	0
+Gurmag Swiftwing	0
+Gurzigost	0
+Gust-Skimmer	0
+Gustcloak Cavalier	0
+Gustcloak Harrier	0
+Gustcloak Runner	0
+Gustcloak Savior	0
+Gustcloak Sentinel	0
+Gustcloak Skirmisher	0
+Gustha's Scepter	0
+Gustrider Exuberant	0
+Gutless Ghoul	0
+Gutter Skulk	0
+Gutwrencher Oni	0
+Guul Draz Overseer	0
+Guul Draz Specter	0
+Gwafa Hazid, Profiteer	0
+Gwyllion Hedge-Mage	0
+Gyre Sage	0
+Haazda Exonerator	0
+Haazda Shield Mate	0
+Haazda Snare Squad	0
+Hada Spy Patrol	0
+Hag Hedge-Mage	0
+Hagra Crocodile	0
+Hagra Diabolist	0
+Hagra Sharpshooter	0
+Hail Storm	0
+Hail of Arrows	0
+Hair-Strung Koto	0
+Halam Djinn	0
+Halberdier	0
+Halcyon Glaze	0
+Halimar Excavator	0
+Halimar Tidecaller	0
+Halimar Wavewatch	0
+Hallowed Ground	0
+Hallowed Healer	0
+Halo Hunter	0
+Halt Order	0
+Hamlet Captain	0
+Hamletback Goliath	0
+Hammer of Bogardan	0
+Hammer of Purphoros	0
+Hammer of Ruin	0
+Hammerfist Giant	0
+Hammerhand	0
+Hammerhead Shark	0
+Hammerheim	0
+Hammerheim Deadeye	0
+Hana Kami	0
+Hand of Emrakul	0
+Hand of Justice	0
+Hand of Silumgar	0
+Hands of Binding	0
+Hankyu	0
+Hanweir Lancer	0
+Hanweir Watchkeep	0
+Harbinger of Spring	0
+Harbinger of the Hunt	0
+Harbor Bandit	0
+Harbor Serpent	0
+Hardened Berserker	0
+Harm's Way	0
+Harmattan Efreet	0
+Harmless Assault	0
+Harmonic Convergence	0
+Harmonic Sliver	0
+Harness by Force	0
+Harpoon Sniper	0
+Harrier Griffin	0
+Harrowing Journey	0
+Harsh Deceiver	0
+Harsh Justice	0
+Haru-Onna	0
+Harvest Gwyllion	0
+Harvest Hand	0
+Harvester Druid	0
+Harvester Troll	0
+Harvestguard Alseids	0
+Hasran Ogress	0
+Hatchet Bully	0
+Hate Weaver	0
+Haunted Angel	0
+Haunted Cadaver	0
+Haunted Cloak	0
+Haunted Guardian	0
+Haunted Plate Mail	0
+Haunter of Nightveil	0
+Haunting Apparition	0
+Haunting Hymn	0
+Havengul Skaab	0
+Havengul Vampire	0
+Havenwood Battleground	0
+Havenwood Wurm	0
+Havoc	0
+Havoc Demon	0
+Havoc Festival	0
+Havoc Sower	0
+Hawkeater Moth	0
+Haze Frog	0
+Haze of Rage	0
+Hazerider Drake	0
+Hazezon Tamar	0
+He Who Hungers	0
+Head Games	0
+Headhunter	0
+Headless Skaab	0
+Heal	0
+Heal the Scars	0
+Healer of the Pride	0
+Healer's Headdress	0
+Healing Hands	0
+Healing Leaves	0
+Healing Salve	0
+Heap Doll	0
+Heart of Bogardan	0
+Heart of Light	0
+Heart-Piercer Bow	0
+Hearth Kami	0
+Hearthcage Giant	0
+Hearthfire Hobgoblin	0
+Heartlash Cinder	0
+Heartmender	0
+Heartstabber Mosquito	0
+Heartwood Dryad	0
+Heartwood Giant	0
+Heartwood Shard	0
+Heartwood Treefolk	0
+Heat Ray	0
+Heat Shimmer	0
+Heat Wave	0
+Heat of Battle	0
+Heavy Arbalest	0
+Heavy Ballista	0
+Heavy Fog	0
+Heavy Infantry	0
+Heckling Fiends	0
+Hedge Troll	0
+Hedonist's Trove	0
+Hedron Alignment	0
+Hedron Blade	0
+Hedron Crawler	0
+Hedron Matrix	0
+Hedron Rover	0
+Hedron Scrabbler	0
+Hedron-Field Purists	0
+Heed the Mists	0
+Heidar, Rimewind Master	0
+Heir of Falkenrath	0
+Heir of the Wilds	0
+Heirs of Stromkirk	0
+Heliod's Emissary	0
+Helionaut	0
+Heliophial	0
+Helium Squirter	0
+Hell's Thunder	0
+Hell-Bent Raider	0
+Helldozer	0
+Hellfire Mongrel	0
+Hellhole Flailer	0
+Hellhole Rats	0
+Hellion Crucible	0
+Hellion Eruption	0
+Hellkite Hatchling	0
+Hellraiser Goblin	0
+Hellrider	0
+Helm of the Ghastlord	0
+Helm of the Gods	0
+Hematite Golem	0
+Henchfiend of Ukor	0
+Henge Guardian	0
+Herald of Anafenza	0
+Herald of Dromoka	0
+Herald of Kozilek	0
+Herald of the Host	0
+Herd Gnarr	0
+Herdchaser Dragon	0
+Heretic's Punishment	0
+Hermetic Study	0
+Hermit Druid	0
+Hermit of the Natterknolls	0
+Hero of Goma Fada	0
+Hero of Leina Tower	0
+Heroes Remembered	0
+Heroes' Podium	0
+Heroes' Reunion	0
+Heroic Defiance	0
+Hesitation	0
+Hewed Stone Retainers	0
+Hex	0
+Hex Parasite	0
+Hexplate Golem	0
+Hibernation Sliver	0
+Hibernation's End	0
+Hidden Ancients	0
+Hidden Gibbons	0
+Hidden Guerrillas	0
+Hidden Horror	0
+Hidden Retreat	0
+Hideous End	0
+Hideous Laughter	0
+Hideous Visage	0
+High Ground	0
+High Priest of Penance	0
+High Seas	0
+High Sentinels of Arashin	0
+Highborn Ghoul	0
+Highland Berserker	0
+Highland Lake	0
+Highland Weald	0
+Highspire Mantis	0
+Highway Robber	0
+Hikari, Twilight Guardian	0
+Hill Giant	0
+Hillcomber Giant	0
+Hinder	0
+Hindering Touch	0
+Hindervines	0
+Hint of Insanity	0
+Hinterland Hermit	0
+Hinterland Logger	0
+Hired Giant	0
+Hired Muscle	0
+Hired Torturer	0
+Hisoka's Defiance	0
+Hisoka's Guard	0
+Hisoka, Minamo Sensei	0
+Hissing Iguanar	0
+Hissing Miasma	0
+Hit // Run	0
+Hitchclaw Recluse	0
+Hivestone	0
+Hixus, Prison Warden	0
+Hoard-Smelter Dragon	0
+Hoarder's Greed	0
+Hoarding Dragon	0
+Hobgoblin Dragoon	0
+Hold at Bay	0
+Hold the Gates	0
+Holdout Settlement	0
+Hollow Dogs	0
+Hollow Specter	0
+Hollow Warrior	0
+Hollowborn Barghest	0
+Hollowhenge Beast	0
+Hollowhenge Scavenger	0
+Hollowhenge Spirit	0
+Hollowsage	0
+Holy Justiciar	0
+Holy Mantle	0
+Holy Strength	0
+Homarid Spawning Bed	0
+Homicidal Seclusion	0
+Homing Lightning	0
+Homing Sliver	0
+Honden of Infinite Rage	0
+Honden of Life's Web	0
+Honden of Night's Reach	0
+Honden of Seeing Winds	0
+Honor Guard	0
+Honor's Reward	0
+Honor-Worn Shaku	0
+Honorable Passage	0
+Honorable Scout	0
+Hooded Assassin	0
+Hoof Skulkin	0
+Hoofprints of the Stag	0
+Hope Against Hope	0
+Hope Charm	0
+Hope and Glory	0
+Hopeful Eidolon	0
+Horde Ambusher	0
+Horde of Boggarts	0
+Horde of Notions	0
+Hordeling Outburst	0
+Horizon Chimera	0
+Horizon Drake	0
+Horizon Scholar	0
+Horizon Seed	0
+Horizon Spellbomb	0
+Horn of Deafening	0
+Horncaller's Chant	0
+Horned Cheetah	0
+Horned Helm	0
+Horned Troll	0
+Horned Turtle	0
+Hornet Cannon	0
+Hornet Harasser	0
+Horobi's Whisper	0
+Horribly Awry	0
+Horrifying Revelation	0
+Horror of Horrors	0
+Horror of the Dim	0
+Horseshoe Crab	0
+Hostile Realm	0
+Hostility	0
+Hot Soup	0
+Hotheaded Giant	0
+Hound of Griselbrand	0
+Hour of Need	0
+Hover Barrier	0
+Hoverguard Observer	0
+Hoverguard Sweepers	0
+Hovermyr	0
+Howl from Beyond	0
+Howl of the Night Pack	0
+Howlgeist	0
+Howling Banshee	0
+Howling Gale	0
+Howling Wolf	0
+Howlpack Resurgence	0
+Howlpack Wolf	0
+Hua Tuo, Honored Physician	0
+Hubris	0
+Hulking Cyclops	0
+Hulking Goblin	0
+Hulking Ogre	0
+Hum of the Radix	0
+Human Frailty	0
+Humble Budoka	0
+Humble the Brute	0
+Humbler of Mortals	0
+Hunding Gjornersen	0
+Hundred-Handed One	0
+Hundred-Talon Kami	0
+Hundred-Talon Strike	0
+Hundroog	0
+Hunger of the Nim	0
+Hungry Mist	0
+Hungry Spriggan	0
+Hunt Down	0
+Hunt the Hunter	0
+Hunt the Weak	0
+Hunted Ghoul	0
+Hunted Lammasu	0
+Hunted Troll	0
+Hunted Wumpus	0
+Hunter of Eyeblights	0
+Hunter's Ambush	0
+Hunter's Insight	0
+Hunter's Prowess	0
+Hunters' Feast	0
+Hunting Cheetah	0
+Hunting Drake	0
+Hunting Kavu	0
+Hunting Moa	0
+Hunting Pack	0
+Hunting Triad	0
+Hunting Wilds	0
+Hurloon Minotaur	0
+Hurloon Shaman	0
+Hurly-Burly	0
+Hussar Patrol	0
+Hyalopterous Lemure	0
+Hydroform	0
+Hydromorph Guardian	0
+Hydromorph Gull	0
+Hydrosurge	0
+Hymn of Rebirth	0
+Hypersonic Dragon	0
+Hypervolt Grasp	0
+Hypnotic Cloud	0
+Hypnox	0
+Hypochondria	0
+Hysterical Blindness	0
+Hystrodon	0
+Ib Halfheart, Goblin Tactician	0
+Icatian Lieutenant	0
+Icatian Phalanx	0
+Icatian Priest	0
+Icatian Scout	0
+Icatian Town	0
+Ice Cage	0
+Ice Cauldron	0
+Ice Cave	0
+Ice Floe	0
+Iceberg	0
+Icefall	0
+Icefeather Aven	0
+Ichor Explosion	0
+Ichor Rats	0
+Ichor Slick	0
+Icy Blast	0
+Icy Manipulator	0
+Icy Prison	0
+Idle Thoughts	0
+Ifh-Bíff Efreet	0
+Igneous Pouncer	0
+Ignite Disorder	0
+Ignite Memories	0
+Ignoble Soldier	0
+Ignorant Bliss	0
+Ihsan's Shade	0
+Ikiral Outrider	0
+Ill-Tempered Cyclops	0
+Illness in the Ranks	0
+Illuminate	0
+Illuminated Folio	0
+Illuminated Wings	0
+Illumination	0
+Illusion // Reality	0
+Illusionary Armor	0
+Illusionary Forces	0
+Illusionary Servant	0
+Illusionary Wall	0
+Illusionist's Bracers	0
+Illusory Angel	0
+Illusory Demon	0
+Illusory Gains	0
+Imagecrafter	0
+Imaginary Pet	0
+Imi Statue	0
+Immerwolf	0
+Immobilizer Eldrazi	0
+Immobilizing Ink	0
+Immolating Glare	0
+Immolating Souleater	0
+Immolation	0
+Immortal Coil	0
+Immortal Servitude	0
+Impact Resonance	0
+Impaler Shrike	0
+Impatience	0
+Impelled Giant	0
+Imperial Mask	0
+Imperiosaur	0
+Impetuous Sunchaser	0
+Implode	0
+Improvised Armor	0
+Imps' Taunt	0
+In Garruk's Wake	0
+Inaction Injunction	0
+Iname, Life Aspect	0
+Incandescent Soulstoke	0
+Incendiary Command	0
+Incite	0
+Incite Hysteria	0
+Incite Rebellion	0
+Incite War	0
+Incorrigible Youths	0
+Increasing Confusion	0
+Increasing Devotion	0
+Incremental Blight	0
+Incremental Growth	0
+Incubator Drone	0
+Incursion Specialist	0
+Indebted Samurai	0
+Indentured Oaf	0
+Indestructibility	0
+Index	0
+Indigo Faerie	0
+Indomitable Archangel	0
+Indomitable Will	0
+Indrik Stomphowler	0
+Induce Despair	0
+Induce Paranoia	0
+Indulgent Aristocrat	0
+Inertia Bubble	0
+Inescapable Brute	0
+Inexorable Tide	0
+Infantry Veteran	0
+Infected Vermin	0
+Infectious Bloodlust	0
+Infectious Horror	0
+Infectious Host	0
+Infernal Caretaker	0
+Infernal Harvest	0
+Infernal Scarring	0
+Inferno	0
+Inferno Elemental	0
+Inferno Fist	0
+Inferno Trap	0
+Infest	0
+Infested Roothold	0
+Infiltrate	0
+Infiltration Lens	0
+Infiltrator il-Kor	0
+Infiltrator's Magemark	0
+Infinite Reflection	0
+Inflame	0
+Information Dealer	0
+Infuse	0
+Infuse with the Elements	0
+Infused Arrows	0
+Inheritance	0
+Initiate of Blood	0
+Ink Dissolver	0
+Ink-Treader Nephilim	0
+Inkfathom Divers	0
+Inkfathom Infiltrator	0
+Inkfathom Witch	0
+Inner Calm, Outer Strength	0
+Inner Sanctum	0
+Inner Struggle	0
+Inner-Chamber Guard	0
+Inner-Flame Igniter	0
+Innocence Kami	0
+Inquisitor Exarch	0
+Inquisitor's Flail	0
+Inquisitor's Ox	0
+Inquisitor's Snare	0
+Insatiable Harpy	0
+Insatiable Souleater	0
+Insight	0
+Insolence	0
+Insolent Neonate	0
+Inspiration	0
+Inspired Charge	0
+Inspired Sprite	0
+Inspiring Call	0
+Inspirit	0
+Instigator Gang	0
+Instill Energy	0
+Instill Furor	0
+Instill Infection	0
+Interpret the Signs	0
+Intervene	0
+Intet, the Dreamer	0
+Intimidation Bolt	0
+Intimidator Initiate	0
+Into Thin Air	0
+Into the Core	0
+Into the Fray	0
+Into the Maw of Hell	0
+Into the North	0
+Into the Void	0
+Intrepid Hero	0
+Intrepid Provisioner	0
+Invader Parasite	0
+Invasion Plans	0
+Invasive Species	0
+Invasive Surgery	0
+Invert the Skies	0
+Invigorating Boon	0
+Invigorating Falls	0
+Invisibility	0
+Invisible Stalker	0
+Invoke the Firemind	0
+Invulnerability	0
+Iona's Blessing	0
+Iona's Judgment	0
+Ior Ruin Expedition	0
+Ire Shaman	0
+Ire of Kaminari	0
+Iridescent Drake	0
+Iroas's Champion	0
+Iron Lance	0
+Iron Myr	0
+Iron Star	0
+Iron Will	0
+Iron-Barb Hellion	0
+Iron-Heart Chimera	0
+Ironclaw Buzzardiers	0
+Ironclaw Orcs	0
+Ironfist Crusher	0
+Ironhoof Ox	0
+Ironshell Beetle	0
+Irradiate	0
+Irresistible Prey	0
+Ishi-Ishi, Akki Crackshot	0
+Island	0
+Isleback Spawn	0
+Isolation Cell	0
+Isolation Zone	0
+Isperia's Skywatch	0
+Ith, High Arcanist	0
+Ivory Crane Netsuke	0
+Ivory Cup	0
+Ivory Gargoyle	0
+Ivory Giant	0
+Ivory Tower	0
+Ivorytusk Fortress	0
+Ivy Dancer	0
+Ivy Elemental	0
+Ivy Lane Denizen	0
+Iwamori of the Open Fist	0
+Ixidor's Will	0
+Ixidor, Reality Sculptor	0
+Izzet Chronarch	0
+Izzet Cluestone	0
+Izzet Guildmage	0
+Izzet Keyrune	0
+Jabari's Banner	0
+Jace's Ingenuity	0
+Jace's Mindseeker	0
+Jace's Scrutiny	0
+Jackal Pup	0
+Jaddi Lifestrider	0
+Jaddi Offshoot	0
+Jade Idol	0
+Jade Mage	0
+Jade Monolith	0
+Jade Statue	0
+Jaded Response	0
+Jagged Poppet	0
+Jagged-Scar Archers	0
+Jagwasp Swarm	0
+Jalum Tome	0
+Jamuraan Lion	0
+Jangling Automaton	0
+Jar of Eyeballs	0
+Jareth, Leonine Titan	0
+Jasmine Boreal	0
+Jasmine Seer	0
+Jawbone Skulkin	0
+Jaws of Stone	0
+Jaya Ballard, Task Mage	0
+Jayemdae Tome	0
+Jedit Ojanen	0
+Jedit Ojanen of Efrava	0
+Jedit's Dragoons	0
+Jeering Instigator	0
+Jelenn Sphinx	0
+Jerrard of the Closed Fist	0
+Jeska, Warrior Adept	0
+Jeskai Banner	0
+Jeskai Charm	0
+Jeskai Elder	0
+Jeskai Student	0
+Jeskai Windscout	0
+Jetting Glasskite	0
+Jeweled Spirit	0
+Jeweled Torque	0
+Jhessian Balmgiver	0
+Jhessian Infiltrator	0
+Jhessian Lookout	0
+Jhessian Thief	0
+Jhessian Zombies	0
+Jhoira's Timebug	0
+Jhoira's Toolbox	0
+Jhovall Rider	0
+Jilt	0
+Jinxed Choker	0
+Jinxed Idol	0
+Jiwari, the Earth Aflame	0
+Jodah's Avenger	0
+Johtull Wurm	0
+Join the Ranks	0
+Joint Assault	0
+Jokulmorder	0
+Jolrael's Favor	0
+Jolrael, Empress of Beasts	0
+Jolt	0
+Jolting Merfolk	0
+Jor Kadeen, the Prevailer	0
+Joraga Auxiliary	0
+Joraga Bard	0
+Joraga Invocation	0
+Jorubai Murk Lurker	0
+Jotun Grunt	0
+Jotun Owl Keeper	0
+Journey of Discovery	0
+Joyous Respite	0
+Judge Unworthy	0
+Judge of Currents	0
+Juggernaut	0
+Juju Bubble	0
+Jukai Messenger	0
+Jump	0
+Jund Battlemage	0
+Jund Charm	0
+Jund Panorama	0
+Jund Sojourners	0
+Jungle Basin	0
+Jungle Lion	0
+Jungle Shrine	0
+Jungle Troll	0
+Jungle Wurm	0
+Juniper Order Advocate	0
+Junk Golem	0
+Junktroller	0
+Junkyo Bell	0
+Junún Efreet	0
+Just Fate	0
+Just the Wind	0
+Juvenile Gloomwidow	0
+Jwar Isle Avenger	0
+Jwari Scuttler	0
+Kabira Vindicator	0
+Kaboom!	0
+Kabuto Moth	0
+Kaervek's Hex	0
+Kaervek's Spite	0
+Kaijin of the Vanishing Touch	0
+Kalastria Healer	0
+Kalastria Nightwatch	0
+Kaleidostone	0
+Kalonian Behemoth	0
+Kalonian Tusker	0
+Kamahl's Desire	0
+Kamahl's Sledge	0
+Kamahl's Summons	0
+Kamahl, Pit Fighter	0
+Kami of Ancient Law	0
+Kami of Empty Graves	0
+Kami of Fire's Roar	0
+Kami of Lunacy	0
+Kami of Old Stone	0
+Kami of Tattered Shoji	0
+Kami of Twisted Reflection	0
+Kami of the Honored Dead	0
+Kami of the Hunt	0
+Kami of the Painted Road	0
+Kami of the Palace Fields	0
+Kami of the Tended Garden	0
+Kami of the Waning Moon	0
+Kapsho Kitefins	0
+Karametra's Acolyte	0
+Karametra's Favor	0
+Karma	0
+Karmic Guide	0
+Karn, Silver Golem	0
+Karona's Zealot	0
+Karoo	0
+Karoo Meerkat	0
+Karplusan Giant	0
+Karplusan Strider	0
+Karplusan Wolverine	0
+Karplusan Yeti	0
+Karstoderm	0
+Kashi-Tribe Reaver	0
+Kashi-Tribe Warriors	0
+Katabatic Winds	0
+Kathari Remnant	0
+Kathari Screecher	0
+Kavu Chameleon	0
+Kavu Climber	0
+Kavu Glider	0
+Kavu Howler	0
+Kavu Mauler	0
+Kavu Predator	0
+Kavu Primarch	0
+Kavu Runner	0
+Kazuul's Toll Collector	0
+Kazuul, Tyrant of the Cliffs	0
+Kederekt Creeper	0
+Kederekt Leviathan	0
+Keeneye Aven	0
+Keening Apparition	0
+Keening Banshee	0
+Keening Stone	0
+Keeper of Kookus	0
+Keeper of Progenitus	0
+Keeper of the Dead	0
+Keeper of the Lens	0
+Keeper of the Light	0
+Keeper of the Mind	0
+Keeper of the Nine Gales	0
+Keepsake Gorgon	0
+Kei Takahashi	0
+Keldon Arsonist	0
+Keldon Battlewagon	0
+Keldon Champion	0
+Keldon Halberdier	0
+Keldon Mantle	0
+Keldon Megaliths	0
+Keldon Necropolis	0
+Keldon Vandals	0
+Keldon Warlord	0
+Kelinore Bat	0
+Kemba's Legion	0
+Kemba's Skyguard	0
+Kemba, Kha Regent	0
+Kemuri-Onna	0
+Kessig Cagebreakers	0
+Kessig Dire Swine	0
+Kessig Forgemaster	0
+Kessig Malcontents	0
+Kessig Recluse	0
+Kessig Wolf	0
+Keymaster Rogue	0
+Kezzerdrix	0
+Khabál Ghoul	0
+Khalni Gem	0
+Kheru Dreadmaw	0
+Kheru Lich Lord	0
+Kheru Spellsnatcher	0
+Kiku's Shadow	0
+Kill Shot	0
+Kill-Suit Cultist	0
+Killer Bees	0
+Killer Instinct	0
+Killer Whale	0
+Killing Glare	0
+Killing Wave	0
+Kiln Walker	0
+Kin-Tree Invocation	0
+Kin-Tree Warden	0
+Kindercatch	0
+Kindle	0
+Kindle the Carnage	0
+Kindled Fury	0
+Kindly Stranger	0
+King Cheetah	0
+King Crab	0
+Kingfisher	0
+Kinsbaile Balloonist	0
+Kinsbaile Skirmisher	0
+Kinscaer Harpoonist	0
+Kiora's Dismissal	0
+Kird Chieftain	0
+Kiri-Onna	0
+Kirtar's Desire	0
+Kirtar's Wrath	0
+Kiss of the Amesha	0
+Kite Shield	0
+Kitesail	0
+Kitesail Apprentice	0
+Kitesail Scout	0
+Kithkin Armor	0
+Kithkin Daggerdare	0
+Kithkin Greatheart	0
+Kithkin Harbinger	0
+Kithkin Healer	0
+Kithkin Mourncaller	0
+Kithkin Rabble	0
+Kithkin Shielddare	0
+Kithkin Spellduster	0
+Kithkin Zealot	0
+Kithkin Zephyrnaut	0
+Kitsune Blademaster	0
+Kitsune Bonesetter	0
+Kitsune Dawnblade	0
+Kitsune Diviner	0
+Kitsune Healer	0
+Kitsune Loreweaver	0
+Kitsune Mystic	0
+Kitsune Palliator	0
+Kitsune Riftwalker	0
+Kjeldoran Elite Guard	0
+Kjeldoran Frostbeast	0
+Kjeldoran Gargoyle	0
+Kjeldoran Home Guard	0
+Kjeldoran Outrider	0
+Kjeldoran Royal Guard	0
+Kjeldoran Skycaptain	0
+Kjeldoran War Cry	0
+Knight Errant	0
+Knight Watch	0
+Knight of Dawn	0
+Knight of Dusk	0
+Knight of Glory	0
+Knight of Infamy	0
+Knight of Obligation	0
+Knight of Stromgald	0
+Knight of Sursi	0
+Knight of the Holy Nimbus	0
+Knight of the Mists	0
+Knight of the Pilgrim's Road	0
+Knight of the Skyward Eye	0
+Knight-Captain of Eos	0
+Knighthood	0
+Knightly Valor	0
+Knights of Thorn	0
+Knollspine Dragon	0
+Knollspine Invocation	0
+Knotvine Mystic	0
+Knowledge Vault	0
+Knowledge and Power	0
+Knucklebone Witch	0
+Kobold Drill Sergeant	0
+Kobold Overlord	0
+Kobold Taskmaster	0
+Kodama of the Center Tree	0
+Kodama's Might	0
+Kolaghan Aspirant	0
+Kolaghan Forerunners	0
+Kolaghan Monument	0
+Kolaghan Skirmisher	0
+Kolaghan Stormsinger	0
+Konda's Hatamoto	0
+Kor Aeronaut	0
+Kor Bladewhirl	0
+Kor Castigator	0
+Kor Chant	0
+Kor Dirge	0
+Kor Duelist	0
+Kor Entanglers	0
+Kor Hookmaster	0
+Kor Line-Slinger	0
+Kor Outfitter	0
+Kor Scythemaster	0
+Kor Sky Climber	0
+Korozda Gorgon	0
+Korozda Guildmage	0
+Korozda Monitor	0
+Koth's Courier	0
+Kothophed, Soul Hoarder	0
+Kozilek's Channeler	0
+Kozilek's Pathfinder	0
+Kozilek's Predator	0
+Kozilek's Sentinel	0
+Kozilek's Shrieker	0
+Kozilek's Translator	0
+Kragma Butcher	0
+Kragma Warcaller	0
+Kraken Hatchling	0
+Kraken of the Straits	0
+Kraken's Eye	0
+Krakilin	0
+Kranioceros	0
+Krark-Clan Engineers	0
+Krark-Clan Grunt	0
+Krark-Clan Stoker	0
+Kraul Warrior	0
+Krenko's Enforcer	0
+Krosan Archer	0
+Krosan Avenger	0
+Krosan Cloudscraper	0
+Krosan Colossus	0
+Krosan Constrictor	0
+Krosan Drover	0
+Krosan Groundshaker	0
+Krosan Reclamation	0
+Krosan Restorer	0
+Krosan Tusker	0
+Krosan Vorine	0
+Krosan Warchief	0
+Krosan Wayfarer	0
+Krovikan Fetish	0
+Krovikan Horror	0
+Krovikan Rot	0
+Krovikan Scoundrel	0
+Krovikan Sorcerer	0
+Krovikan Vampire	0
+Krovikan Whispers	0
+Kruin Outlaw	0
+Kruin Striker	0
+Krumar Bond-Kin	0
+Kudzu	0
+Kuldotha Flamefiend	0
+Kuldotha Phoenix	0
+Kuldotha Ringleader	0
+Kulrath Knight	0
+Kumano's Blessing	0
+Kumano's Pupils	0
+Kumano, Master Yamabushi	0
+Kurkesh, Onakke Ancient	0
+Kuro's Taken	0
+Kuro, Pitlord	0
+Kyoki, Sanity's Eclipse	0
+Kyren Glider	0
+Kyren Negotiations	0
+Kyscu Drake	0
+Kytheon's Irregulars	0
+Kytheon's Tactics	0
+Lab Rats	0
+Labyrinth Champion	0
+Labyrinth Minotaur	0
+Laccolith Warrior	0
+Lace with Moonglove	0
+Lady Caleria	0
+Lady Evangela	0
+Lady Orca	0
+Lagonna-Band Elder	0
+Lair Delve	0
+Lairwatch Giant	0
+Lake of the Dead	0
+Lambholt Elder	0
+Lambholt Pacifist	0
+Lammastide Weave	0
+Lamplighter of Selhoff	0
+Lancers en-Kor	0
+Landbind Ritual	0
+Landslide	0
+Lantern Kami	0
+Lantern Spirit	0
+Lantern-Lit Graveyard	0
+Lapse of Certainty	0
+Laquatus's Champion	0
+Laquatus's Creativity	0
+Lash Out	0
+Lashknife	0
+Lashknife Barrier	0
+Last Breath	0
+Last Caress	0
+Last Gasp	0
+Last Kiss	0
+Last Thoughts	0
+Last-Ditch Effort	0
+Lat-Nam's Legacy	0
+Latch Seeker	0
+Latchkey Faerie	0
+Launch	0
+Launch Party	0
+Lava Axe	0
+Lava Blister	0
+Lava Burst	0
+Lava Dart	0
+Lava Flow	0
+Lava Hounds	0
+Lava Storm	0
+Lavaball Trap	0
+Lavaborn Muse	0
+Lavacore Elemental	0
+Lavafume Invoker	0
+Lavalanche	0
+Lavamancer's Skill	0
+Lavinia of the Tenth	0
+Lay Bare	0
+Lay Waste	0
+Lay of the Land	0
+Lead Astray	0
+Lead Golem	0
+Lead by Example	0
+Lead-Belly Chimera	0
+Leaden Fists	0
+Leaden Myr	0
+Leaf Arrow	0
+Leaf Gilder	0
+Leafcrown Dryad	0
+Leafdrake Roost	0
+Leap	0
+Leap of Faith	0
+Leap of Flame	0
+Leaping Lizard	0
+Leaping Master	0
+Learn from the Past	0
+Leashling	0
+Leech Bonder	0
+Leeching Bite	0
+Leeching Licid	0
+Leeching Sliver	0
+Leery Fogbeast	0
+Legacy Weapon	0
+Legacy's Allure	0
+Legerdemain	0
+Lens of Clarity	0
+Leonin Armorguard	0
+Leonin Battlemage	0
+Leonin Bladetrap	0
+Leonin Bola	0
+Leonin Den-Guard	0
+Leonin Elder	0
+Leonin Iconoclast	0
+Leonin Scimitar	0
+Leonin Skyhunter	0
+Leonin Snarecaster	0
+Leshrac's Rite	0
+Lesser Gargadon	0
+Lesser Werewolf	0
+Lethargy Trap	0
+Leviathan	0
+Levitation	0
+Ley Druid	0
+Ley Line	0
+Leyline Phantom	0
+Liar's Pendulum	0
+Liberated Dwarf	0
+Lich's Tomb	0
+Lichenthrope	0
+Liege of the Axe	0
+Liege of the Pit	0
+Life Burst	0
+Life Chisel	0
+Life and Limb	0
+Lifesmith	0
+Lifespark Spellbomb	0
+Lifespinner	0
+Lifespring Druid	0
+Lifted by Clouds	0
+Light of Day	0
+Light of Sanction	0
+Lightkeeper of Emeria	0
+Lightmine Field	0
+Lightning Axe	0
+Lightning Blast	0
+Lightning Blow	0
+Lightning Cloud	0
+Lightning Dart	0
+Lightning Diadem	0
+Lightning Dragon	0
+Lightning Elemental	0
+Lightning Hounds	0
+Lightning Javelin	0
+Lightning Prowess	0
+Lightning Rift	0
+Lightning Strike	0
+Lightning Surge	0
+Lightning Talons	0
+Lightning Volley	0
+Lightwalker	0
+Lightwielder Paladin	0
+Lignify	0
+Liliana's Indignation	0
+Liliana's Shade	0
+Lilting Refrain	0
+Lim-D�l the Necromancer	0
+Lim-D�l's Cohort	0
+Lim-D�l's High Guard	0
+Limestone Golem	0
+Lingering Death	0
+Lingering Mirage	0
+Lingering Tormentor	0
+Lionheart Maverick	0
+Liquid Fire	0
+Liquify	0
+Liquimetal Coating	0
+Lithatog	0
+Lithomancer's Focus	0
+Lithophage	0
+Liturgy of Blood	0
+Liu Bei, Lord of Shu	0
+Livewire Lash	0
+Living Destiny	0
+Living Inferno	0
+Living Lore	0
+Living Terrain	0
+Living Totem	0
+Living Tsunami	0
+Living Wall	0
+Livonya Silone	0
+Llanowar Behemoth	0
+Llanowar Cavalry	0
+Llanowar Dead	0
+Llanowar Empath	0
+Llanowar Mentor	0
+Llanowar Reborn	0
+Llanowar Sentinel	0
+Llanowar Vanguard	0
+Llawan, Cephalid Empress	0
+Loam Dryad	0
+Loam Dweller	0
+Loam Larva	0
+Loamdragger Giant	0
+Loathsome Catoblepas	0
+Lobber Crew	0
+Lobotomy	0
+Loch Korrigan	0
+Locket of Yesterdays	0
+Lockjaw Snapper	0
+Locust Swarm	0
+Lodestone Myr	0
+Logic Knot	0
+Lone Revenant	0
+Lone Wolf	0
+Long-Forgotten Gohei	0
+Longbow Archer	0
+Longhorn Firebeast	0
+Longshot Squad	0
+Looming Hoverguard	0
+Looming Shade	0
+Looming Spires	0
+Looter il-Kor	0
+Lord of the Pit	0
+Lore Broker	0
+Lorescale Coatl	0
+Loreseeker's Stone	0
+Lose Calm	0
+Lose Hope	0
+Lost Auramancers	0
+Lost Hours	0
+Lost Leonin	0
+Lost Order of Jarkeld	0
+Lost in a Labyrinth	0
+Lost in the Mist	0
+Lost in the Woods	0
+Lotus Path Djinn	0
+Lotus-Eye Mystics	0
+Lowland Basilisk	0
+Lowland Giant	0
+Lowland Oaf	0
+Lowland Tracker	0
+Loxodon Anchorite	0
+Loxodon Mender	0
+Loxodon Mystic	0
+Loxodon Partisan	0
+Loxodon Peacekeeper	0
+Loxodon Punisher	0
+Loxodon Warhammer	0
+Loxodon Wayfarer	0
+Loyal Pegasus	0
+Loyal Retainers	0
+Lu Bu, Master-at-Arms	0
+Lu Meng, Wu General	0
+Lu Xun, Scholar General	0
+Lucent Liminid	0
+Ludevic's Test Subject	0
+Lullmage Mentor	0
+Lumbering Satyr	0
+Lumberknot	0
+Lumengrid Augur	0
+Lumengrid Drake	0
+Lumengrid Sentinel	0
+Lumengrid Warden	0
+Luminate Primordial	0
+Luminesce	0
+Luminous Angel	0
+Luminous Wake	0
+Lunar Avenger	0
+Lunar Mystic	0
+Lunk Errant	0
+Lure	0
+Lurebound Scarecrow	0
+Lurking Arynx	0
+Lurking Crocodile	0
+Lurking Evil	0
+Lurking Informant	0
+Lurking Jackals	0
+Lurking Skirge	0
+Lush Growth	0
+Lust for War	0
+Lyev Decree	0
+Lyev Skyknight	0
+Lymph Sliver	0
+Lys Alana Bowmaster	0
+Lys Alana Scarblade	0
+Lyzolda, the Blood Witch	0
+Maalfeld Twins	0
+Macabre Waltz	0
+Macetail Hystrodon	0
+Machinate	0
+Mad Auntie	0
+Mad Dog	0
+Mad Prophet	0
+Madblind Mountain	0
+Madrush Cyclops	0
+Maelstrom Djinn	0
+Mage Slayer	0
+Mage il-Vec	0
+Mage's Guile	0
+Mage-Ring Bully	0
+Mage-Ring Responder	0
+Magefire Wings	0
+Magewright's Stone	0
+Maggot Carrier	0
+Magister Sphinx	0
+Magister of Worth	0
+Magistrate's Veto	0
+Magma Burst	0
+Magma Giant	0
+Magma Phoenix	0
+Magma Rift	0
+Magma Spray	0
+Magma Vein	0
+Magmaquake	0
+Magmasaur	0
+Magmatic Chasm	0
+Magmatic Core	0
+Magmaw	0
+Magnetic Flux	0
+Magnetic Mine	0
+Magnetic Theft	0
+Magnifying Glass	0
+Magnivore	0
+Magosi, the Waterveil	0
+Magus of the Arena	0
+Magus of the Disk	0
+Magus of the Jar	0
+Magus of the Library	0
+Magus of the Mirror	0
+Magus of the Scroll	0
+Magus of the Tabernacle	0
+Mahamoti Djinn	0
+Make a Stand	0
+Make a Wish	0
+Makeshift Mannequin	0
+Makeshift Mauler	0
+Makindi Aeronaut	0
+Makindi Griffin	0
+Makindi Patrol	0
+Makindi Shieldmate	0
+Makindi Sliderunner	0
+Malach of the Dawn	0
+Malachite Golem	0
+Malakir Bloodwitch	0
+Malakir Cullblade	0
+Malakir Familiar	0
+Malakir Soothsayer	0
+Malevolent Awakening	0
+Malevolent Whispers	0
+Malicious Advice	0
+Mammoth Umbra	0
+Man-o'-War	0
+Mana Bloom	0
+Mana Breach	0
+Mana Chains	0
+Mana Cylix	0
+Mana Leech	0
+Mana Prism	0
+Mana Skimmer	0
+Manabarbs	0
+Manaforce Mace	0
+Manaforge Cinder	0
+Manakin	0
+Manalith	0
+Manaplasm	0
+Mangara's Blessing	0
+Mangara's Equity	0
+Maniacal Rage	0
+Manic Scribe	0
+Manic Vandal	0
+Mannichi, the Fevered Dream	0
+Manor Gargoyle	0
+Manor Skeleton	0
+Manta Ray	0
+Manta Riders	0
+Mantis Engine	0
+Mantle of Leadership	0
+Mantle of Webs	0
+Marang River Skeleton	0
+Marauding Maulhorn	0
+Marble Chalice	0
+Marble Diamond	0
+Marble Titan	0
+March of the Returned	0
+Mardu Banner	0
+Mardu Blazebringer	0
+Mardu Charm	0
+Mardu Hateblade	0
+Mardu Heart-Piercer	0
+Mardu Hordechief	0
+Mardu Roughrider	0
+Mardu Skullhunter	0
+Mardu Warshrieker	0
+Marhault Elsdragon	0
+Marisi's Twinclaws	0
+Maritime Guard	0
+Marjhan	0
+Mark for Death	0
+Mark of Eviction	0
+Mark of Fury	0
+Mark of Mutiny	0
+Mark of Sakiko	0
+Mark of the Oni	0
+Mark of the Vampire	0
+Marked by Honor	0
+Market Festival	0
+Markov Blademaster	0
+Markov Patrician	0
+Markov Warlord	0
+Maro	0
+Marrow Bats	0
+Marrow Chomper	0
+Marrow Shards	0
+Marsh Casualties	0
+Marsh Crocodile	0
+Marsh Flitter	0
+Marsh Hulk	0
+Marsh Lurker	0
+Marsh Threader	0
+Marshaling Cry	0
+Marshdrinker Giant	0
+Marshmist Titan	0
+Martial Glory	0
+Martyr of Frost	0
+Martyr of Spores	0
+Martyr's Cause	0
+Martyred Rusalka	0
+Martyrs of Korlis	0
+Martyrs' Tomb	0
+Mask of Avacyn	0
+Mask of Intolerance	0
+Mask of Memory	0
+Mask of Riddles	0
+Mask of the Mimic	0
+Masked Admirers	0
+Masked Gorgon	0
+Mass Polymorph	0
+Mass of Ghouls	0
+Massive Raid	0
+Master Decoy	0
+Master Healer	0
+Master Thief	0
+Master Warcraft	0
+Master of Arms	0
+Master of Diversion	0
+Master of Pearls	0
+Master of the Veil	0
+Master the Way	0
+Master's Call	0
+Matca Rioters	0
+Matopi Golem	0
+Matsu-Tribe Birdstalker	0
+Matsu-Tribe Decoy	0
+Maul Splicer	0
+Mausoleum Turnkey	0
+Maw of Kozilek	0
+Maw of the Mire	0
+Maw of the Obzedat	0
+Mawcor	0
+Maze Abomination	0
+Maze Behemoth	0
+Maze Glider	0
+Maze Rusher	0
+Maze Sentinel	0
+Maze of Shadows	0
+Meadowboon	0
+Meandering River	0
+Meandering Towershell	0
+Measure of Wickedness	0
+Meddle	0
+Medicine Bag	0
+Medicine Runner	0
+Meditation Puzzle	0
+Megantic Sliver	0
+Megatog	0
+Meglonoth	0
+Megrim	0
+Melancholy	0
+Melesse Spirit	0
+Meletis Astronomer	0
+Meletis Charlatan	0
+Melira's Keepers	0
+Meloku the Clouded Mirror	0
+Melt Terrain	0
+Memory Erosion	0
+Memory Sluice	0
+Memory's Journey	0
+Menacing Ogre	0
+Mending Hands	0
+Mending Touch	0
+Meng Huo's Horde	0
+Meng Huo, Barbarian King	0
+Mental Agony	0
+Mental Vapors	0
+Mephitic Ooze	0
+Mer-Ek Nightblade	0
+Mercadia's Downfall	0
+Merchant of Secrets	0
+Merciless Eviction	0
+Merciless Resolve	0
+Mercurial Chemister	0
+Mercurial Kite	0
+Mercurial Pretender	0
+Mercy Killing	0
+Merfolk Looter	0
+Merfolk Mesmerist	0
+Merfolk Observer	0
+Merfolk Raiders	0
+Merfolk Seastalkers	0
+Merfolk Seer	0
+Merfolk Skyscout	0
+Merfolk Sovereign	0
+Merfolk Spy	0
+Merfolk Thaumaturgist	0
+Merfolk Traders	0
+Merfolk Wayfinder	0
+Merfolk of the Depths	0
+Merfolk of the Pearl Trident	0
+Merrow Bonegnawer	0
+Merrow Commerce	0
+Merrow Grimeblotter	0
+Merrow Harbinger	0
+Merrow Levitator	0
+Merrow Wavebreakers	0
+Merrow Witsniper	0
+Mesa Enchantress	0
+Mesa Pegasus	0
+Mesmeric Fiend	0
+Mesmeric Sliver	0
+Mesmeric Trance	0
+Messenger Drake	0
+Messenger Falcons	0
+Messenger's Speed	0
+Metal Fatigue	0
+Metallurgeon	0
+Metamorphic Wurm	0
+Metamorphose	0
+Metathran Soldier	0
+Metathran Transport	0
+Metathran Zombie	0
+Meteor Shower	0
+Meteorite	0
+Metrognome	0
+Metropolis Sprite	0
+Midnight Banshee	0
+Midnight Charm	0
+Midnight Covenant	0
+Midnight Duelist	0
+Midnight Haunting	0
+Midnight Recovery	0
+Midnight Ritual	0
+Midsummer Revel	0
+Midvast Protector	0
+Might Beyond Reason	0
+Might Makes Right	0
+Might Sliver	0
+Might Weaver	0
+Might of Alara	0
+Might of Oaks	0
+Might of the Masses	0
+Might of the Nephilim	0
+Mightstone	0
+Mighty Emergence	0
+Mighty Leap	0
+Militant Inquisitor	0
+Militant Monk	0
+Military Intelligence	0
+Millennial Gargoyle	0
+Millikin	0
+Millstone	0
+Mimeofacture	0
+Miming Slime	0
+Minamo Scrollkeeper	0
+Minamo Sightbender	0
+Minamo's Meddling	0
+Mind Bend	0
+Mind Control	0
+Mind Extraction	0
+Mind Grind	0
+Mind Maggots	0
+Mind Peel	0
+Mind Raker	0
+Mind Rot	0
+Mind Sculpt	0
+Mind Shatter	0
+Mind Sludge	0
+Mind Spring	0
+Mind Unbound	0
+Mindblaze	0
+Mindclaw Shaman	0
+Mindculling	0
+Mindeye Drake	0
+Mindlash Sliver	0
+Mindleech Mass	0
+Mindless Automaton	0
+Mindless Null	0
+Mindlock Orb	0
+Mindmelter	0
+Mindmoil	0
+Mindreaver	0
+Mindshrieker	0
+Mindsparker	0
+Mindstab	0
+Mindstab Thrull	0
+Mindstorm Crown	0
+Mindswipe	0
+Mindwarper	0
+Mindwhip Sliver	0
+Mine Excavation	0
+Miner's Bane	0
+Minion Reflector	0
+Minion of Tevesh Szat	0
+Minions' Murmurs	0
+Minister of Impediments	0
+Minotaur Abomination	0
+Minotaur Aggressor	0
+Minotaur Explorer	0
+Minotaur Illusionist	0
+Minotaur Skullcleaver	0
+Minotaur Tactician	0
+Mirari	0
+Mire Blight	0
+Mire Boa	0
+Mire Shade	0
+Mire's Malice	0
+Mire's Toll	0
+Mirko Vosk, Mind Drinker	0
+Mirran Mettle	0
+Mirran Spy	0
+Mirri, Cat Warrior	0
+Mirror Golem	0
+Mirror Wall	0
+Mirror of Fate	0
+Mirrorwood Treefolk	0
+Mischief and Mayhem	0
+Mischievous Poltergeist	0
+Misery Charm	0
+Misfortune's Gain	0
+Misguided Rage	0
+Mishra's Groundbreaker	0
+Misinformation	0
+Mist Intruder	0
+Mist Leopard	0
+Mist Raven	0
+Mistcutter Hydra	0
+Mistfire Weaver	0
+Mistform Dreamer	0
+Mistform Mask	0
+Mistform Mutant	0
+Mistform Seaswift	0
+Mistform Shrieker	0
+Mistform Skyreaver	0
+Mistform Sliver	0
+Mistform Ultimus	0
+Mistform Wakecaster	0
+Mistform Wall	0
+Mistform Warchief	0
+Misthoof Kirin	0
+Mistmeadow Skulk	0
+Mistmeadow Witch	0
+Mistmoon Griffin	0
+Mistral Charger	0
+Mitotic Manipulation	0
+Mizzium Meddler	0
+Mizzium Mortars	0
+Mizzium Skin	0
+Mnemonic Nexus	0
+Mnemonic Sliver	0
+Moan of the Unhallowed	0
+Mob Mentality	0
+Mobilization	0
+Mogg Assassin	0
+Mogg Bombers	0
+Mogg Cannon	0
+Mogg Flunkies	0
+Mogg Hollows	0
+Mogg Jailer	0
+Mogg Maniac	0
+Mogg Salvage	0
+Mogg Sentry	0
+Mogis's Marauder	0
+Mold Adder	0
+Mold Shambler	0
+Molder	0
+Molder Beast	0
+Molder Slug	0
+Moldervine Cloak	0
+Moldgraf Monstrosity	0
+Molten Birth	0
+Molten Disaster	0
+Molten Firebird	0
+Molten Frame	0
+Molten Nursery	0
+Molten Primordial	0
+Molten Psyche	0
+Molten Ravager	0
+Molten Sentry	0
+Molting Skin	0
+Molting Snakeskin	0
+Moment of Heroism	0
+Momentous Fall	0
+Momentum	0
+Monastery Flock	0
+Monastery Loremaster	0
+Mondronen Shaman	0
+Monk Realist	0
+Monomania	0
+Monstrify	0
+Monstrous Growth	0
+Moon Heron	0
+Moonbow Illusionist	0
+Moonglove Changeling	0
+Moonglove Extract	0
+Moonglove Winnower	0
+Moonhold	0
+Moonlace	0
+Moonlight Bargain	0
+Moonlight Geist	0
+Moonlight Hunt	0
+Moonlit Strider	0
+Moonmist	0
+Moonring Island	0
+Moonring Mirror	0
+Moonsilver Spear	0
+Moonwing Moth	0
+Moorish Cavalry	0
+Moorland Drifter	0
+Moorland Haunt	0
+Moorland Inquisitor	0
+Moratorium Stone	0
+Morbid Bloom	0
+Morbid Hunger	0
+Morbid Plunder	0
+Mordant Dragon	0
+Morgue Burst	0
+Morgue Thrull	0
+Morgue Toad	0
+Morinfen	0
+Moriok Reaver	0
+Moriok Replica	0
+Moriok Rigger	0
+Moriok Scavenger	0
+Morkrut Banshee	0
+Morkrut Necropod	0
+Morningtide	0
+Moroii	0
+Morselhoarder	0
+Mortal Combat	0
+Mortal Obstinacy	0
+Mortal Wound	0
+Mortal's Ardor	0
+Mortal's Resolve	0
+Mortarpod	0
+Mortician Beetle	0
+Mortify	0
+Mortipede	0
+Mortiphobia	0
+Mortis Dogs	0
+Mortivore	0
+Mortuary	0
+Mortuary Mire	0
+Mortus Strider	0
+Moss Diamond	0
+Moss Kami	0
+Moss Monster	0
+Mossbridge Troll	0
+Mossdog	0
+Mossfire Egg	0
+Mosstodon	0
+Mothdust Changeling	0
+Mother of Runes	0
+Mothrider Samurai	0
+Mountain	0
+Mountain Valley	0
+Mountain Yeti	0
+Mounted Archers	0
+Mourner's Shield	0
+Mournful Zombie	0
+Mourning	0
+Mournwhelk	0
+Mouth of Ronom	0
+Mtenda Griffin	0
+Mtenda Lion	0
+Muck Drubb	0
+Mudbrawler Raiders	0
+Mudbutton Clanger	0
+Mudbutton Torchrunner	0
+Mudslide	0
+Mugging	0
+Mul Daya Channelers	0
+Mulch	0
+Multani's Acolyte	0
+Multani's Decree	0
+Multani's Harmony	0
+Multani's Presence	0
+Munda's Vanguard	0
+Mundungu	0
+Murasa Pyromancer	0
+Murasa Ranger	0
+Murder Investigation	0
+Murder of Crows	0
+Murderer's Axe	0
+Murderous Betrayal	0
+Murderous Compulsion	0
+Murderous Cut	0
+Murderous Redcap	0
+Murderous Spoils	0
+Murk Strider	0
+Murmuring Phantasm	0
+Murmurs from Beyond	0
+Muscle Burst	0
+Musician	0
+Mutant's Prey	0
+Mwonvuli Beast Tracker	0
+Mwonvuli Ooze	0
+Mycologist	0
+Mycosynth Fiend	0
+Mycosynth Wellspring	0
+Myojin of Infinite Rage	0
+Myr Adapter	0
+Myr Galvanizer	0
+Myr Landshaper	0
+Myr Mindservant	0
+Myr Moonvessel	0
+Myr Propagator	0
+Myr Prototype	0
+Myr Quadropod	0
+Myr Reservoir	0
+Myr Retriever	0
+Myr Sire	0
+Myrsmith	0
+Mystic Crusader	0
+Mystic Decree	0
+Mystic Enforcer	0
+Mystic Familiar	0
+Mystic Genesis	0
+Mystic Meditation	0
+Mystic Melting	0
+Mystic Monastery	0
+Mystic Penitent	0
+Mystic Restraints	0
+Mystic Retrieval	0
+Mystic Speculation	0
+Mystic Visionary	0
+Mystic Zealot	0
+Mystic of the Hidden Way	0
+Mystifying Maze	0
+Mythic Proportions	0
+Nacatl Hunt-Pride	0
+Nacatl Outlander	0
+Nacatl Savage	0
+Nacatl War-Pride	0
+Nagao, Bound by Honor	0
+Nagging Thoughts	0
+Nahiri's Machinations	0
+Naked Singularity	0
+Nameless Inversion	0
+Nameless One	0
+Nantuko Blightcutter	0
+Nantuko Calmer	0
+Nantuko Cultivator	0
+Nantuko Disciple	0
+Nantuko Elder	0
+Nantuko Husk	0
+Nantuko Mentor	0
+Nantuko Monastery	0
+Nantuko Shaman	0
+Nantuko Shrine	0
+Nantuko Tracer	0
+Nantuko Vigilante	0
+Narcissism	0
+Narcolepsy	0
+Narrow Escape	0
+Narstad Scrapper	0
+Narwhal	0
+Nath of the Gilt-Leaf	0
+Nath's Buffoon	0
+Nath's Elite	0
+Natural Affinity	0
+Natural End	0
+Natural Spring	0
+Natural State	0
+Naturalize	0
+Nature's Blessing	0
+Nature's Kiss	0
+Nature's Lore	0
+Nature's Panoply	0
+Nature's Resurgence	0
+Nature's Revolt	0
+Nature's Ruin	0
+Nature's Spiral	0
+Nature's Wrath	0
+Nav Squad Commandos	0
+Naya Battlemage	0
+Naya Charm	0
+Naya Hushblade	0
+Naya Panorama	0
+Naya Sojourners	0
+Naya Soulbeast	0
+Near-Death Experience	0
+Nearheath Chaplain	0
+Nearheath Pilgrim	0
+Nearheath Stalker	0
+Nebuchadnezzar	0
+Neck Snap	0
+Necra Disciple	0
+Necra Sanctuary	0
+Necratog	0
+Necrite	0
+Necrobite	0
+Necrogen Censer	0
+Necrogen Scudder	0
+Necrogen Spellbomb	0
+Necrogenesis	0
+Necrologia	0
+Necromancer's Assistant	0
+Necromancer's Covenant	0
+Necromancer's Magemark	0
+Necromantic Summons	0
+Necromantic Thirst	0
+Necromaster Dragon	0
+Necropede	0
+Necropolis Fiend	0
+Necropouncer	0
+Necrotic Plague	0
+Nectar Faerie	0
+Need for Speed	0
+Needle Storm	0
+Needlebite Trap	0
+Needlebug	0
+Needlepeak Spider	0
+Needleshot Gourna	0
+Nefarious Lich	0
+Negate	0
+Neglected Heirloom	0
+Neko-Te	0
+Nekrataal	0
+Nema Siltlurker	0
+Nemesis Trap	0
+Nemesis of Mortals	0
+Nephalia Drownyard	0
+Nephalia Moondrakes	0
+Nephalia Seakite	0
+Nephalia Smuggler	0
+Nessian Asp	0
+Nessian Courser	0
+Nessian Demolok	0
+Nessian Game Warden	0
+Nest Invader	0
+Nested Ghoul	0
+Nesting Wurm	0
+Netcaster Spider	0
+Nether Horror	0
+Netherborn Phalanx	0
+Nettle Drone	0
+Nettle Swine	0
+Nettletooth Djinn	0
+Nettling Curse	0
+Neurok Commando	0
+Neurok Familiar	0
+Neurok Hoversail	0
+Neurok Invisimancer	0
+Neurok Prodigy	0
+Neurok Replica	0
+Neurok Spy	0
+Neurok Stealthsuit	0
+Neurok Transmuter	0
+Nevermaker	0
+New Benalia	0
+New Prahv Guildmage	0
+Nezumi Bone-Reader	0
+Nezumi Cutthroat	0
+Nezumi Graverobber	0
+Nezumi Ronin	0
+Nezumi Shadow-Watcher	0
+Niblis of Dusk	0
+Niblis of the Breath	0
+Niblis of the Mist	0
+Nicol Bolas	0
+Night // Day	0
+Night Dealings	0
+Night Revelers	0
+Night Terrors	0
+Nightbird's Clutches	0
+Nightcreep	0
+Nightfire Giant	0
+Nightguard Patrol	0
+Nighthaze	0
+Nightmare	0
+Nightmare Void	0
+Nightmarish End	0
+Nightscape Battlemage	0
+Nightscape Familiar	0
+Nightshade Schemers	0
+Nightshade Seer	0
+Nightshade Stinger	0
+Nightsnare	0
+Nightsoil Kami	0
+Nightveil Specter	0
+Nightwing Shade	0
+Nim Abomination	0
+Nim Deathmantle	0
+Nim Devourer	0
+Nim Grotesque	0
+Nim Lasher	0
+Nim Replica	0
+Nim Shambler	0
+Nim Shrieker	0
+Nimana Sell-Sword	0
+Nimbus Naiad	0
+Nimbus Swimmer	0
+Nimbus Wings	0
+Nimbus of the Isles	0
+Nine-Ringed Bo	0
+Nirkana Assassin	0
+Nirkana Cutthroat	0
+Nissa's Expedition	0
+Nissa's Judgment	0
+Nissa's Pilgrimage	0
+Nissa's Revelation	0
+Niv-Mizzet, the Firemind	0
+Niveous Wisps	0
+Nivix Barrier	0
+Nivix Guildmage	0
+Nivix, Aerie of the Firemind	0
+Nivmagus Elemental	0
+No Rest for the Wicked	0
+No-Dachi	0
+Nobilis of War	0
+Noble Elephant	0
+Noble Quarry	0
+Noble Stand	0
+Noble Templar	0
+Noble Vestige	0
+Nocturnal Raid	0
+Noggin Whack	0
+Noggle Bandit	0
+Noggle Bridgebreaker	0
+Noggle Hedge-Mage	0
+Noggle Ransacker	0
+Nomad Decoy	0
+Nomad Mythmaker	0
+Nomad Outpost	0
+Nomad Stadium	0
+Nomadic Elf	0
+Nomads en-Kor	0
+Nomads' Assembly	0
+Norwood Priestess	0
+Norwood Ranger	0
+Nostalgic Dreams	0
+Nosy Goblin	0
+Not Forgotten	0
+Not of This World	0
+Nova Chaser	0
+Nova Cleric	0
+Nova Pentacle	0
+Novijen Sages	0
+Novijen, Heart of Progress	0
+Noxious Dragon	0
+Noxious Field	0
+Noxious Hatchling	0
+Noxious Vapors	0
+Noyan Dar, Roil Shaper	0
+Nucklavee	0
+Nuisance Engine	0
+Null Caller	0
+Null Champion	0
+Null Profusion	0
+Nullify	0
+Nullmage Advocate	0
+Nullmage Shepherd	0
+Nulltread Gargantuan	0
+Numai Outcast	0
+Nurturer Initiate	0
+Nylea's Disciple	0
+Nylea's Emissary	0
+Nylea's Presence	0
+Nyx Infusion	0
+Nyx Weaver	0
+Nyxborn Eidolon	0
+Nyxborn Rollicker	0
+Nyxborn Shieldmate	0
+Nyxborn Triton	0
+Nyxborn Wolf	0
+Oak Street Innkeeper	0
+Oaken Brawler	0
+Oakenform	0
+Oakheart Dryads	0
+Oasis	0
+Oath of Mages	0
+Oath of Scholars	0
+Oath of the Ancient Wood	0
+Oathsworn Giant	0
+Obelisk of Bant	0
+Obelisk of Grixis	0
+Obelisk of Jund	0
+Obelisk of Naya	0
+Obelisk of Undoing	0
+Oblivion Crown	0
+Oblivion Strike	0
+Oboro Breezecaller	0
+Oboro Envoy	0
+Obscuring Aether	0
+Observant Alseid	0
+Obsessive Search	0
+Obsessive Skinner	0
+Obsianus Golem	0
+Obsidian Battle-Axe	0
+Obstinate Familiar	0
+Ocular Halo	0
+Oculus	0
+Odunos River Trawler	0
+Odylic Wraith	0
+Offalsnout	0
+Offering to Asha	0
+Ogre Enforcer	0
+Ogre Gatecrasher	0
+Ogre Geargrabber	0
+Ogre Jailbreaker	0
+Ogre Leadfoot	0
+Ogre Marauder	0
+Ogre Menial	0
+Ogre Recluse	0
+Ogre Resister	0
+Ogre Savant	0
+Ogre Sentry	0
+Ogre Shaman	0
+Ogre Slumlord	0
+Ogre Taskmaster	0
+Ogre's Cleaver	0
+Ohran Yeti	0
+Ojutai Interceptor	0
+Ojutai Monument	0
+Ojutai's Breath	0
+Ojutai's Summons	0
+Okina Nightwatch	0
+Okk	0
+Olivia's Bloodsworn	0
+Omega Myr	0
+Omen Machine	0
+Omenspeaker	0
+Ondu Champion	0
+Ondu Giant	0
+Ondu Greathorn	0
+Ondu Rising	0
+Ondu War Cleric	0
+One Dozen Eyes	0
+One Thousand Lashes	0
+One with Nature	0
+One-Eyed Scarecrow	0
+Ongoing Investigation	0
+Oni Possession	0
+Oni of Wild Places	0
+Onslaught	0
+Onulet	0
+Onyx Goblet	0
+Onyx Mage	0
+Oona's Gatewarden	0
+Oona, Queen of the Fae	0
+Ooze Flux	0
+Ooze Garden	0
+Opal Acrolith	0
+Opal Avenger	0
+Opal Caryatid	0
+Opal Champion	0
+Opal Gargoyle	0
+Opal Guardian	0
+Opal Lake Gatekeepers	0
+Opaline Bracers	0
+Opaline Sliver	0
+Opaline Unicorn	0
+Open the Armory	0
+Ophidian	0
+Ophidian Eye	0
+Opportunity	0
+Oppressive Rays	0
+Oppressive Will	0
+Opulent Palace	0
+Oracle of Bones	0
+Oracle of Dust	0
+Oracle's Insight	0
+Oran-Rief Hydra	0
+Oran-Rief Invoker	0
+Oran-Rief Recluse	0
+Orator of Ojutai	0
+Orbweaver Kumo	0
+Orc General	0
+Orc Sureshot	0
+Orchard Spirit	0
+Orchard Warden	0
+Orcish Artillery	0
+Orcish Bloodpainter	0
+Orcish Cannonade	0
+Orcish Cannoneers	0
+Orcish Captain	0
+Orcish Conscripts	0
+Orcish Farmer	0
+Orcish Librarian	0
+Orcish Lumberjack	0
+Orcish Mechanics	0
+Orcish Oriflamme	0
+Orcish Spy	0
+Orcish Squatters	0
+Orcish Veteran	0
+Ordeal of Erebos	0
+Ordeal of Heliod	0
+Ordeal of Nylea	0
+Ordeal of Purphoros	0
+Ordeal of Thassa	0
+Order // Chaos	0
+Order of Yawgmoth	0
+Order of the Golden Cricket	0
+Order of the Sacred Bell	0
+Order of the Stars	0
+Order of the White Shield	0
+Ordruun Commando	0
+Ordruun Veteran	0
+Ore Gorger	0
+Oreskos Sun Guide	0
+Oreskos Swiftclaw	0
+Organ Grinder	0
+Orgg	0
+Orim's Prayer	0
+Orim's Thunder	0
+Orim, Samite Healer	0
+Ornate Kanzashi	0
+Ornitharch	0
+Orochi Eggwatcher	0
+Orochi Ranger	0
+Oros, the Avenger	0
+Orzhov Charm	0
+Orzhov Cluestone	0
+Orzhov Euthanist	0
+Orzhov Guildmage	0
+Orzhov Keyrune	0
+Orzhova, the Church of Deals	0
+Osai Vultures	0
+Ostiary Thrull	0
+Ostracize	0
+Otarian Juggernaut	0
+Otherworldly Journey	0
+Oust	0
+Outbreak	0
+Outland Colossus	0
+Outmaneuver	0
+Outnumber	0
+Outrage Shaman	0
+Outrider en-Kor	0
+Outrider of Jhess	0
+Outwit	0
+Overblaze	0
+Overeager Apprentice	0
+Overgrown Estate	0
+Override	0
+Overrule	0
+Overrun	0
+Overwhelm	0
+Overwhelming Denial	0
+Overwhelming Instinct	0
+Overwhelming Stampede	0
+Ovinize	0
+Ovinomancer	0
+Owl Familiar	0
+Oxidda Daredevil	0
+Oxidda Golem	0
+Oxidda Scrapmelter	0
+Oxidize	0
+Pacifism	0
+Pack Guardian	0
+Pack's Disdain	0
+Pain // Suffering	0
+Pain Kami	0
+Pain Magnification	0
+Painbringer	0
+Painful Quandary	0
+Painsmith	0
+Painwracker Oni	0
+Palace Familiar	0
+Palace Guard	0
+Paladin en-Vec	0
+Paladin of Prahv	0
+Pale Rider of Trostad	0
+Pale Wayfarer	0
+Paleoloth	0
+Palinchron	0
+Palisade Giant	0
+Palladium Myr	0
+Palliation Accord	0
+Panacea	0
+Pandemonium	0
+Panic Attack	0
+Panic Spellbomb	0
+Paperfin Rascal	0
+Paradise Plume	0
+Paradox Haze	0
+Paragon of Eternal Wilds	0
+Paragon of Fierce Defiance	0
+Paragon of Gathering Mists	0
+Paragon of New Dawns	0
+Paragon of Open Graves	0
+Paragon of the Amesha	0
+Parallax Dementia	0
+Parallax Wave	0
+Parallectric Feedback	0
+Paralyze	0
+Paralyzing Grasp	0
+Paranoid Delusions	0
+Paranoid Parish-Blade	0
+Parapet	0
+Parapet Watchers	0
+Paraselene	0
+Parasitic Bond	0
+Parasitic Implant	0
+Parasitic Strix	0
+Parch	0
+Pardic Dragon	0
+Pardic Firecat	0
+Pardic Miner	0
+Pardic Swordsmith	0
+Pariah's Shield	0
+Part the Veil	0
+Patagia Golem	0
+Patagia Viper	0
+Patchwork Gnomes	0
+Path of Anger's Flame	0
+Path of Bravery	0
+Pathbreaker Wurm	0
+Pathrazer of Ulamog	0
+Pathway Arrows	0
+Patriarch's Desire	0
+Patrol Hound	0
+Patrol Signaler	0
+Patron of the Nezumi	0
+Patron of the Valiant	0
+Patron of the Wild	0
+Pavel Maliki	0
+Pay No Heed	0
+Peace Strider	0
+Peace Talks	0
+Peace and Quiet	0
+Peace of Mind	0
+Peach Garden Oath	0
+Peak Eruption	0
+Pearl Shard	0
+Pedantic Learning	0
+Peel from Reality	0
+Peer Pressure	0
+Pegasus Charger	0
+Pegasus Refuge	0
+Pegasus Stampede	0
+Pelakka Wurm	0
+Penance	0
+Pendelhaven Elder	0
+Pendrell Drake	0
+Pendrell Flux	0
+Pensive Minotaur	0
+Pentagram of the Ages	0
+Pentarch Ward	0
+Pentavus	0
+Penumbra Bobcat	0
+Penumbra Kavu	0
+Penumbra Spider	0
+Penumbra Wurm	0
+Peppersmoke	0
+Peregrination	0
+Peregrine Griffin	0
+Peregrine Mask	0
+Perilous Forays	0
+Perilous Shadow	0
+Perish the Thought	0
+Permafrost Trap	0
+Perplex	0
+Perplexing Chimera	0
+Persecute	0
+Personal Sanctuary	0
+Persuasion	0
+Pestilence Demon	0
+Pestilent Kathari	0
+Petalmane Baku	0
+Petals of Insight	0
+Petra Sphinx	0
+Petradon	0
+Petrahydrox	0
+Petravark	0
+Petrified Plating	0
+Petrified Wood-Kin	0
+Pewter Golem	0
+Phalanx Formation	0
+Phalanx Leader	0
+Phantasmagorian	0
+Phantasmal Abomination	0
+Phantasmal Bear	0
+Phantasmal Dragon	0
+Phantasmal Fiend	0
+Phantasmal Forces	0
+Phantasmal Mount	0
+Phantasmal Terrain	0
+Phantatog	0
+Phantom Beast	0
+Phantom Centaur	0
+Phantom Flock	0
+Phantom General	0
+Phantom Monster	0
+Phantom Nantuko	0
+Phantom Nishoba	0
+Phantom Tiger	0
+Phantom Warrior	0
+Phantom Whelp	0
+Phantom Wings	0
+Phantom Wurm	0
+Pharagax Giant	0
+Pharika's Chosen	0
+Pharika's Cure	0
+Pharika's Disciple	0
+Pharika's Mender	0
+Pheres-Band Centaurs	0
+Pheres-Band Raiders	0
+Pheres-Band Thunderhoof	0
+Pheres-Band Tromper	0
+Phosphorescent Feast	0
+Phthisis	0
+Phylactery Lich	0
+Phyresis	0
+Phyrexia's Core	0
+Phyrexian Battleflies	0
+Phyrexian Bloodstock	0
+Phyrexian Boon	0
+Phyrexian Broodlings	0
+Phyrexian Colossus	0
+Phyrexian Debaser	0
+Phyrexian Defiler	0
+Phyrexian Denouncer	0
+Phyrexian Devourer	0
+Phyrexian Digester	0
+Phyrexian Etchings	0
+Phyrexian Furnace	0
+Phyrexian Gargantua	0
+Phyrexian Hulk	0
+Phyrexian Hydra	0
+Phyrexian Ironfoot	0
+Phyrexian Juggernaut	0
+Phyrexian Portal	0
+Phyrexian Prowler	0
+Phyrexian Reaper	0
+Phyrexian Rebirth	0
+Phyrexian Slayer	0
+Phyrexian Snowcrusher	0
+Phyrexian Totem	0
+Phyrexian Vatmother	0
+Phyrexian Vault	0
+Phyrexian War Beast	0
+Phytoburst	0
+Phytohydra	0
+Pianna, Nomad Captain	0
+Pick the Brain	0
+Pieces of the Puzzle	0
+Pierce Strider	0
+Piety Charm	0
+Pilfered Plans	0
+Pilgrim of Justice	0
+Pilgrim of Virtue	0
+Pilgrim of the Fires	0
+Pilgrim's Eye	0
+Pillage	0
+Pillaging Horde	0
+Pillar Tombs of Aku	0
+Pillar of Flame	0
+Pillar of Light	0
+Pillar of War	0
+Pillarfield Ox	0
+Pillory of the Sleepless	0
+Pin to the Earth	0
+Pincer Spider	0
+Pincher Beetles	0
+Pine Barrens	0
+Pine Walker	0
+Pinecrest Ridge	0
+Pinion Feast	0
+Pinnacle of Rage	0
+Pious Evangel	0
+Pious Kitsune	0
+Pious Warrior	0
+Piranha Marsh	0
+Pirate Ship	0
+Piston Sledge	0
+Pistus Strike	0
+Pit Fight	0
+Pit Imp	0
+Pit Keeper	0
+Pit Trap	0
+Pitchburn Devils	0
+Pitfall Trap	0
+Plagiarize	0
+Plague Beetle	0
+Plague Boiler	0
+Plague Dogs	0
+Plague Myr	0
+Plague Sliver	0
+Plague Spores	0
+Plague Wind	0
+Plague Witch	0
+Plague of Vermin	0
+Plagued Rusalka	0
+Plaguemaw Beast	0
+Plains	0
+Planar Cleansing	0
+Planar Despair	0
+Planar Gate	0
+Planeswalker's Fury	0
+Planeswalker's Scorn	0
+Plasm Capture	0
+Plasma Elemental	0
+Plated Crusher	0
+Plated Pegasus	0
+Plated Rootwalla	0
+Plated Seastrider	0
+Plated Slagwurm	0
+Plated Spider	0
+Plaxcaster Frogling	0
+Plea for Guidance	0
+Pledge of Loyalty	0
+Plover Knights	0
+Plow Through Reito	0
+Plumes of Peace	0
+Plumeveil	0
+Plummet	0
+Plunder	0
+Poison the Well	0
+Poisonbelly Ogre	0
+Polar Kraken	0
+Polis Crusher	0
+Pollen Lullaby	0
+Pollen Remedy	0
+Pollenbright Wings	0
+Polluted Dead	0
+Polymorphous Rush	0
+Pontiff of Blight	0
+Ponyback Brigade	0
+Pooling Venom	0
+Pore Over the Pages	0
+Port Inspector	0
+Possessed Aven	0
+Possessed Barbarian	0
+Possessed Centaur	0
+Possessed Nomad	0
+Possessed Skaab	0
+Postmortem Lunge	0
+Poultice Sliver	0
+Pouncing Wurm	0
+Power Sink	0
+Power Taint	0
+Power of Fire	0
+Prahv, Spires of Order	0
+Precinct Captain	0
+Precursor Golem	0
+Predator Dragon	0
+Predator's Rapport	0
+Predator, Flagship	0
+Predatory Advantage	0
+Predatory Focus	0
+Predatory Hunger	0
+Predatory Nightstalker	0
+Predatory Rampage	0
+Predatory Urge	0
+Premature Burial	0
+Prescient Chimera	0
+Presence of the Wise	0
+Press for Answers	0
+Press into Service	0
+Press the Advantage	0
+Pretender's Claim	0
+Prey Upon	0
+Prickleboar	0
+Prickly Boggart	0
+Pride Guardian	0
+Pride of Lions	0
+Priest of Iroas	0
+Priest of Titania	0
+Priest of Urabrask	0
+Priests of Norn	0
+Primal Bellow	0
+Primal Boost	0
+Primal Clay	0
+Primal Cocoon	0
+Primal Forcemage	0
+Primal Frenzy	0
+Primal Huntbeast	0
+Primal Plasma	0
+Primal Rage	0
+Primal Visitation	0
+Primal Whisperer	0
+Primeval Force	0
+Primeval Light	0
+Primeval Shambler	0
+Primitive Etchings	0
+Primitive Justice	0
+Primoc Escapee	0
+Primordial Sage	0
+Princess Lucrezia	0
+Prism Array	0
+Prismatic Boon	0
+Prismatic Lace	0
+Prismwake Merrow	0
+Prison Barricade	0
+Prison Term	0
+Pristine Skywise	0
+Prized Elephant	0
+Prized Unicorn	0
+Processor Assault	0
+Prodigal Pyromancer	0
+Prodigal Sorcerer	0
+Profane Command	0
+Profane Prayers	0
+Profit // Loss	0
+Profound Journey	0
+Prognostic Sphinx	0
+Promise of Power	0
+Promised Kannushi	0
+Prophet of Kruphix	0
+Prophetic Bolt	0
+Protect // Serve	0
+Protective Sphere	0
+Proteus Machine	0
+Protomatter Powder	0
+Prototype Portal	0
+Provoke	0
+Prowess of the Fair	0
+Prowler's Helm	0
+Prowling Nightstalker	0
+Prowling Pangolin	0
+Psychatog	0
+Psychic Barrier	0
+Psychic Drain	0
+Psychic Intrusion	0
+Psychic Membrane	0
+Psychic Overload	0
+Psychic Puppetry	0
+Psychic Purge	0
+Psychic Rebuttal	0
+Psychic Spear	0
+Psychic Spiral	0
+Psychic Strike	0
+Psychic Surgery	0
+Psychic Trance	0
+Psychic Transfer	0
+Psychic Venom	0
+Psychic Vortex	0
+Psychogenic Probe	0
+Psychotic Episode	0
+Psychotic Fury	0
+Psychotrope Thallid	0
+Pteron Ghost	0
+Public Execution	0
+Puffer Extract	0
+Pull Under	0
+Pull from Eternity	0
+Pull from the Deep	0
+Pulling Teeth	0
+Pulsating Illusion	0
+Pulse Tracker	0
+Pulse of Llanowar	0
+Pulse of Murasa	0
+Pulse of the Dross	0
+Pulse of the Grid	0
+Pulsemage Advocate	0
+Puncture Blast	0
+Puncture Bolt	0
+Puncturing Light	0
+Punish Ignorance	0
+Punish the Enemy	0
+Punishing Fire	0
+Puppet Conjurer	0
+Puppet Strings	0
+Puppeteer	0
+Puppeteer Clique	0
+Pure // Simple	0
+Puresight Merrow	0
+Purge	0
+Purge the Profane	0
+Purify	0
+Purify the Grave	0
+Purity	0
+Purphoros's Emissary	0
+Pursuit of Flight	0
+Pursuit of Knowledge	0
+Pus Kami	0
+Put Away	0
+Putrefaction	0
+Putrefax	0
+Putrefy	0
+Putrid Cyclops	0
+Pygmy Kavu	0
+Pygmy Pyrosaur	0
+Pyre Charger	0
+Pyre Hound	0
+Pyreheart Wolf	0
+Pyrewild Shaman	0
+Pyric Salamander	0
+Pyrite Spellbomb	0
+Pyroclast Consul	0
+Pyroconvergence	0
+Pyrohemia	0
+Pyromancer's Assault	0
+Pyromancer's Gauntlet	0
+Pyromancer's Swath	0
+Pyromatics	0
+Pyrotechnics	0
+Pyxis of Pandemonium	0
+Qal Sisma Behemoth	0
+Qarsi Deceiver	0
+Qarsi Sadist	0
+Qasali Ambusher	0
+Quag Sickness	0
+Quag Vampires	0
+Quagmire Druid	0
+Quagmire Lamprey	0
+Quagnoth	0
+Quarry Colossus	0
+Quash	0
+Quenchable Fire	0
+Quest for Renewal	0
+Quest for the Gemblades	0
+Quest for the Goblin Lord	0
+Quest for the Gravelord	0
+Quest for the Holy Relic	0
+Quickchange	0
+Quickening Licid	0
+Quicksilver Behemoth	0
+Quicksilver Dagger	0
+Quicksilver Dragon	0
+Quicksilver Elemental	0
+Quicksilver Fountain	0
+Quicksilver Geyser	0
+Quicksilver Wall	0
+Quiet Contemplation	0
+Quiet Purity	0
+Quiet Speculation	0
+Quietus Spike	0
+Quill-Slinger Boggart	0
+Quilled Slagwurm	0
+Quilled Sliver	0
+Quilled Wolf	0
+Quillmane Baku	0
+Quirion Dryad	0
+Quirion Elves	0
+Quirion Explorer	0
+Quirion Sentinel	0
+Quirion Trailblazer	0
+Qumulox	0
+Rabble-Rouser	0
+Rabid Bite	0
+Rabid Bloodsucker	0
+Rabid Elephant	0
+Rabid Rats	0
+Rabid Wombat	0
+Racecourse Fury	0
+Rack and Ruin	0
+Radiant Essence	0
+Radiant's Dragoons	0
+Radiant, Archangel	0
+Radjan Spirit	0
+Rag Dealer	0
+Rag Man	0
+Ragamuffyn	0
+Rage Extractor	0
+Rage Forger	0
+Rage Nimbus	0
+Rage Thrower	0
+Rage Weaver	0
+Rage of Purphoros	0
+Rageblood Shaman	0
+Ragemonger	0
+Ragged Veins	0
+Raging Goblin	0
+Raging Gorilla	0
+Raging Minotaur	0
+Ragnar	0
+Raid Bombardment	0
+Raiders' Spoils	0
+Rain of Blades	0
+Rain of Daggers	0
+Rain of Embers	0
+Rain of Rust	0
+Rain of Salt	0
+Rain of Thorns	0
+Rainbow Crow	0
+Raise Dead	0
+Raise the Alarm	0
+Raised by Wolves	0
+Raka Disciple	0
+Raka Sanctuary	0
+Rakalite	0
+Rakdos Augermage	0
+Rakdos Cackler	0
+Rakdos Cluestone	0
+Rakdos Drake	0
+Rakdos Guildmage	0
+Rakdos Ickspitter	0
+Rakdos Keyrune	0
+Rakdos Pit Dragon	0
+Rakdos Ragemutt	0
+Rakdos Ringleader	0
+Rakdos Riteknife	0
+Rakeclaw Gargantuan	0
+Raking Canopy	0
+Rakish Heir	0
+Rakshasa Deathdealer	0
+Rakshasa Gravecaller	0
+Rakshasa Vizier	0
+Rakshasa's Disdain	0
+Rakshasa's Secret	0
+Rally the Forces	0
+Rally the Peasants	0
+Rally the Righteous	0
+Ramirez DePietro	0
+Ramosian Revivalist	0
+Rampant Growth	0
+Ramroller	0
+Ramses Overdark	0
+Rancid Rats	0
+Ranger's Guile	0
+Ranger's Path	0
+Rank and File	0
+Rapacious One	0
+Rapid Decay	0
+Rathi Dragon	0
+Rathi Fiend	0
+Rathi Trapper	0
+Rats of Rath	0
+Rats' Feast	0
+Rattleblaze Scarecrow	0
+Rattleclaw Mystic	0
+Ravaged Highlands	0
+Ravaging Blaze	0
+Ravaging Riftwurm	0
+Raven Familiar	0
+Raven Guild Initiate	0
+Raven's Run Dragoon	0
+Ravenous Baloth	0
+Ravenous Demon	0
+Ravenous Leucrocota	0
+Ravenous Rats	0
+Ravenous Vampire	0
+Raving Oni-Slave	0
+Ray of Command	0
+Ray of Dissolution	0
+Razia, Boros Archangel	0
+Razor Barrier	0
+Razor Boomerang	0
+Razor Hippogriff	0
+Razorfield Rhino	0
+Razorfield Thresher	0
+Razorfin Abolisher	0
+Razorfoot Griffin	0
+Razorgrass Screen	0
+Razorjaw Oni	0
+Razormane Masticore	0
+Razortip Whip	0
+Razortooth Rats	0
+Reach Through Mists	0
+Reach of Branches	0
+Reach of Shadows	0
+Read the Runes	0
+Ready // Willing	0
+Reality Acid	0
+Reality Anchor	0
+Reality Hemorrhage	0
+Reality Ripple	0
+Reality Spasm	0
+Reality Strobe	0
+Realm Razer	0
+Realm Seekers	0
+Realmwright	0
+Reap	0
+Reap What Is Sown	0
+Reap the Seagraf	0
+Reaper of Flight Moonsilver	0
+Reaper of Sheoldred	0
+Reaper of the Wilds	0
+Reaping the Rewards	0
+Reassembling Skeleton	0
+Reave Soul	0
+Reaver Drone	0
+Rebellion of the Flamekin	0
+Reborn Hero	0
+Reborn Hope	0
+Rebound	0
+Rebuff the Wicked	0
+Rebuke	0
+Rebuking Ceremony	0
+Recall	0
+Recantation	0
+Reciprocate	0
+Reckless Brute	0
+Reckless Charge	0
+Reckless Cohort	0
+Reckless Embermage	0
+Reckless Imp	0
+Reckless Ogre	0
+Reckless One	0
+Reckless Reveler	0
+Reckless Scholar	0
+Reckless Spite	0
+Reckless Waif	0
+Reckless Wurm	0
+Reclaim	0
+Reclaiming Vines	0
+Reclusive Artificer	0
+Recollect	0
+Reconstruction	0
+Recover	0
+Recross the Paths	0
+Recumbent Bliss	0
+Recuperate	0
+Recycle	0
+Red Cliffs Armada	0
+Redeem	0
+Redeem the Lost	0
+Redirect	0
+Reduce in Stature	0
+Reduce to Ashes	0
+Reduce to Dreams	0
+Redwood Treefolk	0
+Reef Shaman	0
+Reflex Sliver	0
+Reflexes	0
+Refocus	0
+Refraction Trap	0
+Refresh	0
+Refreshing Rain	0
+Regathan Firecat	0
+Regenerate	0
+Regeneration	0
+Reign of Chaos	0
+Reign of the Pit	0
+Reincarnation	0
+Reinforced Bulwark	0
+Reinforcements	0
+Reins of the Vinesteed	0
+Reito Lantern	0
+Reiver Demon	0
+Rejuvenate	0
+Reknit	0
+Relearn	0
+Release the Ants	0
+Relentless Assault	0
+Relentless Hunter	0
+Relentless Skaabs	0
+Relic Bane	0
+Relic Barrier	0
+Relic Crush	0
+Relic Putrescence	0
+Relic Seeker	0
+Relic Ward	0
+Relief Captain	0
+Reliquary Monk	0
+Reliquary Tower	0
+Remedy	0
+Reminisce	0
+Remorseless Punishment	0
+Remove Soul	0
+Rend Flesh	0
+Rend Spirit	0
+Rendclaw Trow	0
+Rending Vines	0
+Renegade Demon	0
+Renegade Warlord	0
+Renewed Faith	0
+Renounce the Guilds	0
+Renowned Weaver	0
+Repay in Kind	0
+Repeal	0
+Repel	0
+Repel Intruders	0
+Repentance	0
+Repentant Vampire	0
+Reprisal	0
+Reprocess	0
+Repulse	0
+Requiem Angel	0
+Reroute	0
+Rescind	0
+Rescue	0
+Rescue from the Underworld	0
+Research Assistant	0
+Research the Deep	0
+Resilient Wanderer	0
+Resistance Fighter	0
+Resize	0
+Resolute Archangel	0
+Resolute Blademaster	0
+Resounding Roar	0
+Resounding Scream	0
+Resounding Silence	0
+Resounding Thunder	0
+Resounding Wave	0
+Resplendent Mentor	0
+Restless Apparition	0
+Restless Bones	0
+Restless Dead	0
+Restless Dreams	0
+Restock	0
+Restore the Peace	0
+Restrain	0
+Resupply	0
+Resurrection	0
+Resuscitate	0
+Retaliation	0
+Retaliator Griffin	0
+Retether	0
+Rethink	0
+Retreat to Coralhelm	0
+Retreat to Emeria	0
+Retreat to Hagra	0
+Retreat to Kazandu	0
+Retreat to Valakut	0
+Retribution	0
+Retribution of the Ancients	0
+Retromancer	0
+Return to Dust	0
+Returned Centaur	0
+Returned Phalanx	0
+Returned Reveler	0
+Revealing Wind	0
+Reveka, Wizard Savant	0
+Revel of the Fallen God	0
+Revenant	0
+Revenant Patriarch	0
+Revenge of the Hunted	0
+Reverberate	0
+Revered Dead	0
+Revered Unicorn	0
+Reverent Hunter	0
+Reversal of Fortune	0
+Reverse Damage	0
+Revive	0
+Revive the Fallen	0
+Reviving Dose	0
+Reviving Melody	0
+Reviving Vapors	0
+Reward the Faithful	0
+Rewards of Diversity	0
+Rhox	0
+Rhox Bodyguard	0
+Rhox Brute	0
+Rhox Charger	0
+Rhox Maulers	0
+Rhox Meditant	0
+Rhox Pikemaster	0
+Rhox War Monk	0
+Rhystic Scrying	0
+Rib Cage Spider	0
+Ribbons of Night	0
+Ribbons of the Reikai	0
+Riddle of Lightning	0
+Riddlesmith	0
+Ride Down	0
+Riders of Gavony	0
+Ridge Rannet	0
+Ridged Kusite	0
+Ridgeline Rager	0
+Ridgetop Raptor	0
+Riding the Dilu Horse	0
+Rift Elemental	0
+Riftmarked Knight	0
+Riftsweeper	0
+Riftwing Cloudskate	0
+Righteous Authority	0
+Righteous Avengers	0
+Righteous Cause	0
+Righteous Charge	0
+Righteous Indignation	0
+Righteous War	0
+Righteousness	0
+Rime Transfusion	0
+Rimebound Dead	0
+Rimefeather Owl	0
+Rimehorn Aurochs	0
+Rimescale Dragon	0
+Rimewind Cryomancer	0
+Rimewind Taskmage	0
+Ring of Evos Isle	0
+Ring of Gix	0
+Ring of Kalonia	0
+Ring of Ma'rûf	0
+Ring of Renewal	0
+Ring of Thune	0
+Ring of Valkas	0
+Ring of Xathrid	0
+Ringskipper	0
+Ringwarden Owl	0
+Riot Control	0
+Riot Devils	0
+Riot Gear	0
+Riot Piker	0
+Riot Ringleader	0
+Riot Spikes	0
+Rip-Clan Crasher	0
+Ripscale Predator	0
+Riptide Biologist	0
+Riptide Chimera	0
+Riptide Chronologist	0
+Riptide Crab	0
+Riptide Director	0
+Riptide Mangler	0
+Riptide Pilferer	0
+Riptide Shapeshifter	0
+Riptide Survivor	0
+Rise from the Grave	0
+Rise from the Tides	0
+Rise of Eagles	0
+Rise to the Challenge	0
+Risen Sanctuary	0
+Rising Miasma	0
+Rite of Ruin	0
+Rite of Undoing	0
+Rite of the Serpent	0
+Rites of Flourishing	0
+Rites of Initiation	0
+Rites of Reaping	0
+Rites of Refusal	0
+Rites of Spring	0
+Rith's Attendant	0
+Ritual of Restoration	0
+Ritual of Steel	0
+Ritual of Subdual	0
+Ritual of the Machine	0
+Ritual of the Returned	0
+Rivalry	0
+Rivals' Duel	0
+Riven Turnbull	0
+River Bear	0
+River Kaijin	0
+River Merfolk	0
+River's Grasp	0
+Riverwheel Aerialists	0
+Rix Maadi Guildmage	0
+Rix Maadi, Dungeon Palace	0
+Roar of Challenge	0
+Roar of Jukai	0
+Roar of the Crowd	0
+Roar of the Kha	0
+Roar of the Wurm	0
+Roaring Primadox	0
+Roaring Slagwurm	0
+Robber Fly	0
+Robe of Mirrors	0
+Roc Egg	0
+Roc Hatchling	0
+Roc of Kher Ridges	0
+Rock Badger	0
+Rock Basilisk	0
+Rock Jockey	0
+Rock Slide	0
+Rockcaster Platoon	0
+Rockshard Elemental	0
+Rockslide Ambush	0
+Rockslide Elemental	0
+Rocky Tar Pit	0
+Rod of Ruin	0
+Rofellos's Gift	0
+Rogue Kavu	0
+Rogue Skycaptain	0
+Rogue's Gloves	0
+Rogue's Passage	0
+Roil Elemental	0
+Roil Spout	0
+Roil's Retribution	0
+Roiling Terrain	0
+Roiling Waters	0
+Roilmage's Trick	0
+Rollick of Abandon	0
+Rolling Spoil	0
+Rolling Stones	0
+Rolling Temblor	0
+Rolling Thunder	0
+Ronin Cavekeeper	0
+Ronin Cliffrider	0
+Ronin Warclub	0
+Ronom Unicorn	0
+Roofstalker Wight	0
+Root Cage	0
+Root Elemental	0
+Root Greevil	0
+Root Out	0
+Root-Kin Ally	0
+Rootborn Defenses	0
+Rootbreaker Wurm	0
+Rooting Kavu	0
+Rootrunner	0
+Roots	0
+Roots of Life	0
+Rootwalla	0
+Rootwater Commando	0
+Rootwater Depths	0
+Rootwater Hunter	0
+Rootwater Mystic	0
+Rorix Bladewing	0
+Rot Farm Skeleton	0
+Rot Shambler	0
+Rotcrown Ghoul	0
+Roterothopter	0
+Rotfeaster Maggot	0
+Rotted Hulk	0
+Rotting Fensnake	0
+Rotting Giant	0
+Rotting Legion	0
+Rough // Tumble	0
+Roughshod Mentor	0
+Rouse the Mob	0
+Rowen	0
+Royal Assassin	0
+Royal Trooper	0
+Rubbleback Rhino	0
+Rubblebelt Maaka	0
+Rubblebelt Raiders	0
+Ruby Leech	0
+Rude Awakening	0
+Rugged Highlands	0
+Ruin Ghost	0
+Ruin Processor	0
+Ruin in Their Wake	0
+Ruination Guide	0
+Ruination Wurm	0
+Ruinous Minotaur	0
+Ruins of Trokair	0
+Rukh Egg	0
+Rumbling Aftershocks	0
+Rumbling Baloth	0
+Rumbling Crescendo	0
+Rumbling Slum	0
+Rummaging Goblin	0
+Run Wild	0
+Runaway Carriage	0
+Rune of Protection: White	0
+Runeboggle	0
+Runeclaw Bear	0
+Runed Servitor	0
+Runed Stalactite	0
+Runeflare Trap	0
+Runes of the Deus	0
+Runewing	0
+Runic Repetition	0
+Runner's Bane	0
+Rupture	0
+Ruric Thar, the Unbowed	0
+Rush of Adrenaline	0
+Rush of Battle	0
+Rush of Blood	0
+Rushing-Tide Zubera	0
+Rushwood Dryad	0
+Rushwood Legate	0
+Russet Wolves	0
+Rust Elemental	0
+Rust Scarab	0
+Rust Tick	0
+Rusted Relic	0
+Rusted Sentinel	0
+Rusted Slasher	0
+Rustic Clachan	0
+Rustmouth Ogre	0
+Rustrazor Butcher	0
+Rustspore Ram	0
+Ruthless Cullblade	0
+Ruthless Deathfang	0
+Ruthless Instincts	0
+Ruthless Invasion	0
+Ruthless Ripper	0
+Saber Ants	0
+Saberclaw Golem	0
+Sabertooth Outrider	0
+Sabertooth Wyvern	0
+Sabretooth Tiger	0
+Sacellum Archers	0
+Sacellum Godspeaker	0
+Sachi, Daughter of Seshiro	0
+Sacred Armory	0
+Sacred Boon	0
+Sacred Ground	0
+Sacred Mesa	0
+Sacred Nectar	0
+Sacred Rites	0
+Sacred Wolf	0
+Saddleback Lagac	0
+Sadistic Augermage	0
+Sadistic Glee	0
+Safe Haven	0
+Safe Passage	0
+Safeguard	0
+Safehold Duo	0
+Safehold Sentry	0
+Sage Aven	0
+Sage Owl	0
+Sage of Ancient Lore	0
+Sage of Epityr	0
+Sage of Fables	0
+Sage of Lat-Nam	0
+Sage of the Inward Eye	0
+Sage's Dousing	0
+Sage-Eye Avengers	0
+Sage-Eye Harrier	0
+Sages of the Anima	0
+Sagu Archer	0
+Sagu Mauler	0
+Sailmonger	0
+Sakura-Tribe Springcaller	0
+Salt Flats	0
+Salt Road Ambushers	0
+Salt Road Patrol	0
+Salt Road Quartermasters	0
+Saltblast	0
+Saltcrusted Steppe	0
+Saltfield Recluse	0
+Saltskitter	0
+Salvage Drone	0
+Salvage Scout	0
+Salvage Slasher	0
+Salvage Titan	0
+Samite Archer	0
+Samite Blessing	0
+Samite Censer-Bearer	0
+Samite Healer	0
+Samite Ministration	0
+Samurai Enforcers	0
+Samurai of the Pale Curtain	0
+Sanctified Charge	0
+Sanctimony	0
+Sanctuary Cat	0
+Sanctum Gargoyle	0
+Sanctum Guardian	0
+Sanctum Plowbeast	0
+Sand Golem	0
+Sandbar Merfolk	0
+Sandbar Serpent	0
+Sandblast	0
+Sandcrafter Mage	0
+Sands of Delirium	0
+Sandskin	0
+Sandsower	0
+Sandsteppe Citadel	0
+Sandsteppe Mastodon	0
+Sandsteppe Scavenger	0
+Sandstone Bridge	0
+Sandstone Deadfall	0
+Sandstone Warrior	0
+Sandstorm Charger	0
+Sandstorm Eidolon	0
+Sangrite Backlash	0
+Sangrite Surge	0
+Sanguimancy	0
+Sanguinary Mage	0
+Sanguine Bond	0
+Sanguine Guard	0
+Sanitarium Skeleton	0
+Sanity Gnawers	0
+Sapphire Drake	0
+Saprazzan Breaker	0
+Saprazzan Legate	0
+Saprazzan Raider	0
+Saproling Burst	0
+Saproling Cluster	0
+Saproling Infestation	0
+Sapseep Forest	0
+Sarcatog	0
+Sarcomancy	0
+Sarcomite Myr	0
+Sarkhan's Rage	0
+Sarkhan's Triumph	0
+Sarpadian Empires, Vol. VII	0
+Satyr Grovedancer	0
+Satyr Hedonist	0
+Satyr Nyx-Smith	0
+Satyr Piper	0
+Satyr Rambler	0
+Savage Conception	0
+Savage Gorilla	0
+Savage Hunger	0
+Savage Knuckleblade	0
+Savage Lands	0
+Savage Offensive	0
+Savage Punch	0
+Savage Silhouette	0
+Savage Summoning	0
+Savage Surge	0
+Savage Thallid	0
+Savage Twister	0
+Savage Ventmaw	0
+Savannah Lions	0
+Saving Grasp	0
+Sawback Manticore	0
+Sawtooth Loon	0
+Sawtooth Ogre	0
+Scab-Clan Charger	0
+Scab-Clan Giant	0
+Scab-Clan Mauler	0
+Scabland	0
+Scald	0
+Scalding Devil	0
+Scaldkin	0
+Scale Blessing	0
+Scale of Chiss-Goria	0
+Scalebane's Elite	0
+Scaled Wurm	0
+Scaleguard Sentinels	0
+Scandalmonger	0
+Scapegoat	0
+Scar	0
+Scarblade Elite	0
+Scarecrow	0
+Scarland Thrinax	0
+Scarred Puma	0
+Scarred Vinebreeder	0
+Scars of the Veteran	0
+Scarscale Ritual	0
+Scarwood Bandits	0
+Scarwood Treefolk	0
+Scathe Zombies	0
+Scatter Arc	0
+Scatter the Seeds	0
+Scattering Stroke	0
+Scattershot	0
+Scavenger Drake	0
+Scavenger Folk	0
+Scavenging Ghoul	0
+Scavenging Scarab	0
+Scent of Brine	0
+Scent of Ivy	0
+Scent of Jasmine	0
+Scent of Nightshade	0
+Scepter of Dominance	0
+Scepter of Empires	0
+Scepter of Insight	0
+Schismotivate	0
+Scholar of Athreos	0
+Scion Summoner	0
+Scion of Glaciers	0
+Scion of Ugin	0
+Scion of Vitu-Ghazi	0
+Scion of the Wild	0
+Scorch the Fields	0
+Scorched Rusalka	0
+Scorching Lava	0
+Scorching Missile	0
+Scorchwalker	0
+Scoria Cat	0
+Scoria Elemental	0
+Scoria Wurm	0
+Scorned Villager	0
+Scornful Aether-Lich	0
+Scornful Egotist	0
+Scour	0
+Scour from Existence	0
+Scourge Devil	0
+Scourge Servant	0
+Scourge of Geier Reach	0
+Scourge of Numai	0
+Scourge of Skola Vale	0
+Scourge of the Nobilis	0
+Scourgemark	0
+Scourglass	0
+Scouring Sands	0
+Scout the Borders	0
+Scrabbling Claws	0
+Scragnoth	0
+Scrambleverse	0
+Scrapbasket	0
+Scrapdiver Serpent	0
+Scrapheap	0
+Scrapskin Drake	0
+Scrapyard Mongrel	0
+Scrapyard Salvo	0
+Screaming Fury	0
+Screaming Seahawk	0
+Screamreach Brawler	0
+Screams from Within	0
+Screams of the Damned	0
+Screeching Bat	0
+Screeching Buzzard	0
+Screeching Drake	0
+Screeching Griffin	0
+Screeching Harpy	0
+Screeching Silcaw	0
+Screeching Skaab	0
+Screeching Sliver	0
+Scrivener	0
+Scroll Thief	0
+Scroll of Griselbrand	0
+Scroll of Origins	0
+Scroll of the Masters	0
+Scrounge	0
+Scryb Ranger	0
+Scryb Sprites	0
+Scrying Glass	0
+Scute Mob	0
+Scuttlemutt	0
+Scuttling Death	0
+Scuzzback Marauders	0
+Scuzzback Scrapper	0
+Scythe Leopard	0
+Sea Drake	0
+Sea Eagle	0
+Sea Gate Loremaster	0
+Sea God's Revenge	0
+Sea Monster	0
+Sea Serpent	0
+Sea Snidd	0
+Seacoast Drake	0
+Seafloor Debris	0
+Seagraf Skaab	0
+Seal of Cleansing	0
+Seal of Strength	0
+Sealed Fate	0
+Sealock Monster	0
+Séance	0
+Search Warrant	0
+Search the City	0
+Searchlight Geist	0
+Searing Flesh	0
+Searing Light	0
+Searing Meditation	0
+Searing Touch	0
+Seascape Aerialist	0
+Seaside Citadel	0
+Seaside Haven	0
+Seasoned Marshal	0
+Second Chance	0
+Second Guess	0
+Second Sight	0
+Second Thoughts	0
+Second Wind	0
+Secret Plans	0
+Secretkeeper	0
+Secrets of the Dead	0
+Security Blockade	0
+Sedge Scorpion	0
+Sedge Troll	0
+Sedraxis Alchemist	0
+Sedraxis Specter	0
+See Beyond	0
+Seed Guardian	0
+Seed Spark	0
+Seedcradle Witch	0
+Seedguide Ash	0
+Seeds of Strength	0
+Seek the Horizon	0
+Seek the Wilds	0
+Seeker of the Way	0
+Seer's Lantern	0
+Seer's Sundial	0
+Seer's Vision	0
+Seething Anger	0
+Seething Pathblazer	0
+Segmented Krotiq	0
+Seismic Elemental	0
+Seismic Spike	0
+Seismic Stomp	0
+Seismic Strike	0
+Seize the Initiative	0
+Seize the Soul	0
+Sejiri Merfolk	0
+Selective Memory	0
+Selesnya Charm	0
+Selesnya Cluestone	0
+Selesnya Guildmage	0
+Selesnya Keyrune	0
+Selesnya Sentry	0
+Selesnya Signet	0
+Self-Inflicted Wound	0
+Selfless Cathar	0
+Selfless Exorcist	0
+Selhoff Occultist	0
+Selkie Hedge-Mage	0
+Sell-Sword Brute	0
+Send to Sleep	0
+Sengir Autocrat	0
+Sengir Nosferatu	0
+Sengir Vampire	0
+Sensei Golden-Tail	0
+Senseless Rage	0
+Sensor Splicer	0
+Sensory Deprivation	0
+Sentinel Spider	0
+Sentinel of the Eternal Watch	0
+Sentinels of Glen Elendra	0
+Sentry Oak	0
+Sentry of the Underworld	0
+Separatist Voidmage	0
+Septic Rats	0
+Sepulchral Primordial	0
+Seraph Sanctuary	0
+Seraph of Dawn	0
+Seraph of the Masses	0
+Serendib Efreet	0
+Serendib Sorcerer	0
+Serene Master	0
+Serene Offering	0
+Serene Remembrance	0
+Serene Steward	0
+Serene Sunset	0
+Serpent Skin	0
+Serpent Warrior	0
+Serpent of the Endless Sea	0
+Serpent's Gift	0
+Serpentine Kavu	0
+Serpentine Spike	0
+Serra Advocate	0
+Serra Angel	0
+Serra Avenger	0
+Serra Aviary	0
+Serra Bestiary	0
+Serra Sphinx	0
+Serra Zealot	0
+Serra's Blessing	0
+Serra's Boon	0
+Serra's Embrace	0
+Serra's Liturgy	0
+Serrated Biskelion	0
+Serum Raker	0
+Serum Tank	0
+Servant of Nefarox	0
+Servant of Tymaret	0
+Servant of Volrath	0
+Servant of the Scale	0
+Set Adrift	0
+Setessan Battle Priest	0
+Setessan Griffin	0
+Setessan Oathsworn	0
+Setessan Starbreaker	0
+Seton's Desire	0
+Seton's Scout	0
+Sever Soul	0
+Sever the Bloodline	0
+Severed Legion	0
+Sewer Rats	0
+Sewer Shambler	0
+Sewerdreg	0
+Sewn-Eye Drake	0
+Shackles	0
+Shade of Trokair	0
+Shade's Breath	0
+Shadow Alley Denizen	0
+Shadow Glider	0
+Shadow Guildmage	0
+Shadow Lance	0
+Shadow Rider	0
+Shadow Sliver	0
+Shadowbane	0
+Shadowblood Egg	0
+Shadowcloak Vampire	0
+Shadowfeed	0
+Shadowmage Infiltrator	0
+Shadows of the Past	0
+Shadowstorm	0
+Shah of Naar Isle	0
+Shaleskin Bruiser	0
+Shaleskin Plower	0
+Shaman en-Kor	0
+Shaman of Spring	0
+Shaman of the Pack	0
+Shamble Back	0
+Shambleshark	0
+Shambling Attendants	0
+Shambling Ghoul	0
+Shambling Goblin	0
+Shambling Remains	0
+Shambling Strider	0
+Shambling Swarm	0
+Shanodin Dryads	0
+Shape of the Wiitigo	0
+Shape the Sands	0
+Shaper Parasite	0
+Shapesharer	0
+Shapeshifter's Marrow	0
+Shard Convergence	0
+Shard Phoenix	0
+Shard of Broken Glass	0
+Shared Discovery	0
+Sharpened Pitchfork	0
+Shatter	0
+Shattered Angel	0
+Shattered Crypt	0
+Shattered Dreams	0
+Shattered Perception	0
+Shattering Blow	0
+Shatterskull Giant	0
+Shatterskull Recruit	0
+Shauku's Minion	0
+Sheer Drop	0
+Shell Skulkin	0
+Shell of the Last Kappa	0
+Shelter	0
+Sheltered Aerie	0
+Sheltering Ancient	0
+Sheltering Word	0
+Shepherd of the Lost	0
+Shield Bearer	0
+Shield Wall	0
+Shield of Duty and Reason	0
+Shield of the Ages	0
+Shield of the Avatar	0
+Shield of the Oversoul	0
+Shield of the Righteous	0
+Shielded Passage	0
+Shieldhide Dragon	0
+Shielding Plax	0
+Shieldmage Advocate	0
+Shieldmate's Blessing	0
+Shields of Velis Vel	0
+Shifting Borders	0
+Shifting Sky	0
+Shifting Wall	0
+Shifty Doppelganger	0
+Shimatsu the Bloodcloaked	0
+Shimian Specter	0
+Shimmering Efreet	0
+Shimmering Glasskite	0
+Shimmering Grotto	0
+Shimmering Mirage	0
+Shimmering Wings	0
+Shinen of Fear's Chill	0
+Shinen of Flight's Wings	0
+Shinen of Stars' Light	0
+Shinewend	0
+Shipbreaker Kraken	0
+Shipwreck Singer	0
+Shiv's Embrace	0
+Shivan Dragon	0
+Shivan Oasis	0
+Shivan Phoenix	0
+Shivan Sand-Mage	0
+Shivan Wumpus	0
+Shivan Wurm	0
+Shizo, Death's Storehouse	0
+Shoal Serpent	0
+Shock	0
+Shock Troops	0
+Shockmaw Dragon	0
+Shore Snapper	0
+Shoreline Ranger	0
+Shoreline Salvager	0
+Shoulder to Shoulder	0
+Show of Valor	0
+Shower of Coals	0
+Shower of Sparks	0
+Showstopper	0
+Shrapnel Blast	0
+Shred Memory	0
+Shredding Winds	0
+Shrewd Hatchling	0
+Shriek Raptor	0
+Shriek of Dread	0
+Shriekgeist	0
+Shriekhorn	0
+Shrieking Grotesque	0
+Shrike Harpy	0
+Shrine of Boundless Growth	0
+Shrine of Burning Rage	0
+Shrine of Limitless Power	0
+Shrine of Loyal Legions	0
+Shrine of Piercing Vision	0
+Shrink	0
+Shriveling Rot	0
+Shrouded Lore	0
+Shu Cavalry	0
+Shu Elite Companions	0
+Shu General	0
+Shu Soldier-Farmers	0
+Shunt	0
+Shuriken	0
+Shyft	0
+Sibilant Spirit	0
+Sibsig Icebreakers	0
+Sibsig Muckdraggers	0
+Sick and Tired	0
+Sicken	0
+Sickening Dreams	0
+Sickle Ripper	0
+Sickleslicer	0
+Sidar Jabari	0
+Sideswipe	0
+Sidisi's Faithful	0
+Sidisi's Pet	0
+Siege Dragon	0
+Siege Mastodon	0
+Siege Wurm	0
+Siegecraft	0
+Sift	0
+Sift Through Sands	0
+Sight Beyond Sight	0
+Sight of the Scalelords	0
+Sighted-Caste Sorcerer	0
+Sightless Brawler	0
+Sightless Ghoul	0
+Sigil Blessing	0
+Sigil Captain	0
+Sigil of Distinction	0
+Sigil of Valor	0
+Sigil of the New Dawn	0
+Sigiled Behemoth	0
+Sigiled Paladin	0
+Sigiled Skink	0
+Sigiled Starfish	0
+Signal the Clans	0
+Silburlind Snapper	0
+Silence	0
+Silence the Believers	0
+Silent Departure	0
+Silent Sentinel	0
+Silent Skimmer	0
+Silent Specter	0
+Silent-Chant Zubera	0
+Silhana Starfletcher	0
+Silk Net	0
+Silkbind Faerie	0
+Silklash Spider	0
+Silkwing Scout	0
+Silt Crawler	0
+Silumgar Butcher	0
+Silumgar Monument	0
+Silumgar Sorcerer	0
+Silumgar Spell-Eater	0
+Silver Knight	0
+Silver Myr	0
+Silver Wyvern	0
+Silver-Inlaid Dagger	0
+Silverback Ape	0
+Silverchase Fox	0
+Silverclaw Griffin	0
+Silvercoat Lion	0
+Silverfur Partisan	0
+Silvergill Douser	0
+Silverglade Elemental	0
+Silverglade Pathfinder	0
+Silverskin Armor	0
+Silverstorm Samurai	0
+Silverstrike	0
+Silvos, Rogue Elemental	0
+Simian Brawler	0
+Simian Grunts	0
+Simic Basilisk	0
+Simic Charm	0
+Simic Cluestone	0
+Simic Fluxmage	0
+Simic Guildmage	0
+Simic Initiate	0
+Simic Keyrune	0
+Simic Manipulator	0
+Simic Ragworm	0
+Simoon	0
+Simplify	0
+Sindbad	0
+Singe	0
+Singe-Mind Ogre	0
+Singing Bell Strike	0
+Singing Tree	0
+Sinister Concoction	0
+Sinister Possession	0
+Sinister Strength	0
+Sink into Takenuma	0
+Sinking Feeling	0
+Sinstriker's Will	0
+Sir Shandlar of Eberyn	0
+Sire of the Storm	0
+Siren Song Lyre	0
+Siren of the Fanged Coast	0
+Siren of the Silent Song	0
+Sirocco	0
+Sisay's Ingenuity	0
+Sisay's Ring	0
+Sisters of Stone Death	0
+Sivvi's Ruse	0
+Sizzle	0
+Skaab Goliath	0
+Skarrg Goliath	0
+Skarrg Guildmage	0
+Skarrg, the Rage Pits	0
+Skarrgan Firebird	0
+Skarrgan Skybreaker	0
+Skeletal Changeling	0
+Skeletal Grimace	0
+Skeletal Kathari	0
+Skeletal Vampire	0
+Skeletal Wurm	0
+Skeleton Key	0
+Skeleton Shard	0
+Skeletonize	0
+Skill Borrower	0
+Skillful Lunge	0
+Skin Invasion	0
+Skinbrand Goblin	0
+Skinrender	0
+Skinthinner	0
+Skinwing	0
+Skirge Familiar	0
+Skirk Alarmist	0
+Skirk Commando	0
+Skirk Drill Sergeant	0
+Skirk Marauder	0
+Skirk Outrider	0
+Skirk Prospector	0
+Skirk Ridge Exhumer	0
+Skirk Shaman	0
+Skirsdag Cultist	0
+Skirsdag Flayer	0
+Skitter of Lizards	0
+Skittering Horror	0
+Skittering Invasion	0
+Skittering Monstrosity	0
+Skitterskin	0
+Skittish Kavu	0
+Skittish Valesk	0
+Skizzik	0
+Skizzik Surger	0
+Skulking Fugitive	0
+Skulking Ghost	0
+Skull Catapult	0
+Skull Collector	0
+Skull Fracture	0
+Skull Rend	0
+Skull of Orm	0
+Skullcage	0
+Skullmane Baku	0
+Skullmead Cauldron	0
+Skullmulcher	0
+Skullscorch	0
+Skulltap	0
+Sky Ruin Drake	0
+Sky Scourer	0
+Sky Spirit	0
+Sky Swallower	0
+Sky Weaver	0
+Sky-Eel School	0
+Skybind	0
+Skyblinder Staff	0
+Skyclaw Thrash	0
+Skycloud Egg	0
+Skygames	0
+Skyhunter Cub	0
+Skyhunter Patrol	0
+Skyhunter Prowler	0
+Skyhunter Skirmisher	0
+Skyknight Legionnaire	0
+Skyline Cascade	0
+Skyline Predator	0
+Skymark Roc	0
+Skyraker Giant	0
+Skyreach Manta	0
+Skyreaping	0
+Skyrider Elf	0
+Skyrider Trainee	0
+Skyscribing	0
+Skyshaper	0
+Skyshooter	0
+Skyshroud Archer	0
+Skyshroud Condor	0
+Skyshroud Elf	0
+Skyshroud Elite	0
+Skyshroud Falcon	0
+Skyshroud Forest	0
+Skyshroud Ranger	0
+Skyshroud Sentinel	0
+Skyshroud Troll	0
+Skyshroud Troopers	0
+Skyshroud Vampire	0
+Skysnare Spider	0
+Skyspear Cavalry	0
+Skyward Eye Prophets	0
+Skywatcher Adept	0
+Skywinder Drake	0
+Skywing Aven	0
+Skywise Teachings	0
+Slab Hammer	0
+Slag Fiend	0
+Slagwurm Armor	0
+Slash Panther	0
+Slashing Tiger	0
+Slate Street Ruffian	0
+Slate of Ancestry	0
+Slaughter	0
+Slaughter Cry	0
+Slaughter Drone	0
+Slaughterhorn	0
+Slaughterhouse Bouncer	0
+Slave of Bolas	0
+Slavering Nulls	0
+Slay	0
+Slayer of the Wicked	0
+Sleep	0
+Sleep Paralysis	0
+Sleeper's Guile	0
+Sleeper's Robe	0
+Sleeping Potion	0
+Slice and Dice	0
+Slice in Twain	0
+Slime Molding	0
+Slingbow Trap	0
+Slingshot Goblin	0
+Slinking Giant	0
+Slinking Skirge	0
+Slip Through Space	0
+Slipstream Eel	0
+Slipstream Serpent	0
+Slith Ascendant	0
+Slith Bloodletter	0
+Slith Firewalker	0
+Slith Predator	0
+Slith Strider	0
+Slitherhead	0
+Slithering Shade	0
+Slithermuse	0
+Slithery Stalker	0
+Sliver Construct	0
+Sliversmith	0
+Slobad, Goblin Tinkerer	0
+Slow Motion	0
+Sludge Crawler	0
+Sludge Strider	0
+Sluggishness	0
+Sluiceway Scorpion	0
+Slum Reaper	0
+Slumbering Dragon	0
+Smash	0
+Smelt	0
+Smelt-Ward Gatekeepers	0
+Smite	0
+Smite the Monstrous	0
+Smog Elemental	0
+Smogsteed Rider	0
+Smoke Teller	0
+Smokebraider	0
+Smokespew Invoker	0
+Smolder Initiate	0
+Smoldering Butcher	0
+Smoldering Efreet	0
+Smoldering Spires	0
+Smoldering Tar	0
+Snag	0
+Snake Cult Initiation	0
+Snake of the Golden Grove	0
+Snapback	0
+Snapping Creeper	0
+Snapping Drake	0
+Snapping Gnarlid	0
+Snapping Thragg	0
+Snapsail Glider	0
+Snare the Skies	0
+Snarling Undorak	0
+Sneaky Homunculus	0
+Snorting Gahr	0
+Snow Fortress	0
+Snowhorn Rider	0
+Soar	0
+Soaring Hope	0
+Soaring Seacliff	0
+Soilshaper	0
+Sokenzan Renegade	0
+Sokenzan Spellblade	0
+Sol Grail	0
+Sol'kanar the Swamp King	0
+Solar Blast	0
+Solar Tide	0
+Soldevi Digger	0
+Soldevi Golem	0
+Soldevi Machinist	0
+Soldevi Simulacrum	0
+Soldier Replica	0
+Soldier of the Pantheon	0
+Solemn Offering	0
+Solfatara	0
+Solidarity	0
+Solitary Hunter	0
+Soliton	0
+Soltari Champion	0
+Soltari Crusader	0
+Soltari Emissary	0
+Soltari Foot Soldier	0
+Soltari Lancer	0
+Soltari Monk	0
+Soltari Priest	0
+Soltari Trooper	0
+Somberwald Alpha	0
+Somberwald Dryad	0
+Somberwald Sage	0
+Somberwald Spider	0
+Somberwald Vigilante	0
+Somnomancer	0
+Song of Blood	0
+Song of Serenity	0
+Songstitcher	0
+Sonic Burst	0
+Sonic Seizure	0
+Soot Imp	0
+Sootfeather Flock	0
+Sootstoke Kindler	0
+Sootwalkers	0
+Sophic Centaur	0
+Soratami Cloud Chariot	0
+Soratami Cloudskater	0
+Soratami Mindsweeper	0
+Soratami Mirror-Guard	0
+Soratami Mirror-Mage	0
+Soratami Rainshaper	0
+Soratami Savant	0
+Soratami Seer	0
+Sorcerer's Strongbox	0
+Sorin's Thirst	0
+Sorin's Vengeance	0
+Sorrow's Path	0
+Sosuke's Summons	0
+Sosuke, Son of Seshiro	0
+Soul Bleed	0
+Soul Charmer	0
+Soul Collector	0
+Soul Exchange	0
+Soul Feast	0
+Soul Kiss	0
+Soul Net	0
+Soul Nova	0
+Soul Parry	0
+Soul Ransom	0
+Soul Reap	0
+Soul Rend	0
+Soul Scourge	0
+Soul Seizer	0
+Soul Shred	0
+Soul Snuffers	0
+Soul Stair Expedition	0
+Soul Summons	0
+Soul Tithe	0
+Soul of Magma	0
+Soul of the Harvest	0
+Soul's Fire	0
+Soul's Grace	0
+Soul's Might	0
+Soulblade Djinn	0
+Soulblast	0
+Soulbound Guardians	0
+Soulbright Flamekin	0
+Soulcage Fiend	0
+Soulcatcher	0
+Soulcatchers' Aerie	0
+Souldrinker	0
+Soulgorger Orgg	0
+Soulless Revival	0
+Soulmender	0
+Soulquake	0
+Soulscour	0
+Soulshriek	0
+Soulsworn Jury	0
+Soulsworn Spirit	0
+Soultether Golem	0
+Sound the Call	0
+Southern Elephant	0
+Southern Paladin	0
+Spare from Evil	0
+Spark Jolt	0
+Spark Spray	0
+Spark Trooper	0
+Sparkmage Apprentice	0
+Sparkmage's Gambit	0
+Sparkspitter	0
+Sparring Collar	0
+Sparring Golem	0
+Spawn of Rix Maadi	0
+Spawn of Thraxes	0
+Spawnbinder Mage	0
+Spawnbroker	0
+Spawning Bed	0
+Spawning Breath	0
+Spawning Pool	0
+Spawnwrithe	0
+Spear of Heliod	0
+Spearbreaker Behemoth	0
+Spearpoint Oread	0
+Species Gorger	0
+Specter's Shroud	0
+Specter's Wail	0
+Spectral Bears	0
+Spectral Flight	0
+Spectral Force	0
+Spectral Gateguards	0
+Spectral Lynx	0
+Spectral Prison	0
+Spectral Rider	0
+Spectral Searchlight	0
+Spectral Shepherd	0
+Spectral Shield	0
+Spectral Sliver	0
+Spell Blast	0
+Spell Contortion	0
+Spell Rupture	0
+Spell Shrivel	0
+Spell Snip	0
+Spell Syphon	0
+Spellbinder	0
+Spellbook	0
+Spellbound Dragon	0
+Spellheart Chimera	0
+Spellshift	0
+Spellshock	0
+Spelltithe Enforcer	0
+Spelltwine	0
+Spellweaver Volute	0
+Spellwild Ouphe	0
+Sphere of Duty	0
+Sphere of Grace	0
+Sphere of Law	0
+Sphere of Purity	0
+Sphere of Reason	0
+Sphere of Truth	0
+Sphere of the Suns	0
+Sphinx of Jwar Isle	0
+Sphinx of Lost Truths	0
+Sphinx of Magosi	0
+Sphinx of Uthuun	0
+Sphinx of the Chimes	0
+Sphinx's Disciple	0
+Sphinx's Herald	0
+Sphinx-Bone Wand	0
+Spider Climb	0
+Spider Spawning	0
+Spidersilk Net	0
+Spiderwig Boggart	0
+Spidery Grasp	0
+Spike Breeder	0
+Spike Cannibal	0
+Spike Colony	0
+Spike Drone	0
+Spike Hatcher	0
+Spike Jester	0
+Spike Rogue	0
+Spike Soldier	0
+Spike Tiller	0
+Spike Worker	0
+Spiked Baloth	0
+Spikeshot Elder	0
+Spikeshot Goblin	0
+Spiketail Drake	0
+Spiketail Drakeling	0
+Spiketail Hatchling	0
+Spin Engine	0
+Spin into Myth	0
+Spinal Graft	0
+Spinal Parasite	0
+Spinal Villain	0
+Spincrusher	0
+Spindrift Drake	0
+Spinebiter	0
+Spined Basher	0
+Spined Fluke	0
+Spined Sliver	0
+Spined Thopter	0
+Spined Wurm	0
+Spineless Thug	0
+Spiny Starfish	0
+Spiraling Duelist	0
+Spire Barrage	0
+Spire Monitor	0
+Spire Owl	0
+Spire Serpent	0
+Spire Tracer	0
+Spirespine	0
+Spirit Away	0
+Spirit Bonds	0
+Spirit Cairn	0
+Spirit Flare	0
+Spirit Loop	0
+Spirit Mirror	0
+Spirit Shackle	0
+Spirit Weaver	0
+Spirit en-Dal	0
+Spirit en-Kor	0
+Spiritmonger	0
+Spiritualize	0
+Spite // Malice	0
+Spite of Mogis	0
+Spitebellows	0
+Spiteflame Witch	0
+Spiteful Blow	0
+Spiteful Bully	0
+Spiteful Motives	0
+Spiteful Returned	0
+Spiteful Shadows	0
+Spitfire Handler	0
+Spitting Drake	0
+Spitting Earth	0
+Spitting Gourna	0
+Spitting Hydra	0
+Spitting Sliver	0
+Spitting Slug	0
+Spitting Spider	0
+Splatter Thug	0
+Splinterfright	0
+Split-Tail Miko	0
+Splitting Headache	0
+Spoils of Victory	0
+Spontaneous Combustion	0
+Spore Burst	0
+Spore Cloud	0
+Spore Flower	0
+Sporeback Troll	0
+Sporecap Spider	0
+Sporemound	0
+Sporesower Thallid	0
+Sporoloth Ancient	0
+Spotted Griffin	0
+Spring Cleaning	0
+Springing Tiger	0
+Springjack Knight	0
+Sprite Noble	0
+Sprout	0
+Sprouting Thrinax	0
+Spur Grappler	0
+Spurnmage Advocate	0
+Spurred Wolverine	0
+Spy Network	0
+Squall	0
+Squall Drifter	0
+Squall Line	0
+Squallmonger	0
+Squeaking Pie Grubfellows	0
+Squeaking Pie Sneak	0
+Squealing Devil	0
+Squee's Embrace	0
+Squee's Toy	0
+Squelching Leeches	0
+Squire	0
+Squirming Mass	0
+Stab Wound	0
+Stabbing Pain	0
+Staff of Zegon	0
+Staff of the Death Magus	0
+Staff of the Flame Magus	0
+Staff of the Mind Magus	0
+Staff of the Sun Magus	0
+Staff of the Wild Magus	0
+Stag Beetle	0
+Stain the Mind	0
+Stalker Hag	0
+Stalking Assassin	0
+Stalking Bloodsucker	0
+Stalking Drone	0
+Stalking Stones	0
+Stalking Tiger	0
+Stalking Yeti	0
+Stallion of Ashmouth	0
+Stalwart Aven	0
+Stalwart Shield-Bearers	0
+Stampede	0
+Stampede Driver	0
+Stampeding Elk Herd	0
+Stampeding Rhino	0
+Stampeding Serow	0
+Stampeding Wildebeests	0
+Stand // Deliver	0
+Stand Firm	0
+Stand Together	0
+Stand or Fall	0
+Standardize	0
+Standing Troops	0
+Stangg	0
+Star Compass	0
+Starfall	0
+Starlight	0
+Starlight Invoker	0
+Starlit Sanctum	0
+Starstorm	0
+Starved Rusalka	0
+Stasis Cell	0
+Stasis Cocoon	0
+Statute of Denial	0
+Staunch Defenders	0
+Staunch-Hearted Warrior	0
+Steadfast Guard	0
+Steady Progress	0
+Steal Artifact	0
+Steal Strength	0
+Stealer of Secrets	0
+Steam Augury	0
+Steam Blast	0
+Steam Spitter	0
+Steam Vines	0
+Steamclaw	0
+Steamcore Weird	0
+Steel Golem	0
+Steel Leaf Paladin	0
+Steel Wall	0
+Steelclad Serpent	0
+Steelform Sliver	0
+Steeling Stance	0
+Steeple Roc	0
+Stenchskipper	0
+Stensia Bloodhall	0
+Stensia Masquerade	0
+Steppe Glider	0
+Stern Constable	0
+Stern Judge	0
+Stern Mentor	0
+Stern Proctor	0
+Steward of Valeron	0
+Still Life	0
+Stinging Licid	0
+Stingmoggie	0
+Stingscourger	0
+Stinkdrinker Daredevil	0
+Stir the Grave	0
+Stir the Pride	0
+Stitched Drake	0
+Stitched Mangler	0
+Stitcher's Apprentice	0
+Stitchwing Skaab	0
+Stoic Builder	0
+Stoic Champion	0
+Stoic Ephemera	0
+Stoic Rebuttal	0
+Stolen Goods	0
+Stolen Grain	0
+Stolen Identity	0
+Stomp and Howl	0
+Stomper Cub	0
+Stone Calendar	0
+Stone Giant	0
+Stone Golem	0
+Stone Haven Medic	0
+Stone Idol Trap	0
+Stone Quarry	0
+Stone Spirit	0
+Stone-Tongue Basilisk	0
+Stonebrow, Krosan Hero	0
+Stonecloaker	0
+Stonefare Crocodile	0
+Stoneforge Acolyte	0
+Stonefury	0
+Stonehands	0
+Stonehorn Chanter	0
+Stoneshaker Shaman	0
+Stoneshock Giant	0
+Stonewise Fortifier	0
+Stonewood Invocation	0
+Stonewood Invoker	0
+Stonewright	0
+Stonybrook Angler	0
+Stonybrook Schoolmaster	0
+Storm Crow	0
+Storm Elemental	0
+Storm Entity	0
+Storm Front	0
+Storm Herd	0
+Storm Seeker	0
+Storm Shaman	0
+Storm World	0
+Stormbind	0
+Stormblood Berserker	0
+Stormcaller of Keranos	0
+Stormcaller's Boon	0
+Stormchaser Chimera	0
+Stormcloud Djinn	0
+Stormcrag Elemental	0
+Stormfront Pegasus	0
+Stormfront Riders	0
+Stormrider Rig	0
+Stormrider Spirit	0
+Stormscape Battlemage	0
+Stormscape Familiar	0
+Stormtide Leviathan	0
+Stormwing Dragon	0
+Strafe	0
+Strands of Undeath	0
+Strandwalker	0
+Strange Inversion	0
+Strangling Soot	0
+Strata Scythe	0
+Stratadon	0
+Strategic Planning	0
+Stratozeppelid	0
+Stratus Walk	0
+Straw Golem	0
+Stream Hopper	0
+Stream of Consciousness	0
+Stream of Life	0
+Stream of Unconsciousness	0
+Streambed Aquitects	0
+Street Savvy	0
+Street Sweeper	0
+Streetbreaker Wurm	0
+Strength from the Fallen	0
+Strength of Arms	0
+Strength of Cedars	0
+Strength of Isolation	0
+Strength of Lunacy	0
+Strength of Night	0
+Strength of Unity	0
+Strength of the Tajuru	0
+Strider Harness	0
+Strip Bare	0
+Stromgald Cabal	0
+Stromkirk Patrol	0
+Strongarm Monk	0
+Strongarm Tactics	0
+Stronghold Assassin	0
+Stronghold Biologist	0
+Stronghold Discipline	0
+Stronghold Machinist	0
+Stronghold Taskmaster	0
+Structural Collapse	0
+Structural Distortion	0
+Struggle for Sanity	0
+Student of Elements	0
+Student of Ojutai	0
+Stun	0
+Stun Sniper	0
+Stunted Growth	0
+Stupefying Touch	0
+Stupor	0
+Sturdy Hatchling	0
+Sturmgeist	0
+Stymied Hopes	0
+Su-Chi	0
+Submerged Boneyard	0
+Subterranean Scout	0
+Subterranean Shambler	0
+Subterranean Spirit	0
+Subversion	0
+Sudden Death	0
+Sudden Disappearance	0
+Sudden Impact	0
+Sudden Spoiling	0
+Sudden Storm	0
+Sudden Strength	0
+Suffer the Past	0
+Suicidal Charge	0
+Sulam Djinn	0
+Sulfuric Vapors	0
+Sulfuric Vortex	0
+Sulfurous Blast	0
+Sultai Ascendancy	0
+Sultai Banner	0
+Sultai Charm	0
+Sultai Flayer	0
+Sultai Skullkeeper	0
+Sultai Soothsayer	0
+Summit Apes	0
+Summit Prowler	0
+Summoner's Bane	0
+Sun Clasp	0
+Sun's Bounty	0
+Sunastian Falconer	0
+Sunbeam Spellbomb	0
+Sunblade Elf	0
+Sunbond	0
+Sunbringer's Touch	0
+Suncrusher	0
+Sunder from Within	0
+Sundering Vitae	0
+Sunfire Balm	0
+Sunflare Shaman	0
+Sungrass Egg	0
+Sunhome Enforcer	0
+Sunhome Guildmage	0
+Sunhome, Fortress of the Legion	0
+Sunken City	0
+Sunken Hope	0
+Sunrise Sovereign	0
+Sunscape Battlemage	0
+Sunscorch Regent	0
+Sunseed Nurturer	0
+Sunspear Shikari	0
+Sunspire Gatekeepers	0
+Sunspire Griffin	0
+Sunspring Expedition	0
+Sunstrike Legionnaire	0
+Suntail Hawk	0
+Suntouched Myr	0
+Sunweb	0
+Superior Numbers	0
+Supply // Demand	0
+Supply-Line Cranes	0
+Suppress	0
+Suppression Bonds	0
+Supreme Exemplar	0
+Supreme Inquisitor	0
+Suq'Ata Firewalker	0
+Suq'Ata Lancer	0
+Sure Strike	0
+Surestrike Trident	0
+Surge of Thoughtweft	0
+Surge of Zeal	0
+Surgespanner	0
+Surging Aether	0
+Surging Dementia	0
+Surging Flame	0
+Surging Sentinels	0
+Surprise Deployment	0
+Surrakar Banisher	0
+Surrakar Marauder	0
+Surrakar Spellblade	0
+Surreal Memoir	0
+Surveilling Sprite	0
+Survey the Wreckage	0
+Survival Cache	0
+Survive the Night	0
+Survivor of the Unseen	0
+Suspension Field	0
+Sustainer of the Realm	0
+Sustaining Spirit	0
+Sustenance	0
+Suture Spirit	0
+Sutured Ghoul	0
+Svogthos, the Restless Tomb	0
+Svyelunite Temple	0
+Swallowing Plague	0
+Swamp	0
+Swamp Mosquito	0
+Swarm Surge	0
+Swarm of Bloodflies	0
+Swarm of Rats	0
+Swarmborn Giant	0
+Swat	0
+Sway of Illusion	0
+Sway of the Stars	0
+Sweep Away	0
+Swell of Courage	0
+Swell of Growth	0
+Swerve	0
+Swift Justice	0
+Swift Kick	0
+Swift Maneuver	0
+Swift Reckoning	0
+Swift Warkite	0
+Swirl the Mists	0
+Swirling Spriggan	0
+Switcheroo	0
+Swooping Talon	0
+Sword Dancer	0
+Sword of the Ages	0
+Sword of the Chosen	0
+Swordwise Centaur	0
+Sylvan Basilisk	0
+Sylvan Bounty	0
+Sylvan Echoes	0
+Sylvan Hierophant	0
+Sylvan Messenger	0
+Sylvan Might	0
+Sylvan Primordial	0
+Sylvan Scrying	0
+Sylvok Explorer	0
+Sylvok Replica	0
+Symbiosis	0
+Symbiotic Beast	0
+Symbiotic Deployment	0
+Symbiotic Elf	0
+Symbiotic Wurm	0
+Symbol of Unsummoning	0
+Synchronous Sliver	0
+Syncopate	0
+Syndic of Tithes	0
+Syndicate Enforcer	0
+Synod Artificer	0
+Synod Centurion	0
+Synod Sanctum	0
+Syphon Life	0
+Syphon Mind	0
+Syphon Soul	0
+Szadek, Lord of Secrets	0
+Tablet of Epityr	0
+Tablet of the Guilds	0
+Tahngarth's Glare	0
+Taigam's Scheming	0
+Taigam's Strike	0
+Tail Slash	0
+Tainted Sigil	0
+Tainted Specter	0
+Tainted Well	0
+Taj-Nar Swordsmith	0
+Tajic, Blade of the Legion	0
+Tajuru Archer	0
+Tajuru Beastmaster	0
+Tajuru Pathwarden	0
+Tajuru Stalwart	0
+Tajuru Warcaller	0
+Take Possession	0
+Take Up Arms	0
+Takeno's Cavalry	0
+Takenuma Bleeder	0
+Takklemaggot	0
+Talara's Bane	0
+Talas Researcher	0
+Talisman of Impulse	0
+Talisman of Unity	0
+Talon Trooper	0
+Talon of Pain	0
+Talons of Falkenrath	0
+Talrand's Invocation	0
+Talruum Champion	0
+Talruum Minotaur	0
+Talruum Piper	0
+Tandem Lookout	0
+Tandem Tactics	0
+Tangle Golem	0
+Tangle Hulk	0
+Tangle Mantis	0
+Tangle Spider	0
+Tanglebloom	0
+Tangleroot	0
+Tanglesap	0
+Tanglewalker	0
+Tapestry of the Ages	0
+Tar Fiend	0
+Tar Pit Warrior	0
+Tar Pitcher	0
+Tar Snare	0
+Tarfire	0
+Taste of Blood	0
+Tattered Drake	0
+Tatterkite	0
+Tattermunge Duo	0
+Tattermunge Maniac	0
+Tattermunge Witch	0
+Tattoo Ward	0
+Tavern Swindler	0
+Tawnos's Coffin	0
+Tawnos's Wand	0
+Tawnos's Weaponry	0
+Teardrop Kami	0
+Tears of Rage	0
+Tears of Valakut	0
+Tectonic Fiend	0
+Tectonic Rift	0
+Teferi's Care	0
+Teferi's Honor Guard	0
+Teferi's Imp	0
+Teferi's Veil	0
+Tel-Jilad Archers	0
+Tel-Jilad Chosen	0
+Tel-Jilad Defiance	0
+Tel-Jilad Exile	0
+Tel-Jilad Justice	0
+Tel-Jilad Lifebreather	0
+Tel-Jilad Outrider	0
+Tel-Jilad Stylus	0
+Tel-Jilad Wolf	0
+Telekinesis	0
+Telekinetic Bonds	0
+Telekinetic Sliver	0
+Telepathic Spies	0
+Telepathy	0
+Teleportal	0
+Telethopter	0
+Telim'Tor's Darts	0
+Teller of Tales	0
+Telling Time	0
+Temper	0
+Tempest Owl	0
+Tempest of Light	0
+Temple Acolyte	0
+Temporal Adept	0
+Temporal Cascade	0
+Temporal Eddy	0
+Temporal Fissure	0
+Temporal Isolation	0
+Temporary Insanity	0
+Tempting Licid	0
+Temur Ascendancy	0
+Temur Banner	0
+Temur Charger	0
+Temur Charm	0
+Temur War Shaman	0
+Tenacious Dead	0
+Tenacity	0
+Teneb, the Harvester	0
+Tenement Crasher	0
+Tenza, Godo's Maul	0
+Tephraderm	0
+Terashi's Cry	0
+Terashi's Grasp	0
+Terashi's Verdict	0
+Teremko Griffin	0
+Teroh's Faithful	0
+Teroh's Vanguard	0
+Terra Stomper	0
+Terraformer	0
+Terrifying Presence	0
+Territorial Baloth	0
+Territorial Roc	0
+Terror	0
+Terrus Wurm	0
+Test of Faith	0
+Testament of Faith	0
+Tethered Griffin	0
+Tethmos High Priest	0
+Teysa, Envoy of Ghosts	0
+Tezzeret's Gambit	0
+Thalakos Dreamsower	0
+Thalakos Drifters	0
+Thalakos Lowlands	0
+Thalakos Scout	0
+Thalakos Seer	0
+Thalakos Sentry	0
+Thallid	0
+Thallid Devourer	0
+Thallid Germinator	0
+Thallid Shell-Dweller	0
+Thassa's Bounty	0
+Thassa's Devourer	0
+Thassa's Emissary	0
+Thassa's Ire	0
+Thassa's Rebuff	0
+Thatcher Revolt	0
+Thaumatog	0
+Thawing Glaciers	0
+The Fallen	0
+The Hive	0
+The Lady of the Mountain	0
+The Wretched	0
+Theft of Dreams	0
+Thelon of Havenwood	0
+Thelonite Druid	0
+Thelonite Hermit	0
+Thermal Blast	0
+Thermal Flux	0
+Thermal Navigator	0
+Thermopod	0
+Thick-Skinned Goblin	0
+Thicket Basilisk	0
+Thief of Hope	0
+Thieves' Fortune	0
+Thieving Magpie	0
+Thieving Sprite	0
+Thing from the Deep	0
+Thopter Engineer	0
+Thopter Squadron	0
+Thorn Elemental	0
+Thorn Thallid	0
+Thornbow Archer	0
+Thorncaster Sliver	0
+Thornhide Wolves	0
+Thornscape Apprentice	0
+Thornscape Battlemage	0
+Thorntooth Witch	0
+Thornwatch Scarecrow	0
+Thornweald Archer	0
+Thornwood Falls	0
+Thought Courier	0
+Thought Dissector	0
+Thought Eater	0
+Thought Gorger	0
+Thought Harvester	0
+Thought Prison	0
+Thoughtbind	0
+Thoughtbound Primoc	0
+Thoughtcutter Agent	0
+Thoughtflare	0
+Thoughtleech	0
+Thoughtpicker Witch	0
+Thoughtrender Lamia	0
+Thoughtweft Gambit	0
+Thousand Winds	0
+Thousand-legged Kami	0
+Thraben Gargoyle	0
+Thraben Heretic	0
+Thraben Purebloods	0
+Thraben Valiant	0
+Thran Forge	0
+Thran Foundry	0
+Thran Golem	0
+Thran Tome	0
+Thrashing Mossdog	0
+Thrashing Mudspawn	0
+Threaten	0
+Three Dreams	0
+Three Tragedies	0
+Thrill of the Hunt	0
+Thrill-Kill Assassin	0
+Thrive	0
+Throne of Bone	0
+Throne of Empires	0
+Throne of Geth	0
+Throttle	0
+Throwing Knife	0
+Thrull Champion	0
+Thrull Parasite	0
+Thrull Retainer	0
+Thrull Surgeon	0
+Thrummingbird	0
+Thumbscrews	0
+Thunder Brute	0
+Thunder Spirit	0
+Thunder Strike	0
+Thunder Totem	0
+Thunder Wall	0
+Thunder-Thrash Elder	0
+Thunderblade Charge	0
+Thunderblust	0
+Thunderbolt	0
+Thunderclap Wyvern	0
+Thundercloud Shaman	0
+Thunderheads	0
+Thundering Giant	0
+Thundering Tanadon	0
+Thundermare	0
+Thunderous Might	0
+Thunderscape Battlemage	0
+Thunderscape Familiar	0
+Thunderstaff	0
+Tibor and Lumia	0
+Ticking Gnomes	0
+Tidal Bore	0
+Tidal Courier	0
+Tidal Kraken	0
+Tidal Surge	0
+Tidal Warrior	0
+Tide Drifter	0
+Tide of War	0
+Tideforce Elemental	0
+Tidehollow Strix	0
+Tideshaper Mystic	0
+Tidewalker	0
+Tidewater Minion	0
+Tidings	0
+Tiger Claws	0
+Tigereye Cameo	0
+Tightening Coils	0
+Timberland Guide	0
+Timbermare	0
+Timbermaw Larva	0
+Timberpack Wolf	0
+Time Ebb	0
+Time Stop	0
+Time and Tide	0
+Time of Heroes	0
+Time of Need	0
+Time to Feed	0
+Timebender	0
+Timecrafting	0
+Timely Hordemate	0
+Timesifter	0
+Timid Drake	0
+Tin Street Hooligan	0
+Tin Street Market	0
+Tine Shrike	0
+Tireless Missionaries	0
+Titan Forge	0
+Titan of Eternal Fire	0
+Titan's Presence	0
+Titan's Revenge	0
+Titan's Strength	0
+Titania's Boon	0
+Titania's Chosen	0
+Titanic Bulvox	0
+Titanic Growth	0
+Titanium Golem	0
+Tivadar of Thorn	0
+Tivadar's Crusade	0
+To Arms!	0
+Tobias Andrion	0
+Toil // Trouble	0
+Toil to Renown	0
+Toils of Night and Day	0
+Tolarian Drake	0
+Tolarian Emissary	0
+Tolarian Entrancer	0
+Tolarian Sentinel	0
+Tolarian Serpent	0
+Tomb Hex	0
+Tombfire	0
+Tombstalker	0
+Tome Scour	0
+Tonic Peddler	0
+Tooth Collector	0
+Tooth of Chiss-Goria	0
+Topan Ascetic	0
+Topan Freeblade	0
+Topple	0
+Topplegeist	0
+Tor Wauki	0
+Torch Drake	0
+Torch Fiend	0
+Torch Slinger	0
+Torchling	0
+Torii Watchward	0
+Torment	0
+Tormented Angel	0
+Tormented Hero	0
+Tormented Pariah	0
+Tormented Soul	0
+Tormented Thoughts	0
+Tormenting Voice	0
+Tormentor Exarch	0
+Tormentor's Trident	0
+Tornado	0
+Torpid Moloch	0
+Torpor Dust	0
+Torrent of Fire	0
+Torrent of Lava	0
+Torrent of Souls	0
+Torrent of Stone	0
+Torsten Von Ursus	0
+Tortoise Formation	0
+Torture	0
+Torture Chamber	0
+Totally Lost	0
+Totem-Guide Hartebeest	0
+Touch of Invisibility	0
+Touch of Moonglove	0
+Touch of the Eternal	0
+Touch of the Void	0
+Touchstone	0
+Tower Above	0
+Tower Defense	0
+Tower Drake	0
+Tower Gargoyle	0
+Tower Geist	0
+Tower of Calamities	0
+Tower of Champions	0
+Tower of Murmurs	0
+Towering Baloth	0
+Towering Indrik	0
+Towering Thunderfist	0
+Toxic Iguanar	0
+Toxic Nim	0
+Toxic Stench	0
+Toymaker	0
+Tracker	0
+Tracker's Instincts	0
+Trade Routes	0
+Trade Secrets	0
+Tradewind Rider	0
+Tragic Poet	0
+Trail of Evidence	0
+Trail of Mystery	0
+Trailblazer's Boots	0
+Train of Thought	0
+Trained Armodon	0
+Trained Caracal	0
+Trained Condor	0
+Trained Orgg	0
+Trained Pronghorn	0
+Training Drone	0
+Trait Doctoring	0
+Traitor's Clutch	0
+Traitor's Roar	0
+Traitorous Blood	0
+Traitorous Instinct	0
+Tranquil Domain	0
+Tranquil Expanse	0
+Tranquil Garden	0
+Tranquil Path	0
+Transguild Courier	0
+Transguild Promenade	0
+Transluminant	0
+Transmogrifying Licid	0
+Trap Digger	0
+Trap Essence	0
+Trapfinder's Trick	0
+Trapjaw Kelpie	0
+Trapmaker's Snare	0
+Traumatic Visions	0
+Traumatize	0
+Travel Preparations	0
+Traveler's Amulet	0
+Traveling Plague	0
+Treacherous Link	0
+Treacherous Pit-Dweller	0
+Treacherous Urge	0
+Treacherous Werewolf	0
+Tread Upon	0
+Treasure Cruise	0
+Treasure Hunter	0
+Treasure Trove	0
+Treasured Find	0
+Treasury Thrull	0
+Tree Monkey	0
+Treefolk Harbinger	0
+Treefolk Healer	0
+Treefolk Mystic	0
+Treefolk Seedlings	0
+Treespring Lorian	0
+Treetop Bracers	0
+Treetop Scout	0
+Treetop Sentinel	0
+Tremble	0
+Tremor	0
+Trench Wurm	0
+Trenching Steed	0
+Trepanation Blade	0
+Trespasser il-Vec	0
+Trespassing Souleater	0
+Tresserhorn Sinks	0
+Trestle Troll	0
+Treva's Attendant	0
+Triad of Fates	0
+Trial // Error	0
+Triangle of War	0
+Tribal Forcemage	0
+Tribal Unity	0
+Tribute to Hunger	0
+Tribute to the Wild	0
+Trickery Charm	0
+Tricks of the Trade	0
+Trickster Mage	0
+Triclopean Sight	0
+Trigon of Corruption	0
+Trigon of Infestation	0
+Trigon of Mending	0
+Trigon of Rage	0
+Trigon of Thought	0
+Trip Noose	0
+Trip Wire	0
+Triskelavus	0
+Triskelion	0
+Triton Cavalry	0
+Triton Fortune Hunter	0
+Triton Shorestalker	0
+Triton Shorethief	0
+Triton Tactics	0
+Triumph of Ferocity	0
+Triumph of the Hordes	0
+Troll-Horn Cameo	0
+Trollhide	0
+Trolls of Tel-Jilad	0
+Tromokratis	0
+Tromp the Domains	0
+Trophy Hunter	0
+Tropical Storm	0
+Trostani's Judgment	0
+Trostani's Summoner	0
+True-Faith Censer	0
+Truefire Paladin	0
+Trumpet Blast	0
+Trumpeting Armodon	0
+Trusted Advisor	0
+Trusted Forcemage	0
+Trusty Machete	0
+Truth or Tale	0
+Trygon Predator	0
+Tukatongue Thallid	0
+Tuknir Deathlock	0
+Tuktuk Grunts	0
+Tuktuk Scrapper	0
+Tumble Magnet	0
+Tundra Wolves	0
+Tunnel Ignus	0
+Tunnel Vision	0
+Tunneler Wurm	0
+Tunneling Geopede	0
+Turbulent Dreams	0
+Turf Wound	0
+Turn // Burn	0
+Turn Against	0
+Turn Aside	0
+Turn the Tide	0
+Turn to Dust	0
+Turn to Frog	0
+Turn to Mist	0
+Turn to Slag	0
+Turnabout	0
+Turntimber Basilisk	0
+Turntimber Grove	0
+Turntimber Ranger	0
+Turtleshell Changeling	0
+Tusked Colossodon	0
+Tuskguard Captain	0
+Twiddle	0
+Twigwalker	0
+Twin Bolt	0
+Twinblade Slasher	0
+Twinflame	0
+Twinning Glass	0
+Twins of Maurer Estate	0
+Twinstrike	0
+Twist Allegiance	0
+Twisted Experiment	0
+Twisted Justice	0
+Twitch	0
+Two-Headed Cerberus	0
+Two-Headed Giant of Foriys	0
+Two-Headed Sliver	0
+Tymaret, the Murder King	0
+Typhoid Rats	0
+Tyrannize	0
+Tyrant of Discord	0
+Tyrant of Valakut	0
+Tyrant's Choice	0
+Tyrant's Machine	0
+Tyrranax	0
+Ubul Sar Gatekeepers	0
+Ugin's Construct	0
+Ugin's Insight	0
+Uktabi Drake	0
+Uktabi Efreet	0
+Uktabi Faerie	0
+Uktabi Orangutan	0
+Ukud Cobra	0
+Ulamog's Despoiler	0
+Ulamog's Nullifier	0
+Ulamog's Reclaimer	0
+Ulasht, the Hate Seed	0
+Ulcerate	0
+Ulrich's Kindred	0
+Ultimate Price	0
+Ulvenwald Bear	0
+Ulvenwald Mysteries	0
+Ulvenwald Mystics	0
+Umara Entangler	0
+Umara Raptor	0
+Umbra Mystic	0
+Umbra Stalker	0
+Umbral Mantle	0
+Unbender Tine	0
+Unblinking Bleb	0
+Uncaged Fury	0
+Uncanny Speed	0
+Unchecked Growth	0
+Uncle Istvan	0
+Uncontrollable Anger	0
+Uncontrolled Infestation	0
+Uncovered Clues	0
+Undead Executioner	0
+Undead Leotau	0
+Undead Minotaur	0
+Undead Servant	0
+Undead Slayer	0
+Undercity Informer	0
+Undercity Plague	0
+Undercity Shade	0
+Undercity Troll	0
+Undergrowth Scavenger	0
+Underworld Connections	0
+Undo	0
+Undying Evil	0
+Undying Rage	0
+Unearthly Blizzard	0
+Unerring Sling	0
+Unexpected Results	0
+Unforge	0
+Unhallowed Pact	0
+Unhinge	0
+Unholy Hunger	0
+Unholy Strength	0
+Unified Front	0
+Unified Strike	0
+Unified Will	0
+Unifying Theory	0
+Uninvited Geist	0
+Unity of Purpose	0
+Unknown Shores	0
+Unmake the Graves	0
+Unnatural Aggression	0
+Unnatural Endurance	0
+Unnatural Predation	0
+Unnatural Speed	0
+Unnerve	0
+Unnerving Assault	0
+Unruly Mob	0
+Unscythe, Killer of Kings	0
+Unseen Walker	0
+Unspeakable Symbol	0
+Unstable Footing	0
+Unstable Frontier	0
+Unsummon	0
+Untamed Hunger	0
+Untamed Might	0
+Untamed Wilds	0
+Unwilling Recruit	0
+Unyaro Bee Sting	0
+Unyaro Bees	0
+Unyaro Griffin	0
+Unyielding Krumar	0
+Updraft Elemental	0
+Uphill Battle	0
+Uproot	0
+Upwelling	0
+Ur-Golem's Eye	0
+Urban Burgeoning	0
+Urban Evolution	0
+Urbis Protector	0
+Urborg	0
+Urborg Drake	0
+Urborg Elf	0
+Urborg Emissary	0
+Urborg Mindsucker	0
+Urborg Panther	0
+Urborg Phantom	0
+Urborg Shambler	0
+Urborg Syphon-Mage	0
+Urborg Uprising	0
+Urborg Volcano	0
+Urge to Feed	0
+Urgent Exorcism	0
+Ursapine	0
+Ursine Fylgja	0
+Urza's Armor	0
+Urza's Bauble	0
+Urza's Chalice	0
+Urza's Factory	0
+Urza's Guilt	0
+Urza's Miter	0
+Uthden Troll	0
+Utopia Mycon	0
+Utopia Vow	0
+Utter End	0
+Utvara Scalper	0
+Uyo, Silent Prophet	0
+Vacuumelt	0
+Vagrant Plowbeasts	0
+Valakut Fireboar	0
+Valakut Invoker	0
+Valakut Predator	0
+Valeron Wardens	0
+Valiant Guard	0
+Valley Rannet	0
+Valleymaker	0
+Valor	0
+Valor Made Real	0
+Valor in Akros	0
+Vampire Aristocrat	0
+Vampire Bats	0
+Vampire Envoy	0
+Vampire Hounds	0
+Vampire Interloper	0
+Vampire Lacerator	0
+Vampire Outcasts	0
+Vampire Warlord	0
+Vampire's Bite	0
+Vampiric Embrace	0
+Vampiric Fury	0
+Vampiric Rites	0
+Vampiric Sliver	0
+Vampirism	0
+Vandalize	0
+Vanguard of Brimaz	0
+Vanguard's Shield	0
+Vanish into Memory	0
+Vanishing	0
+Vanishment	0
+Vanquish	0
+Vanquish the Foul	0
+Vapor Snare	0
+Vaporkin	0
+Vaporous Djinn	0
+Varchild's Crusader	0
+Varolz, the Scar-Striped	0
+Vassal Soul	0
+Vassal's Duty	0
+Vastwood Animist	0
+Vastwood Gorger	0
+Vastwood Hydra	0
+Vastwood Zendikon	0
+Vault Skyward	0
+Vebulid	0
+Vec Townships	0
+Vectis Agents	0
+Vectis Dominator	0
+Vectis Silencers	0
+Vector Asp	0
+Vedalken Aethermage	0
+Vedalken Anatomist	0
+Vedalken Certarch	0
+Vedalken Dismisser	0
+Vedalken Engineer	0
+Vedalken Entrancer	0
+Vedalken Ghoul	0
+Vedalken Heretic	0
+Vedalken Infuser	0
+Vedalken Mastermind	0
+Vedalken Outlander	0
+Vedalken Plotter	0
+Veil of Secrecy	0
+Veilborn Ghoul	0
+Veiled Apparition	0
+Veiled Sentry	0
+Veiled Serpent	0
+Veiling Oddity	0
+Veilstone Amulet	0
+Vein Drinker	0
+Venarian Glimmer	0
+Vendetta	0
+Venerable Kumo	0
+Venerable Lammasu	0
+Venerable Monk	0
+Venerated Teacher	0
+Vengeance	0
+Vengeful Archon	0
+Vengeful Dreams	0
+Vengeful Rebirth	0
+Vengeful Vampire	0
+Venom Sliver	0
+Venomous Breath	0
+Venomous Fangs	0
+Venomous Vines	0
+Venomspout Brackus	0
+Venser's Diffusion	0
+Venser's Sliver	0
+Vent Sentinel	0
+Verdant Eidolon	0
+Verdant Embrace	0
+Verdant Field	0
+Verdant Force	0
+Verdant Haven	0
+Verdant Touch	0
+Verdeloth the Ancient	0
+Verdigris	0
+Verduran Emissary	0
+Vermiculos	0
+Vertigo Spawn	0
+Vesper Ghoul	0
+Vessel of Endless Rest	0
+Vessel of Ephemera	0
+Vessel of Malignity	0
+Vessel of Nascency	0
+Vessel of Paramnesia	0
+Vessel of Volatility	0
+Vestige of Emrakul	0
+Veteran Bodyguard	0
+Veteran Cathar	0
+Veteran Cavalier	0
+Veteran of the Depths	0
+Veteran's Armaments	0
+Veteran's Reflexes	0
+Veteran's Sidearm	0
+Vex	0
+Vexing Arcanix	0
+Vexing Beetle	0
+Vhati il-Dal	0
+Vial of Dragonfire	0
+Vial of Poison	0
+Viashino Bey	0
+Viashino Bladescout	0
+Viashino Cutthroat	0
+Viashino Fangtail	0
+Viashino Firstblade	0
+Viashino Grappler	0
+Viashino Outrider	0
+Viashino Racketeer	0
+Viashino Runner	0
+Viashino Sandscout	0
+Viashino Sandstalker	0
+Viashino Sandswimmer	0
+Viashino Shanktail	0
+Viashino Skeleton	0
+Viashino Slasher	0
+Viashino Slaughtermaster	0
+Viashino Spearhunter	0
+Viashino Weaponsmith	0
+Vibrating Sphere	0
+Vicious Betrayal	0
+Vicious Hunger	0
+Vicious Kavu	0
+Vicious Shadows	0
+Victorious Destruction	0
+Victory's Herald	0
+Victual Sliver	0
+View from Above	0
+Vigean Graftmage	0
+Vigean Intuition	0
+Vigil for the Lost	0
+Vigilance	0
+Vigilant Drake	0
+Vigilant Sentry	0
+Vigilante Justice	0
+Vigor Mortis	0
+Vigorous Charge	0
+Vile Aggregate	0
+Vile Deacon	0
+Vile Rebirth	0
+Vile Redeemer	0
+Vile Requiem	0
+Village Cannibals	0
+Village Elder	0
+Village Ironsmith	0
+Village Messenger	0
+Village Survivors	0
+Villagers of Estwald	0
+Villainous Ogre	0
+Vindictive Mob	0
+Vine Kami	0
+Vine Trellis	0
+Vines of the Recluse	0
+Vineweft	0
+Violent Eruption	0
+Violent Ultimatum	0
+Violet Pall	0
+Viper's Kiss	0
+Viral Drake	0
+Viridescent Wisps	0
+Viridian Acolyte	0
+Viridian Claw	0
+Viridian Harvest	0
+Viridian Joiner	0
+Viridian Lorebearers	0
+Viridian Revel	0
+Viridian Scout	0
+Viridian Shaman	0
+Virulent Swipe	0
+Virulent Wound	0
+Visara the Dreadful	0
+Viscerid Armor	0
+Viscerid Deepwalker	0
+Viscerid Drone	0
+Viscid Lemures	0
+Visions of Brutality	0
+Vital Splicer	0
+Vital Surge	0
+Vitalizing Cascade	0
+Vitaspore Thallid	0
+Vithian Renegades	0
+Vithian Stinger	0
+Vitu-Ghazi Guildmage	0
+Vitu-Ghazi, the City-Tree	0
+Vivid Crag	0
+Vivid Creek	0
+Vivid Grove	0
+Vivid Marsh	0
+Vivify	0
+Vivisection	0
+Vizkopa Confessor	0
+Vizkopa Guildmage	0
+Vizzerdrix	0
+Vodalian Hypnotist	0
+Vodalian Illusionist	0
+Vodalian Knights	0
+Vodalian Merchant	0
+Vodalian Mystic	0
+Vodalian Serpent	0
+Voice of All	0
+Voice of Law	0
+Voice of Reason	0
+Voice of the Provinces	0
+Voice of the Woods	0
+Voiceless Spirit	0
+Voices from the Void	0
+Void	0
+Void Attendant	0
+Void Grafter	0
+Void Snare	0
+Void Squall	0
+Void Stalker	0
+Voidmage Apprentice	0
+Voidmage Husher	0
+Voidstone Gargoyle	0
+Voidwielder	0
+Volatile Rig	0
+Volcanic Awakening	0
+Volcanic Dragon	0
+Volcanic Geyser	0
+Volcanic Hammer	0
+Volcanic Rambler	0
+Volcanic Rush	0
+Volcanic Spray	0
+Volcanic Strength	0
+Volcanic Submersion	0
+Volcanic Upheaval	0
+Volcanic Wind	0
+Voldaren Duelist	0
+Volition Reins	0
+Volley of Boulders	0
+Volrath's Curse	0
+Volrath's Dungeon	0
+Volrath's Gardens	0
+Volrath's Laboratory	0
+Volrath's Shapeshifter	0
+Volt Charge	0
+Voltaic Construct	0
+Volunteer Reserves	0
+Voodoo Doll	0
+Voracious Cobra	0
+Voracious Hatchling	0
+Voracious Null	0
+Voracious Wurm	0
+Vorel of the Hull Clade	0
+Vorosh, the Hunter	0
+Vorrac Battlehorns	0
+Vorstclaw	0
+Vortex Elemental	0
+Votary of the Conclave	0
+Vow of Wildness	0
+Voyage's End	0
+Voyager Drake	0
+Voyager Staff	0
+Voyaging Satyr	0
+Vulpine Goliath	0
+Vulshok Battlegear	0
+Vulshok Battlemaster	0
+Vulshok Gauntlets	0
+Vulshok Heartstoker	0
+Vulshok Morningstar	0
+Vulshok Refugee	0
+Vulshok Replica	0
+Vulshok Sorcerer	0
+Vulturous Aven	0
+Vulturous Zombie	0
+Wake of Destruction	0
+Wake of Vultures	0
+Wake the Reflections	0
+Wakedancer	0
+Waking Nightmare	0
+Walker of Secret Ways	0
+Walker of the Grove	0
+Walker of the Wastes	0
+Walking Atlas	0
+Walking Corpse	0
+Walking Desecration	0
+Walking Sponge	0
+Walking Wall	0
+Wall of Air	0
+Wall of Blood	0
+Wall of Bone	0
+Wall of Corpses	0
+Wall of Deceit	0
+Wall of Diffusion	0
+Wall of Distortion	0
+Wall of Essence	0
+Wall of Faith	0
+Wall of Fire	0
+Wall of Frost	0
+Wall of Junk	0
+Wall of Kelp	0
+Wall of Light	0
+Wall of Limbs	0
+Wall of Mulch	0
+Wall of Resurgence	0
+Wall of Souls	0
+Wall of Spears	0
+Wall of Stone	0
+Wall of Swords	0
+Wall of Tanglecord	0
+Wall of Tears	0
+Wall of Vines	0
+Wall of Vipers	0
+Wall of Wonder	0
+Wall of Wood	0
+Wanderbrine Rootcutters	0
+Wanderguard Sentry	0
+Wandering Goblins	0
+Wandering Graybeard	0
+Wandering Mage	0
+Wandering Ones	0
+Wandering Tombshell	0
+Wandering Wolf	0
+Wanderlust	0
+Wanderwine Prophets	0
+Waning Wurm	0
+War Barge	0
+War Behemoth	0
+War Cadence	0
+War Dance	0
+War Horn	0
+War Mammoth	0
+War Oracle	0
+War Priest of Thune	0
+War Report	0
+War-Name Aspirant	0
+War-Spike Changeling	0
+War-Torch Goblin	0
+War-Wing Siren	0
+Warbreak Trumpeter	0
+Warbringer	0
+Warclamp Mastiff	0
+Ward Sliver	0
+Ward of Lights	0
+Ward of Piety	0
+Warden of Evos Isle	0
+Warden of Geometries	0
+Warden of the Beyond	0
+Warden of the Eye	0
+Warden of the Wall	0
+Wardscale Dragon	0
+Warleader's Helix	0
+Warlord's Axe	0
+Warmind Infantry	0
+Warmonger	0
+Warmonger's Chariot	0
+Warmth	0
+Warning	0
+Warp Artifact	0
+Warp World	0
+Warpath	0
+Warpath Ghoul	0
+Warped Devotion	0
+Warped Landscape	0
+Warped Physique	0
+Warren Pilferers	0
+Warren Weirding	0
+Warren-Scourge Elf	0
+Warrior Angel	0
+Warrior en-Kor	0
+Warrior's Honor	0
+Warriors' Lesson	0
+Warthog	0
+Wasp Lancer	0
+Waste Away	0
+Wasteland Viper	0
+Wastes	0
+Watcher Sliver	0
+Watcher in the Web	0
+Watcher of the Roost	0
+Watchwing Scarecrow	0
+Watchwolf	0
+Water Servant	0
+Watercourser	0
+Waterfront Bouncer	0
+Waterspout Djinn	0
+Waterspout Elemental	0
+Waterspout Weavers	0
+Waterveil Cavern	0
+Waterwhirl	0
+Wave Elemental	0
+Wave of Indifference	0
+Wave of Terror	0
+Wave-Wing Elemental	0
+Wavecrash Triton	0
+Waveskimmer Aven	0
+Waxmane Baku	0
+Way of the Thief	0
+Wayfarer's Bauble	0
+Wayfaring Temple	0
+Waylay	0
+Wayward Soul	0
+Weakness	0
+Weakstone	0
+Weapon Surge	0
+Weapons Trainer	0
+Wear Away	0
+Weathered Bodyguards	0
+Weatherseed Elf	0
+Weatherseed Totem	0
+Weatherseed Treefolk	0
+Weave Fate	0
+Weaver of Lies	0
+Web	0
+Web of Inertia	0
+Weed Strangle	0
+Weed-Pruner Poplar	0
+Wei Elite Companions	0
+Wei Infantry	0
+Wei Night Raiders	0
+Wei Strike Force	0
+Weight of Conscience	0
+Weight of the Underworld	0
+Weirding Shaman	0
+Weirding Wood	0
+Welkin Guide	0
+Welkin Hawk	0
+Welkin Tern	0
+Well of Life	0
+Wellgabber Apothecary	0
+Western Paladin	0
+Wetland Sambar	0
+Wheel and Deal	0
+Whelming Wave	0
+Where Ancients Tread	0
+Whims of the Fates	0
+Whimwader	0
+Whip Silk	0
+Whip-Spine Drake	0
+Whipcorder	0
+Whipgrass Entangler	0
+Whipkeeper	0
+Whiplash Trap	0
+Whiptail Wurm	0
+Whirler Rogue	0
+Whirling Dervish	0
+Whirlpool Drake	0
+Whirlpool Whelm	0
+Whirlwind Adept	0
+Whisk Away	0
+Whispering Shade	0
+Whispering Specter	0
+Whispers of the Muse	0
+Whispersilk Cloak	0
+White Knight	0
+White Shield Crusader	0
+White Sun's Zenith	0
+Whitemane Lion	0
+Whiteout	0
+Whitesun's Passage	0
+Whitewater Naiads	0
+Wicked Akuba	0
+Wicked Pact	0
+Wicked Reward	0
+Wicker Warcrawler	0
+Wicker Witch	0
+Wight of Precinct Six	0
+Wiitigo	0
+Wild Aesthir	0
+Wild Beastmaster	0
+Wild Colos	0
+Wild Dogs	0
+Wild Elephant	0
+Wild Evocation	0
+Wild Griffin	0
+Wild Guess	0
+Wild Hunger	0
+Wild Instincts	0
+Wild Leotau	0
+Wild Ox	0
+Wild Ricochet	0
+Wild Swing	0
+Wild Wurm	0
+Wild-Field Scarecrow	0
+Wildcall	0
+Wilderness Elemental	0
+Wilderness Hypnotist	0
+Wildfire	0
+Wildfire Cerberus	0
+Wildfire Emissary	0
+Wildheart Invoker	0
+Wildsize	0
+Wildslayer Elves	0
+Wildwood Geist	0
+Wildwood Rebirth	0
+Will of the Naga	0
+Will-Forged Golem	0
+Willbender	0
+Willow Priestess	0
+Willow Satyr	0
+Wilt-Leaf Cavaliers	0
+Wind Dancer	0
+Wind Drake	0
+Wind Shear	0
+Wind Spirit	0
+Wind Zendikon	0
+Windborne Charge	0
+Windbrisk Raptor	0
+Winding Wurm	0
+Windreaper Falcon	0
+Windreaver	0
+Windrider Eel	0
+Windrider Patrol	0
+Winds of Rath	0
+Windseeker Centaur	0
+Windstorm	0
+Windwright Mage	0
+Wing Puncture	0
+Wing Snare	0
+Wingbeat Warrior	0
+Wingcrafter	0
+Wingrattle Scarecrow	0
+Wings of Aesthir	0
+Wings of Hope	0
+Wings of Velis Vel	0
+Wingsteed Rider	0
+Winnower Patrol	0
+Winter Blast	0
+Winter's Night	0
+Winterflame	0
+Wipe Away	0
+Wipe Clean	0
+Wirecat	0
+Wirefly Hive	0
+Wirewood Channeler	0
+Wirewood Elf	0
+Wirewood Guardian	0
+Wirewood Savage	0
+Wispmare	0
+Wistful Thinking	0
+Wit's End	0
+Witch Engine	0
+Witch's Familiar	0
+Witch's Mist	0
+Witches' Eye	0
+Withered Wretch	0
+Withering Gaze	0
+Withering Wisps	0
+Witherscale Wurm	0
+Withstand	0
+Withstand Death	0
+Witness of the Ages	0
+Witness the End	0
+Wizard Mentor	0
+Wizard Replica	0
+Wizened Cenn	0
+Wizened Snitches	0
+Woebearer	0
+Woebringer Demon	0
+Woeleecher	0
+Wojek Apothecary	0
+Wojek Embermage	0
+Wolf-Skull Shaman	0
+Wolfbitten Captive	0
+Wolfbriar Elemental	0
+Wolfhunter's Quiver	0
+Wolfir Avenger	0
+Wonder	0
+Wood Elemental	0
+Wood Sage	0
+Woodborn Behemoth	0
+Woodcloaker	0
+Wooden Sphere	0
+Wooden Stake	0
+Woodland Changeling	0
+Woodland Druid	0
+Woodland Guidance	0
+Woodland Sleuth	0
+Woodland Stream	0
+Woodland Wanderer	0
+Woodlot Crawler	0
+Woodlurker Mimic	0
+Woodripper	0
+Woodwraith Corrupter	0
+Woodwraith Strangler	0
+Woolly Loxodon	0
+Woolly Mammoths	0
+Woolly Razorback	0
+Woolly Spider	0
+Woolly Thoctar	0
+Word of Seizing	0
+Word of Undoing	0
+Words of War	0
+Words of Wilding	0
+Words of Wind	0
+World Queller	0
+Worldgorger Dragon	0
+Worldheart Phoenix	0
+Worldpurge	0
+Worm Harvest	0
+Wormfang Behemoth	0
+Wormfang Crab	0
+Wormfang Manta	0
+Wormfang Newt	0
+Wormfang Turtle	0
+Wormwood Dryad	0
+Wormwood Treefolk	0
+Wort, Boggart Auntie	0
+Worthy Cause	0
+Wound Reflection	0
+Wrack with Madness	0
+Wrap in Flames	0
+Wrath of Marit Lage	0
+Wreak Havoc	0
+Wreath of Geists	0
+Wrecking Ball	0
+Wrecking Ogre	0
+Wren's Run Packmaster	0
+Wren's Run Vanquisher	0
+Wretched Banquet	0
+Wring Flesh	0
+Writ of Passage	0
+Write into Being	0
+Wu Elite Cavalry	0
+Wu Longbowman	0
+Wu Warship	0
+Wurm's Tooth	0
+Wurmcalling	0
+Wurmskin Forger	0
+Wurmweaver Coil	0
+Wydwen, the Biting Gale	0
+Wyluli Wolf	0
+Xathrid Gorgon	0
+Xathrid Necromancer	0
+Xathrid Slyblade	0
+Xenic Poltergeist	0
+Yamabushi's Flame	0
+Yamabushi's Storm	0
+Yavimaya Ancients	0
+Yavimaya Ants	0
+Yavimaya Dryad	0
+Yavimaya Enchantress	0
+Yavimaya Granger	0
+Yavimaya Scion	0
+Yavimaya Wurm	0
+Yavimaya's Embrace	0
+Yawgmoth Demon	0
+Yawgmoth's Edict	0
+Yawning Fissure	0
+Ydwen Efreet	0
+Yeva's Forcemage	0
+Yew Spirit	0
+Yisan, the Wanderer Bard	0
+Yixlid Jailer	0
+Yoke of the Damned	0
+Yoked Ox	0
+Yoked Plowbeast	0
+Yore-Tiller Nephilim	0
+Yotian Soldier	0
+Young Wei Recruits	0
+Youthful Knight	0
+Yuki-Onna	0
+Yukora, the Prisoner	0
+Zada's Commando	0
+Zameck Guildmage	0
+Zanikev Locust	0
+Zap	0
+Zarichi Tiger	0
+Zealot il-Vec	0
+Zealous Guardian	0
+Zealous Inquisitor	0
+Zealous Strike	0
+Zebra Unicorn	0
+Zektar Shrine Expedition	0
+Zendikar Farguide	0
+Zendikar Incarnate	0
+Zendikar's Roil	0
+Zephid	0
+Zephid's Embrace	0
+Zephyr Charge	0
+Zephyr Net	0
+Zephyr Scribe	0
+Zephyr Spirit	0
+Zephyr Sprite	0
+Zerapa Minotaur	0
+Zhalfirin Commander	0
+Zhalfirin Crusader	0
+Zhalfirin Knight	0
+Zhang Fei, Fierce Warrior	0
+Zhur-Taa Ancient	0
+Zhur-Taa Druid	0
+Zhur-Taa Swine	0
+Zodiac Monkey	0
+Zoetic Cavern	0
+Zof Shade	0
+Zombie Assassin	0
+Zombie Boa	0
+Zombie Brute	0
+Zombie Cannibal	0
+Zombie Cutthroat	0
+Zombie Goliath	0
+Zombie Mob	0
+Zombie Outlander	0
+Zombie Scavengers	0
+Zombie Trailblazer	0
+Zombify	0
+Zulaport Chainmage	0
+Zulaport Enforcer	0
+Zuran Orb	0
+Zuran Spellcaster	0
