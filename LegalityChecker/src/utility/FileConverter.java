@@ -13,10 +13,9 @@ public class FileConverter {
 		List<String> toReturn = new ArrayList<String>();
 		
 		try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(filename)))) {
-			String line;
 		
 			//BufferedReaders return null at the end of a file, so this cycles through the whole file.
-			while ((line  = br.readLine()) != null){
+			for (String line  = br.readLine(); line != null; line = br.readLine()){
 				toReturn.add(line);
 			}
 		}
@@ -27,10 +26,9 @@ public class FileConverter {
 		List<String> toReturn = new ArrayList<String>();
 		
 		try (BufferedReader br = new BufferedReader(new InputStreamReader(url.openStream()))) {
-			String line;
 		
 			// BufferedReaders return null at the end of a file, so this cycles through the whole file.
-			while ((line = br.readLine()) != null){
+			for (String line  = br.readLine(); line != null; line = br.readLine()){
 				toReturn.add(line);
 			}
 		}
