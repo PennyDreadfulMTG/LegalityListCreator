@@ -27,7 +27,7 @@ public class MakeAllCardsList {
 		count++;
 		FileConverter.writeFile(count, "count.txt");
 
-		if (count <= TIMES_CHECKED){
+		if (count < TIMES_CHECKED){
 			//In each valid run, get a snapshot of all legal cards and put it in a file
 			FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run "+count+".txt");
 		} else if (count == TIMES_CHECKED){ //On the last run only, after all lists have been created:
