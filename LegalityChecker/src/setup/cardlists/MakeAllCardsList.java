@@ -19,17 +19,20 @@ public class MakeAllCardsList {
 		final int TIMES_CHECKED = 168; //Hours in a week
 		//final int TIMES_CHECKED = 1; //For testing
 
-		//Create a list of set abbreviations from the provided file
+		//Create a list of set abbreviations from the provided file, and check how many times the program has been run so far.
 		List<String> setAbbr = FileConverter.readToList("MTGO Set Abbreviations");
 		int count = FileConverter.readToInt("count.txt");
 
-		//In each loop, get a snapshot of all legal card and put it in a file, while also using a "count" file to track how many times you did this
+		//Increase the count of how many times this program has been run, and update the text file to reflect that.
 		count++;
-		FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run "+count+".txt");
 		FileConverter.writeFile(count, "count.txt");
 
-		//On the last run only, after all lists have been created:
-		if (count == TIMES_CHECKED){
+		if (count <= TIMES_CHECKED){
+			//In each valid run, get a snapshot of all legal cards and put it in a file
+			FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run "+count+".txt");
+		} else if (count == TIMES_CHECKED){ //On the last run only, after all lists have been created:
+
+			FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run "+count+".txt");
 
 			//Makes a map of "card names -> # of times it was at 0.01 tix"
 			Map<String, Integer> timesLegalMap = new HashMap<>();
