@@ -21,25 +21,25 @@ public class MakeAllCardsList {
 
 		//Create a list of set abbreviations from the provided file, and check how many times the program has been run so far.
 		List<String> setAbbr = FileConverter.readToList("MTGO_Set_Abbreviations");
-		int count = FileConverter.readToInt("count.txt");
+		int count = FileConverter.readToInt("Count.txt");
 
 		//Increase the count of how many times this program has been run, and update the text file to reflect that.
 		count++;
-		FileConverter.writeFile(count, "count.txt");
+		FileConverter.writeFile(count, "Count.txt");
 
 		if (count < TIMES_CHECKED){
 			//In each valid run, get a snapshot of all legal cards and put it in a file
-			FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run_"+count+".txt");
+			FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run_"+String.format("%03d", count)+".txt");
 		} else if (count == TIMES_CHECKED){ //On the last run only, after all lists have been created:
 
-			FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run_"+count+".txt");
+			FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run_"+String.format("%03d", count)+".txt");
 
 			//Makes a map of "card names -> # of times it was at 0.01 tix"
 			Map<String, Integer> timesLegalMap = new HashMap<>();
 
 			//Updates the map with each file that was previously written.
 			for (int c = 1; c <= TIMES_CHECKED; c++){
-				updateMap(FileConverter.readToList("Run_"+c+".txt"), timesLegalMap);
+				updateMap(FileConverter.readToList("Run_"+String.format("%03d", c)+".txt"), timesLegalMap);
 			}
 
 			//Add all cards that were 0.01 tix 50% or more of the time to an array
