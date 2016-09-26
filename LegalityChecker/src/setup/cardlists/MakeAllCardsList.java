@@ -50,7 +50,7 @@ public class MakeAllCardsList {
 			}
 
 			//Print the arrays out as usable, readable files
-			FileConverter.writeFile(legalCards, "Weeklong_Legal_Cards.txt");
+			FileConverter.writeFile(legalCards, "legal_cards.txt");
 			System.out.println("File written!");
 		}
 	}
