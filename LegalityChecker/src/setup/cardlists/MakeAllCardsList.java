@@ -30,22 +30,22 @@ public class MakeAllCardsList {
 		if (count < TIMES_CHECKED){
 			//In each valid run, get a snapshot of all legal cards and put it in a file
 			FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run_"+String.format("%03d", count)+".txt");
-		} else if (count == TIMES_CHECKED){ //On the last run only, after all lists have been created:
+		} else if (count == TIMES_CHECKED) { //On the last run only, after all lists have been created:
 
-			FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run_"+String.format("%03d", count)+".txt");
+			FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run_" + String.format("%03d", count) + ".txt");
 
 			//Makes a map of "card names -> # of times it was at 0.01 tix"
 			Map<String, Integer> timesLegalMap = new HashMap<>();
 
 			//Updates the map with each file that was previously written.
-			for (int c = 1; c <= TIMES_CHECKED; c++){
-				updateMap(FileConverter.readToList("Run_"+String.format("%03d", c)+".txt"), timesLegalMap);
+			for (int c = 1; c <= TIMES_CHECKED; c++) {
+				updateMap(FileConverter.readToList("Run_" + String.format("%03d", c) + ".txt"), timesLegalMap);
 			}
 
 			//Add all cards that were 0.01 tix 50% or more of the time to an array
 			List<String> legalCards = new ArrayList<>();
-			for (String card: timesLegalMap.keySet()){
-				if (timesLegalMap.get(card) >= TIMES_CHECKED/2)
+			for (String card : timesLegalMap.keySet()) {
+				if (timesLegalMap.get(card) >= TIMES_CHECKED / 2)
 					legalCards.add(card);
 			}
 
@@ -111,7 +111,7 @@ public class MakeAllCardsList {
 				String thisCard = str.substring(secondClose+1,thirdOpen);
 
 				//Lots of complicated formatting stuff. Don't worry about it.
-				String cardname = formatEnglishName(thisCard).replace("&#39;", "'").replace("Lim-Dul","Lim-Dûl");
+				String cardname = formatEnglishName(thisCard).replace("&#39;", "'").replace("Lim-Dul","Lim-Dûl").replace("Jotun","Jötun");
 
 				//MTGGoldfish doesn't include the accent, but it should, so I add it.
 				switch (cardname){
