@@ -28,16 +28,12 @@ public class ChangeAnalyzer {
 		//Find all cards that weren't legal last rotation.
 		List<String> entering = newCards.stream().filter(c -> !oldCards.contains(c)).collect(Collectors.toList());
 		pw.println("Entering Cards:");
-		for (String card: entering){
-			pw.println(card);
-		}
+		entering.forEach(pw::println);
 		
 		//Find all cards that have been priced out of the format.
 		List<String> leaving = newCards.stream().filter(c -> !newCards.contains(c)).collect(Collectors.toList());
 		pw.println("\nLeaving Cards:");
-		for (String card: leaving){
-			pw.println(card);
-		}
+		leaving.forEach(pw::println);
 		
 		//Find the total change in how many cards are legal (should normally be positive, given that newly printed cards should enter the format)
 		pw.println("\nNet change of "+(newCards.size()-oldCards.size())+" cards.");

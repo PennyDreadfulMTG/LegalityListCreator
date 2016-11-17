@@ -10,7 +10,7 @@ public class FileConverter {
 
 	//Convert a file to an array of strings, with each line being an element,
 	public static List<String> readToList(String filename) throws IOException{
-		List<String> toReturn = new ArrayList<String>();
+		List<String> toReturn = new ArrayList<>();
 		
 		try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(filename)))) {
 		
@@ -23,7 +23,7 @@ public class FileConverter {
 	}
 	
 	public static List<String> readToList(URL url) throws IOException{
-		List<String> toReturn = new ArrayList<String>();
+		List<String> toReturn = new ArrayList<>();
 		
 		try (BufferedReader br = new BufferedReader(new InputStreamReader(url.openStream()))) {
 		

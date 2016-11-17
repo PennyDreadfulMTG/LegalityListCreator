@@ -62,7 +62,7 @@ public class MakeAllCardsList {
 		}
 	}
 
-	public static Set<String> getLegalSnapshot(List<String> setCodes) throws Exception{
+	private static Set<String> getLegalSnapshot(List<String> setCodes) throws Exception{
 		//Create an array to hold and eventually return all the cards found to be at 0.01 tix
 		Set<String> legalCards = new HashSet<>();
 
@@ -94,7 +94,7 @@ public class MakeAllCardsList {
 		return legalCards;
 	}
 
-	public static Map<String, Double> getCardNamesAndPrices(List<String> html)  {
+	private static Map<String, Double> getCardNamesAndPrices(List<String> html)  {
 		Map<String, Double> cards = new HashMap<>();
 		int linesSinceMarker = -1;
 		String lastCardFound = null;
@@ -150,7 +150,7 @@ public class MakeAllCardsList {
 		return cards;
 	}
 
-	public static String formatEnglishName(String name){
+	private static String formatEnglishName(String name){
 		String formatted = "";
 		for (int c = 0; c < name.length(); c++){
 			char letter = name.charAt(c);
