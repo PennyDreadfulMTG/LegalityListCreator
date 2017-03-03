@@ -103,7 +103,7 @@ public class MakeAllCardsList {
 
 			linesSinceMarker++;
 
-			if (str.length() > 17 && str.substring(0, 17).equals("<td class='card'>")){ //Looks for a marker line
+			if (str.length() > 17 && str.substring(0, 17).equals("<td class='card'>") && str.indexOf("#online\">") > -1){ //Looks for a marker line
 
 				//Get the locations of the second ">" and the third "<", the card's name is located between them
 				int secondClose = str.indexOf('>',str.indexOf('>')+1);
