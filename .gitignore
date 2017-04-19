@@ -51,3 +51,13 @@ Temporary Items
 
 # Output
 out/
+/bin/
+*.class
+
+# Eclipse junk
+.classpath
+.project
+
+# Gradle
+.gradle
+/build/
