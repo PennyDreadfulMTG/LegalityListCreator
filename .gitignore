@@ -62,3 +62,5 @@ out/
 .gradle
 /build/
 Count.txt
+Run_*.txt
+.settings
