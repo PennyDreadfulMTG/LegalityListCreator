@@ -38,7 +38,6 @@ public class MakeAllCardsList {
 
 		//Increase the count of how many times this program has been run, and update the text file to reflect that.
 		count++;
-		FileConverter.writeFile(count, "Count.txt");
 
 		if (count < TIMES_CHECKED){
 			//In each valid run, get a snapshot of all legal cards and put it in a file
@@ -64,6 +63,7 @@ public class MakeAllCardsList {
 
 			//Print the arrays out as usable, readable files
 			FileConverter.writeFile(legalCards, "legal_cards.txt");
+			FileConverter.writeFile(count, "Count.txt");
 			System.out.println("File written!");
 		}
 	}
