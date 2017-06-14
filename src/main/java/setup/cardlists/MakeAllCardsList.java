@@ -1,5 +1,6 @@
 package setup.cardlists;
 
+import java.io.File;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -20,7 +21,19 @@ public class MakeAllCardsList {
 		//final int TIMES_CHECKED = 1; //For testing
 
 		//Create a list of set abbreviations from the provided file, and check how many times the program has been run so far.
-		List<String> setAbbr = FileConverter.readToList("MTGO_Set_Abbreviations");
+		List<String> setAbbr; 
+
+		if (!new File("MTGO_Set_Abbreviations").exists())
+		{
+			setAbbr = FileConverter.readToList(MakeAllCardsList.class.getClassLoader().getResource("MTGO_Set_Abbreviations"));
+		}
+		else {
+			setAbbr = FileConverter.readToList("MTGO_Set_Abbreviations");			
+		}
+		if (!new File("Count.txt").exists())
+		{
+			FileConverter.writeFile(0, "Count.txt");
+		}
 		int count = FileConverter.readToInt("Count.txt");
 
 		//Increase the count of how many times this program has been run, and update the text file to reflect that.
