@@ -61,6 +61,12 @@ out/
 # Gradle
 .gradle
 /build/
+
+#VS Code
+.vs/
+
+#Artifacts
 Count.txt
 Run_*.txt
+
 .settings
