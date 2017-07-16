@@ -3,6 +3,7 @@ package utility;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
+import java.nio.charset.Charset;
 import java.io.*;
 import java.net.URL;
 
@@ -44,7 +45,7 @@ public class FileConverter {
 
 	//Write an array of strings to a file, with each element on its own line.
 	public static void writeFile(Collection<String> toWrite, String filename) throws IOException{
-		try(PrintWriter pw = new PrintWriter(filename)) {
+		try(PrintWriter pw = new PrintWriter(new OutputStreamWriter(new FileOutputStream(filename), Charset.forName("UTF-8")))) {
 			for (String str : toWrite){
 				pw.println(str);
 			}
