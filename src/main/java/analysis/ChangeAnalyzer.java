@@ -2,6 +2,7 @@ package analysis;
 
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.net.URL;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -12,14 +13,28 @@ import utility.FileConverter;
 public class ChangeAnalyzer {
 	
 	public static void main(String[] args) throws IOException{
-		
-		//File holding the old legality list, set to first argument from the command line
-		final String OLD_FILE_PATH = args[0];
-		//File holding the new one, set to second argument from the command line
-		final String NEW_FILE_PATH = args[1];
+		String OLD_FILE_PATH = null;
+		String NEW_FILE_PATH;
+		if (args.length == 1){
+			NEW_FILE_PATH = args[0];
+		}
+		else if (args.length == 2){
+			//File holding the old legality list, set to first argument from the command line
+			OLD_FILE_PATH = args[0];
+			//File holding the new one, set to second argument from the command line
+			NEW_FILE_PATH = args[1];			
+		}
+		else
+		{
+			NEW_FILE_PATH = "legal_cards.txt";
+		}
 		
 		//Read the lists to arrays so we can use them
-		Set<String> oldCards = new HashSet<>(FileConverter.readToList(OLD_FILE_PATH));
+		Set<String> oldCards;
+		if (OLD_FILE_PATH == null)
+			oldCards = new HashSet<>(FileConverter.readToList(new URL("http://pdmtgo.com/legal_cards.txt")));
+		else
+			oldCards = new HashSet<>(FileConverter.readToList(OLD_FILE_PATH));
 		Set<String> newCards = new HashSet<>(FileConverter.readToList(NEW_FILE_PATH));
 		
 		//Create a printwriter to spit out all this info for us.

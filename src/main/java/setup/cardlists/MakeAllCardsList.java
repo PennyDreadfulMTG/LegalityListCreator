@@ -9,6 +9,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+import analysis.ChangeAnalyzer;
 import utility.*;
 
 public class MakeAllCardsList {
@@ -63,9 +64,12 @@ public class MakeAllCardsList {
 
 			//Print the arrays out as usable, readable files
 			FileConverter.writeFile(legalCards, "legal_cards.txt");
-			FileConverter.writeFile(count, "Count.txt");
 			System.out.println("File written!");
+			System.out.println("Starting Analysis...");
+			ChangeAnalyzer.main(new String[0]);
+			
 		}
+		FileConverter.writeFile(count, "Count.txt");
 	}
 
 	//Updates the map with the snapshot passed to it.
