@@ -14,173 +14,197 @@ import utility.*;
 
 public class MakeAllCardsList {
 
-	//This code is meant to be run using some kind of scheduler.
+    //This code is meant to be run using some kind of scheduler.
+    private static boolean test = false;
 
-	public static void main(String[] args) throws Exception{
+    public static void main(String[] args) throws Exception{
 
-		final int TIMES_CHECKED = 168; //Hours in a week
-		//final int TIMES_CHECKED = 1; //For testing
+        final int TIMES_CHECKED = (test ? 1 : 168); // 168 hours per week
 
-		//Create a list of set abbreviations from the provided file, and check how many times the program has been run so far.
-		List<String> setAbbr; 
+        //Create a list of set abbreviations from the provided file, and check how many times the program has been run so far.
+        List<String> setAbbr;
 
-		if (!new File("MTGO_Set_Abbreviations").exists())
-		{
-			setAbbr = FileConverter.readToList(MakeAllCardsList.class.getClassLoader().getResource("MTGO_Set_Abbreviations"));
-		}
-		else {
-			setAbbr = FileConverter.readToList("MTGO_Set_Abbreviations");			
-		}
-		if (!new File("Count.txt").exists())
-		{
-			FileConverter.writeFile(0, "Count.txt");
-		}
-		int count = FileConverter.readToInt("Count.txt");
+        if (test) {
+            if (!new File("MTGO_Set_Abbreviations_test").exists()) {
+                setAbbr = FileConverter.readToList(MakeAllCardsList.class.getClassLoader().getResource("MTGO_Set_Abbreviations_test"));
+            }
+            else {
+                setAbbr = FileConverter.readToList("MTGO_Set_Abbreviations_test");
+            }
+        } else {
+            if (!new File("MTGO_Set_Abbreviations").exists()) {
+                setAbbr = FileConverter.readToList(MakeAllCardsList.class.getClassLoader().getResource("MTGO_Set_Abbreviations"));
+            }
+            else {
+                setAbbr = FileConverter.readToList("MTGO_Set_Abbreviations");
+            }
+        }
+        if (!new File("Count.txt").exists()) {
+            FileConverter.writeFile(0, "Count.txt");
+        }
+        int count = FileConverter.readToInt("Count.txt");
 
-		//Increase the count of how many times this program has been run, and update the text file to reflect that.
-		count++;
+        //Increase the count of how many times this program has been run, and update the text file to reflect that.
+        count++;
 
-		if (count < TIMES_CHECKED){
-			//In each valid run, get a snapshot of all legal cards and put it in a file
-			FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run_"+String.format("%03d", count)+".txt");
-		} else if (count == TIMES_CHECKED) { //On the last run only, after all lists have been created:
+        if (count <= TIMES_CHECKED) {
+            //In each valid run, get a snapshot of all legal cards and put it in a file
+            FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run_" + String.format("%03d", count) + ".txt");
+        }
+        if (count == TIMES_CHECKED) { //On the last run only, after all lists have been created:
 
-			FileConverter.writeFile(getLegalSnapshot(setAbbr), "Run_" + String.format("%03d", count) + ".txt");
+            //Makes a map of "card names -> # of times it was at 0.01 tix"
+            Map<String, Integer> timesLegalMap = new HashMap<>();
 
-			//Makes a map of "card names -> # of times it was at 0.01 tix"
-			Map<String, Integer> timesLegalMap = new HashMap<>();
+            //Updates the map with each file that was previously written.
+            for (int c = 1; c <= TIMES_CHECKED; c++) {
+                updateMap(FileConverter.readToList("Run_" + String.format("%03d", c) + ".txt"), timesLegalMap);
+            }
 
-			//Updates the map with each file that was previously written.
-			for (int c = 1; c <= TIMES_CHECKED; c++) {
-				updateMap(FileConverter.readToList("Run_" + String.format("%03d", c) + ".txt"), timesLegalMap);
-			}
+            //Add to an array all cards that were 0.01 tix 50% or more of the time
+            List<String> legalCards = new ArrayList<>();
+            for (String card : timesLegalMap.keySet()) {
+                if (timesLegalMap.get(card) >= TIMES_CHECKED / 2)
+                    legalCards.add(card);
+            }
 
-			//Add all cards that were 0.01 tix 50% or more of the time to an array
-			List<String> legalCards = new ArrayList<>();
-			for (String card : timesLegalMap.keySet()) {
-				if (timesLegalMap.get(card) >= TIMES_CHECKED / 2)
-					legalCards.add(card);
-			}
+            //Add to an array all cards that were equal or below $1 50% or more of the time
+            List<String> dollarLegalCards = new ArrayList<>();
+            for (String card : timesLegalMap.keySet()) {
+                if (timesLegalMap.get(card) >= TIMES_CHECKED / 2)
+                    dollarLegalCards.add(card);
+            }
 
-			//Print the arrays out as usable, readable files
-			FileConverter.writeFile(legalCards, "legal_cards.txt");
-			System.out.println("File written!");
-			System.out.println("Starting Analysis...");
-			ChangeAnalyzer.main(new String[0]);
-			
-		}
-		FileConverter.writeFile(count, "Count.txt");
-	}
+            //Print the arrays out as usable, readable files
+            legalCards.retainAll(dollarLegalCards);
+            FileConverter.writeFile(legalCards, "legal_cards.txt");
+            System.out.println("File written!");
+            System.out.println("Starting Analysis...");
+            ChangeAnalyzer.main(new String[0]);
 
-	//Updates the map with the snapshot passed to it.
-	private static void updateMap(List<String> snapshot, Map<String, Integer> map){
-		for (String card : snapshot){
-			map.merge(card, 1, (val, one) -> val + one);
-		}
-	}
+        }
+        FileConverter.writeFile(count, "Count.txt");
+    }
 
-	private static Set<String> getLegalSnapshot(List<String> setCodes) throws Exception{
-		//Create an array to hold and eventually return all the cards found to be at 0.01 tix
-		Set<String> legalCards = new HashSet<>();
+    //Updates the map with the snapshot passed to it.
+    private static void updateMap(List<String> snapshot, Map<String, Integer> map){
+        for (String card : snapshot){
+            map.merge(card, 1, (val, one) -> val + one);
+        }
+    }
 
-		//Cycle through the "set pages" for every set available on MTGO
-		for (String str : setCodes){
-			URL thisUrl = new URL("https://www.mtggoldfish.com/index/"+str+"#online");
+    private static Set<String> getLegalSnapshot(List<String> setCodes) throws Exception{
+        //Create an array to hold and eventually return all the cards found to be at 0.01 tix
+        Set<String> legalCards = new HashSet<>();
 
-			//Reads the webpage into an array of strings.
-			List<String> webpage = FileConverter.readToList(thisUrl);
+        //Cycle through the "set pages" for every set available on MTGO
+        for (String str : setCodes){
+            URL mtgoUrl = new URL("https://www.mtggoldfish.com/index/" + str + "#online");
+            URL paperUrl = new URL("https://www.mtggoldfish.com/index/" + str + "#paper");
 
-			Map<String, Double> cards = getCardNamesAndPrices(webpage);
+            //Reads the webpage into an array of strings.
+            List<String> mtgoWebpage = FileConverter.readToList(mtgoUrl);
+            List<String> paperWebpage = FileConverter.readToList(paperUrl);
 
-			cards.entrySet().stream() //
-				.filter(e -> e.getValue() == 0.01) //
-				.map(Map.Entry::getKey) //
-				.forEach(legalCards::add);	
-			
-			System.out.println("Legal cards from "+str+" found!");
-		}
+            Map<String, Double> mtgoCards = getCardNamesAndPrices(mtgoWebpage);
+            Map<String, Double> paperCards = getCardNamesAndPrices(paperWebpage);
 
-		//Add the land-station basics
-		legalCards.add("Plains");
-		legalCards.add("Island");
-		legalCards.add("Swamp");
-		legalCards.add("Mountain");
-		legalCards.add("Forest");
+            mtgoCards.entrySet().stream() //
+                .filter(e -> e.getValue() == 0.01) //
+                .map(Map.Entry::getKey) //
+                .forEach(legalCards::add);
 
-		System.out.println("Snapshot complete!");
-		return legalCards;
-	}
+            Set<String> paperLegalCards = new HashSet<>();
+            paperCards.entrySet().stream() //
+                .filter(e -> e.getValue() <= 1) //
+                .map(Map.Entry::getKey) //
+                .forEach(paperLegalCards::add);
+            legalCards.retainAll(paperLegalCards);
 
-	private static Map<String, Double> getCardNamesAndPrices(List<String> html)  {
-		Map<String, Double> cards = new HashMap<>();
-		int linesSinceMarker = -1;
-		String lastCardFound = null;
+            System.out.println("Legal cards from " + str + " found!");
+        }
 
-		for (String str : html){
+        //Add the land-station basics
+        legalCards.add("Plains");
+        legalCards.add("Island");
+        legalCards.add("Swamp");
+        legalCards.add("Mountain");
+        legalCards.add("Forest");
 
-			linesSinceMarker++;
+        System.out.println("Snapshot complete!");
+        return legalCards;
+    }
 
-			if (str.length() > 17 && str.substring(0, 17).equals("<td class='card'>") && str.indexOf("#online\">") > -1){ //Looks for a marker line
+    private static Map<String, Double> getCardNamesAndPrices(List<String> html)  {
+        Map<String, Double> cards = new HashMap<>();
+        int linesSinceMarker = -1;
+        String lastCardFound = null;
 
-				//Get the locations of the second ">" and the third "<", the card's name is located between them
-				int secondClose = str.indexOf('>',str.indexOf('>')+1);
-				int thirdOpen = str.indexOf('<',str.indexOf('<',str.indexOf('<')+1)+1);
-				String thisCard = str.substring(secondClose+1,thirdOpen);
+        for (String str : html){
 
-				//Lots of complicated formatting stuff. Don't worry about it.
-				String cardname = formatEnglishName(thisCard).replace("&#39;", "'").replace("Lim-Dul","Lim-Dûl").replace("Jotun","Jötun");
+            linesSinceMarker++;
 
-				//MTGGoldfish doesn't include the accent, but it should, so I add it.
-				switch (cardname){
-				case "Seance": cardname = "Séance";
-				break;
-				case "Dandan": cardname = "Dandân";
-				break;
-				case "Khabal Ghoul": cardname = "Khabál Ghoul";
-				break;
-				case "Junun Efreet": cardname = "Junún Efreet";
-				break;
-				case "Ghazban Ogre": cardname = "Ghazbán Ogre";
-				break;
-				case "Ifh-Biff Efreet": cardname = "Ifh-Bíff Efreet";
-				break;
-				case "Ring of Ma'ruf": cardname = "Ring of Ma'rûf";
-				break;
-				}
+            if (str.length() > 17 && str.substring(0, 17).equals("<td class='card'>") && (str.indexOf("#online\">") > -1) || (str.indexOf("#paper\">") > -1)) { //Looks for a marker line
 
-				// Retain knowledge of the last card we found
-				lastCardFound = cardname;
+                //Get the locations of the second ">" and the third "<", the card's name is located between them
+                int secondClose = str.indexOf('>',str.indexOf('>')+1);
+                int thirdOpen = str.indexOf('<',str.indexOf('<',str.indexOf('<')+1)+1);
+                String thisCard = str.substring(secondClose+1,thirdOpen);
 
-				// Then start counting lines until we hit the proper one.
-				linesSinceMarker = 0;
-			}
+                //Lots of complicated formatting stuff. Don't worry about it.
+                String cardname = formatEnglishName(thisCard).replace("&#39;", "'").replace("Lim-Dul","Lim-Dûl").replace("Jotun","Jötun");
 
-			// If we've found a card, then the third line after the marker has the card price
-			if (lastCardFound != null && linesSinceMarker == 4){
-				cards.put(lastCardFound, Double.parseDouble(str));
-				
-				lastCardFound = null;
-				linesSinceMarker = -1;
-			}
-		}
+                //MTGGoldfish doesn't include the accent, but it should, so I add it.
+                switch (cardname){
+                case "Seance": cardname = "Séance";
+                break;
+                case "Dandan": cardname = "Dandân";
+                break;
+                case "Khabal Ghoul": cardname = "Khabál Ghoul";
+                break;
+                case "Junun Efreet": cardname = "Junún Efreet";
+                break;
+                case "Ghazban Ogre": cardname = "Ghazbán Ogre";
+                break;
+                case "Ifh-Biff Efreet": cardname = "Ifh-Bíff Efreet";
+                break;
+                case "Ring of Ma'ruf": cardname = "Ring of Ma'rûf";
+                break;
+                }
 
-		return cards;
-	}
+                // Retain knowledge of the last card we found
+                lastCardFound = cardname;
 
-	private static String formatEnglishName(String name){
-		String formatted = "";
-		for (int c = 0; c < name.length(); c++){
-			char letter = name.charAt(c);
+                // Then start counting lines until we hit the proper one.
+                linesSinceMarker = 0;
+            }
 
-			//Some cards with multiple promo printings have (second promo) or something in parens, this gets rid of that so we don't get duplicates
-			if(letter == '('){
-				formatted = formatted.trim();
-				break;
-			}
-			else
-				formatted += letter;
-		}
-		return formatted;
-	}
+            // If we've found a card, then the third line after the marker has the card price
+            if (lastCardFound != null && linesSinceMarker == 4){
+                cards.put(lastCardFound, Double.parseDouble(str));
+
+                lastCardFound = null;
+                linesSinceMarker = -1;
+            }
+        }
+
+        return cards;
+    }
+
+    private static String formatEnglishName(String name){
+        String formatted = "";
+        for (int c = 0; c < name.length(); c++){
+            char letter = name.charAt(c);
+
+            //Some cards with multiple promo printings have (second promo) or something in parens, this gets rid of that so we don't get duplicates
+            if(letter == '('){
+                formatted = formatted.trim();
+                break;
+            }
+            else
+                formatted += letter;
+        }
+        return formatted;
+    }
 
 }
