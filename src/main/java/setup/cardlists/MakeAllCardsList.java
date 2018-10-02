@@ -109,8 +109,8 @@ public class MakeAllCardsList {
 			List<String> mtgoWebpage = FileConverter.readToList(mtgoUrl);
 			List<String> paperWebpage = FileConverter.readToList(paperUrl);
 
-			Map<String, Double> mtgoCards = getCardNamesAndPrices(mtgoWebpage);
-			Map<String, Double> paperCards = getCardNamesAndPrices(paperWebpage);
+			Map<String, Double> mtgoCards = getCardNamesAndPrices(mtgoWebpage, "online");
+			Map<String, Double> paperCards = getCardNamesAndPrices(paperWebpage, "paper");
 
 			mtgoCards.entrySet().stream() //
 				.filter(e -> e.getValue() == 0.01) //
@@ -138,17 +138,16 @@ public class MakeAllCardsList {
 		return legalCards;
 	}
 
-	private static Map<String, Double> getCardNamesAndPrices(List<String> html)  {
+	private static Map<String, Double> getCardNamesAndPrices(List<String> html, String markerStr)  {
 		Map<String, Double> cards = new HashMap<>();
 		int linesSinceMarker = -1;
 		String lastCardFound = null;
 
 		for (String str : html) {
-
 			linesSinceMarker++;
 
-			if (str.length() > 17 && str.substring(0, 17).equals("<td class='card'>") &&
-					((str.indexOf("#online\">") > -1) || (str.indexOf("#paper\">") > -1))) { //Looks for a marker line
+            String marker = "#" + markerStr + "\">";
+			if (str.length() > 17 && str.substring(0, 17).equals("<td class='card'>") && str.indexOf(marker) > -1) { //Looks for a marker line
 
 				//Get the locations of the second ">" and the third "<", the card's name is located between them
 				int secondClose = str.indexOf('>',str.indexOf('>')+1);
@@ -160,20 +159,27 @@ public class MakeAllCardsList {
 
 				//MTGGoldfish doesn't include the accent, but it should, so I add it.
 				switch (cardname) {
-				case "Seance": cardname = "Séance";
-				break;
-				case "Dandan": cardname = "Dandân";
-				break;
-				case "Khabal Ghoul": cardname = "Khabál Ghoul";
-				break;
-				case "Junun Efreet": cardname = "Junún Efreet";
-				break;
-				case "Ghazban Ogre": cardname = "Ghazbán Ogre";
-				break;
-				case "Ifh-Biff Efreet": cardname = "Ifh-Bíff Efreet";
-				break;
-				case "Ring of Ma'ruf": cardname = "Ring of Ma'rûf";
-				break;
+					case "Seance":
+						cardname = "Séance";
+						break;
+					case "Dandan":
+						cardname = "Dandân";
+						break;
+					case "Khabal Ghoul":
+						cardname = "Khabál Ghoul";
+						break;
+					case "Junun Efreet":
+						cardname = "Junún Efreet";
+						break;
+					case "Ghazban Ogre":
+						cardname = "Ghazbán Ogre";
+						break;
+					case "Ifh-Biff Efreet":
+						cardname = "Ifh-Bíff Efreet";
+						break;
+					case "Ring of Ma'ruf":
+						cardname = "Ring of Ma'rûf";
+						break;
 				}
 
 				// Retain knowledge of the last card we found
