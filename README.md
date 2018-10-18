@@ -1,8 +1,8 @@
 # LegalityListCreator
 
 ************************************************************************
-* Please Note: this code is depcreated and no longer in use. It has been
-* superceded by rotation_script.py in the Penny-Dreadful-Tools repo.
+Please Note: this code is depcreated and no longer in use. It has been
+superceded by rotation_script.py in the Penny-Dreadful-Tools repo.
 ************************************************************************
 
 The code used to create the list of cards legal in Penny Dreadful (PD).
