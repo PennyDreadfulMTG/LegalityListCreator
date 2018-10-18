@@ -1,7 +1,7 @@
 # LegalityListCreator
 
 ************************************************************************
-Please Note: this code is depcreated and no longer in use. It has been
+Please Note: this code is deprecated and no longer in use. It has been
 superceded by rotation_script.py in the Penny-Dreadful-Tools repo.
 ************************************************************************
 
